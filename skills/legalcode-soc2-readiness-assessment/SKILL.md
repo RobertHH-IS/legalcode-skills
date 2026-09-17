@@ -4,10 +4,7 @@ description: Assess SOC 2 Type I and Type II readiness across all five AICPA Tru
   Availability, Processing Integrity, Confidentiality, Privacy). Use when a SaaS company, cloud service
   provider, managed service provider, or other service organization needs to determine readiness for a
   SOC 2 audit, identify control gaps, build a remediation roadmap, or understand how SOC 2 maps to ISO
-  27001, NIST CSF, HIPAA, or PCI DSS. Covers all Common Criteria (CC1–CC9), optional TSC criteria (A,
-  PI, C, P series), evidence collection requirements per control, management assertion obligations under
-  AT-C Section 205, subservice organization carve-out vs. inclusive method, and Complementary User Entity
-  Controls (CUECs).
+  27001, NIST CSF, HIPAA, or PCI DSS.
 ---
 
 ## Using this skill

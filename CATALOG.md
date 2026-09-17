@@ -12,11 +12,11 @@ This is a curated publication inventory, not a certification of current legal ac
 
 ### [legalcode-ai-governance-framework-builder](skills/legalcode-ai-governance-framework-builder/SKILL.md)
 
-Builds comprehensive organizational AI governance frameworks aligned with ISO/IEC 42001:2023 (AI Management System) and the NIST AI Risk Management Framework (AI RMF 1.0). Covers governance structure (AI ethics committee, RACI matrix, reporting lines), policy development suite (acceptable use, risk classification, procurement, training data), risk management lifecycle (MAP, MEASURE, MANAGE, GOVERN functions), risk-tiered use case approval workflows, model lifecycle management (development, testing, deployment, monitoring, retirement), vendor and third-party AI assessment criteria, AI incident response procedures, and ongoing monitoring and audit programs.
+Builds comprehensive organizational AI governance frameworks aligned with ISO/IEC 42001:2023 (AI Management System) and the NIST AI Risk Management Framework (AI RMF 1.0). Use when an organization needs to establish, audit, or mature its AI governance posture; prepare for ISO 42001 certification; align with NIST AI RMF; satisfy EU AI Act deployer obligations; respond to board or investor AI governance inquiries; or produce a customizable AI governance documentation suite with an implementation roadmap.
 
 ### [legalcode-ai-provisions-reviewer](skills/legalcode-ai-provisions-reviewer/SKILL.md)
 
-Reviews contracts for AI-specific provisions: IP ownership of AI-generated outputs, AI usage restrictions and acceptable-use policies, training data rights (inputs/outputs as training material), liability allocation for AI errors and hallucinations, transparency and explainability requirements, algorithmic audit rights, bias monitoring and disparate impact obligations, human oversight and human-in-the-loop requirements, AI governance and responsible-AI clauses, and missing AI governance terms. Flags contracts that lack adequate AI safeguards, identifies one-sided AI risk transfers, generates redlines, and produces a confidence-scored, auditable AI governance analysis.
+Reviews contracts for AI-specific provisions: IP ownership of AI-generated outputs, AI usage restrictions and acceptable-use policies, training data rights (inputs/outputs as training material), liability allocation for AI errors and hallucinations, transparency and explainability requirements, algorithmic audit rights, bias monitoring and disparate impact obligations, human oversight and human-in-the-loop requirements, AI governance and responsible-AI clauses, and missing AI governance terms. Use when reviewing SaaS agreements, professional services contracts, technology licenses, vendor contracts, employment agreements, or any commercial contract where either party uses, deploys, procures, or integrates AI systems.
 
 ### [legalcode-aml-kyc-compliance](skills/legalcode-aml-kyc-compliance/SKILL.md)
 
@@ -32,7 +32,7 @@ Codex orchestration skill for designing or running a case timeline over one or m
 
 ### [legalcode-cloud-service-agreement-review](skills/legalcode-cloud-service-agreement-review/SKILL.md)
 
-Review cloud and hosted-service agreements (CSA, cloud MSA, SaaS agreement, cloud subscription agreement, cloud order form) — flag deviations, generate confidence-scored redlines, and produce an auditable analysis. Covers service description and scope, SLAs and uptime credits, security commitments, data processing (GDPR Art. 28 / DPA overlay), sub-processors, audit rights, customer data ownership, provider AI training rights, limitation of liability (including data breach super-caps), indemnification, business continuity and DR, exit assistance and data portability (EU Data Act 2023), regulatory compliance allocation (DORA, HIPAA BAA, PCI DSS, FedRAMP), unilateral modification rights, and term and termination. Jurisdiction-agnostic with [JURISDICTION-SPECIFIC] markers. Native Legalcode replacement for imported cloud-service agreement packs.
+Review cloud and hosted-service agreements (CSA, cloud MSA, SaaS agreement, cloud subscription agreement, cloud order form) — flag deviations, generate confidence-scored redlines, and produce an auditable analysis. Use when reviewing cloud provider terms, AWS/Azure/GCP order forms, SaaS enterprise agreements, managed-hosting contracts, IaaS/PaaS/SaaS agreements, or any contract where a customer is consuming computing, storage, or software as a service.
 
 ### [legalcode-contract-comparison](skills/legalcode-contract-comparison/SKILL.md)
 
@@ -56,15 +56,15 @@ Assess the lawfulness of international personal data transfers under GDPR Chapte
 
 ### [legalcode-data-processing-agreement-drafter](skills/legalcode-data-processing-agreement-drafter/SKILL.md)
 
-Draft Data Processing Agreements (DPAs) from scratch for controller-to-processor, controller-to-controller (joint), and processor-to-sub-processor relationships. Produces GDPR Article 28-compliant, UK GDPR, CCPA/CPRA service provider, Brazil LGPD, and India DPDP Act-aligned DPA clauses and full agreements with jurisdiction-specific annexes. Covers subject matter and duration, processing instructions and scope limitations, data categories and data subject types, controller/processor obligations, sub-processor management and notification mechanisms, technical and organizational security measures (TOMs), data breach notification SLAs, data subject rights assistance, DPIA and prior consultation support, international data transfer mechanisms (EU SCCs 2021, UK IDTA, adequacy decisions, BCRs), audit and inspection rights, data return and deletion on termination, and liability allocation.
+Draft Data Processing Agreements (DPAs) from scratch for controller-to-processor, controller-to-controller (joint), and processor-to-sub-processor relationships. Use when creating a new DPA from scratch, generating a DPA template for a vendor program, building sub-processor flow-down agreements, adding a DPA addendum to a master services agreement, drafting multi-jurisdiction DPAs for SaaS platforms, or designing a DPA program across multiple processing relationships and regimes.
 
 ### [legalcode-document-qa](skills/legalcode-document-qa/SKILL.md)
 
-Run a comprehensive quality assurance audit on any legal document — contract, agreement, deed, policy, or court filing — to detect drafting errors before execution or filing.
+Run a comprehensive quality assurance audit on any legal document — contract, agreement, deed, policy, or court filing — to detect drafting errors before execution or filing. Use when proofreading a contract before execution, auditing a template for quality, reviewing a redlined draft, or preparing a document for filing.
 
 ### [legalcode-dora-compliance-assessment](skills/legalcode-dora-compliance-assessment/SKILL.md)
 
-Assesses EU DORA (Digital Operational Resilience Act, Regulation (EU) 2022/2554) compliance for financial entities covering all five DORA pillars: ICT risk management framework (Chapter II, Articles 5–16); ICT-related incident classification and reporting (Chapter III, Articles 17–23); digital operational resilience testing including Threat-Led Penetration Testing — TLPT (Chapter IV, Articles 24–27); third-party ICT risk management including critical ICT third-party service providers — CTPPs (Chapter V, Articles 28–44); and information sharing arrangements (Chapter VI, Article 45). Maps DORA to NIS2 Directive lex specialis, GDPR Article 32, EBA guidelines, and all 27 finalized regulatory and implementing technical standards (RTS/ITS).
+Assesses EU DORA (Digital Operational Resilience Act, Regulation (EU) 2022/2554) compliance for financial entities covering all five DORA pillars: ICT risk management framework (Chapter II, Articles 5–16); ICT-related incident classification and reporting (Chapter III, Articles 17–23); digital operational resilience testing including Threat-Led Penetration Testing — TLPT (Chapter IV, Articles 24–27); third-party ICT risk management including critical ICT third-party service providers — CTPPs (Chapter V, Articles 28–44); and information sharing arrangements (Chapter VI, Article 45). Use when a financial entity needs to assess DORA compliance posture, prepare for supervisory examination, build a DORA gap remediation roadmap, design incident classification and reporting procedures, prepare TLPT programs, audit third-party ICT contracts for Article 30 mandatory provisions, or build information sharing arrangements.
 
 ### [legalcode-dpia-generator](skills/legalcode-dpia-generator/SKILL.md)
 
@@ -84,15 +84,15 @@ EU AI Act (Regulation 2024/1689) high-risk AI system compliance assessment cover
 
 ### [legalcode-eu-directive-analyzer](skills/legalcode-eu-directive-analyzer/SKILL.md)
 
-Extracts a versioned, machine-readable obligation register from any EU directive identified by CELEX or supplied as text. The register is the foundation artefact consumed by every other skill in the seven-skill EU Legislative Compliance suite: the per-Member-State implementation matrix, the Commission-format correlation table, the per-article conformity verdict, the gold-plating detector, the EEA Joint Committee Decision tracker, and the TFEU 258/260 infringement procedure tracker.
+Extracts a versioned, machine-readable obligation register from any EU directive identified by CELEX or supplied as text.
 
 ### [legalcode-gdpr-legal-basis-assessment](skills/legalcode-gdpr-legal-basis-assessment/SKILL.md)
 
-Systematically assess the appropriate GDPR Article 6 lawful basis for any processing activity — covering consent (Art. 6(1)(a)), contract performance (Art. 6(1)(b)), legal obligation (Art. 6(1)(c)), vital interests (Art. 6(1)(d)), public task (Art. 6(1)(e)), and legitimate interests (Art. 6(1)(f)). Use when selecting a legal basis for new processing, auditing an existing legal basis for GDPR/UK GDPR compliance, refreshing invalidated consent, evaluating basis changes, or building a legal basis register integrated with ROPA requirements. Covers Article 9 special category processing conditions, Article 10 criminal conviction and offence data, and children's data under Article 8.
+Systematically assess the appropriate GDPR Article 6 lawful basis for any processing activity — covering consent (Art. 6(1)(a)), contract performance (Art. 6(1)(b)), legal obligation (Art. 6(1)(c)), vital interests (Art. 6(1)(d)), public task (Art. 6(1)(e)), and legitimate interests (Art. 6(1)(f)). Use when selecting a legal basis for new processing, auditing an existing legal basis for GDPR/UK GDPR compliance, refreshing invalidated consent, evaluating basis changes, or building a legal basis register integrated with ROPA requirements.
 
 ### [legalcode-indemnification-analysis](skills/legalcode-indemnification-analysis/SKILL.md)
 
-Deep analysis of indemnification provisions across commercial contract types — review indemnification scope (first-party vs. third-party claims), caps and baskets (deductible basket vs. tipping basket, mini-basket thresholds), materiality qualifiers and scrapes, defense and control-of-claim mechanics (duty to defend, right to control defense, right to settle, cooperation obligations, Cumis counsel in US), survival periods by claim type, and interaction with limitation of liability provisions. Evaluates indemnification exposure across IP infringement, confidentiality breach, data protection violations, and regulatory claims. Compares against market standards by contract type (SaaS, M&A, professional services, construction).
+Deep analysis of indemnification provisions across commercial contract types — review indemnification scope (first-party vs. third-party claims), caps and baskets (deductible basket vs. tipping basket, mini-basket thresholds), materiality qualifiers and scrapes, defense and control-of-claim mechanics (duty to defend, right to control defense, right to settle, cooperation obligations, Cumis counsel in US), survival periods by claim type, and interaction with limitation of liability provisions. Use when reviewing or drafting indemnification provisions in any commercial agreement, when assessing indemnification exposure from a counterparty's draft, when negotiating IP or data breach indemnification obligations, or when structuring M&A indemnification baskets and caps.
 
 ### [legalcode-legal-memorandum](skills/legalcode-legal-memorandum/SKILL.md)
 
@@ -100,7 +100,7 @@ Draft objective IRAC/CREAC-structured legal research memoranda with balanced ris
 
 ### [legalcode-limitation-of-liability-review](skills/legalcode-limitation-of-liability-review/SKILL.md)
 
-Deep analysis of limitation of liability clauses across contract types — review and classify liability caps (aggregate, per-incident, per-claim), excluded damages (consequential, indirect, special, incidental, punitive), carve-outs and super-caps (IP indemnity, confidentiality breach, data breach, willful misconduct, gross negligence, death and personal injury), sole-remedy clauses, and fundamental breach enforceability. Evaluates cap adequacy relative to deal value and risk profile. Compares against market standards for SaaS, professional services, licensing, and procurement agreements. Use when reviewing any commercial agreement with limitation of liability language, when a counterparty proposes aggressive cap levels or broad exclusions, when assessing whether a vendor's LOL clause creates unacceptable risk exposure, or when drafting LOL provisions for any contract type.
+Deep analysis of limitation of liability clauses across contract types — review and classify liability caps (aggregate, per-incident, per-claim), excluded damages (consequential, indirect, special, incidental, punitive), carve-outs and super-caps (IP indemnity, confidentiality breach, data breach, willful misconduct, gross negligence, death and personal injury), sole-remedy clauses, and fundamental breach enforceability. Use when reviewing any commercial agreement with limitation of liability language, when a counterparty proposes aggressive cap levels or broad exclusions, when assessing whether a vendor's LOL clause creates unacceptable risk exposure, or when drafting LOL provisions for any contract type.
 
 ### [legalcode-master-services-agreement](skills/legalcode-master-services-agreement/SKILL.md)
 
@@ -124,7 +124,7 @@ Extract, normalize, prioritize, and monitor post-signature contract obligations 
 
 ### [legalcode-policy-gap-analysis](skills/legalcode-policy-gap-analysis/SKILL.md)
 
-Compares organizational policies and procedures against applicable regulatory requirements, industry standards, and best practices to identify gaps, conflicts, and areas requiring update. Builds a complete policy inventory; maps required policies across privacy (GDPR Arts. 5/24/32/33/35, CCPA/CPRA, LGPD, DPDP Act 2023, PIPL), cybersecurity (NIS2 Directive 2022/2555 Art. 21, ISO 27001:2022, NIST CSF 2.0, HIPAA Security Rule 45 C.F.R.
+Compares organizational policies and procedures against applicable regulatory requirements, industry standards, and best practices to identify gaps, conflicts, and areas requiring update.
 
 ### [legalcode-privacy-policy-drafter](skills/legalcode-privacy-policy-drafter/SKILL.md)
 
@@ -152,15 +152,15 @@ Draft and review SaaS/cloud service agreements from both vendor and customer per
 
 ### [legalcode-safe-review](skills/legalcode-safe-review/SKILL.md)
 
-Review YC post-money SAFEs (Simple Agreements for Future Equity) clause-by-clause for founders, investors, and counsel — covering valuation cap mechanics and Company Capitalization denominator, discount rate analysis, MFN clause triggering and scope, pro rata rights (in-form and side letter), conversion mechanics across all trigger events (equity financing, liquidity event, dissolution), amendment and majority-in-interest provisions, and non-standard modifications. Benchmarks every material term against the current YC post-money templates (v1.1/v1.2, February 2023 update) and market data (Carta Q3 2024). Classifies deviations as STANDARD / FLAG / RED FLAG with dual-perspective framing (founder view and investor view). Models ownership percentage at conversion. Identifies template drift (modifications beyond blank-filling).
+Review YC post-money SAFEs (Simple Agreements for Future Equity) clause-by-clause for founders, investors, and counsel — covering valuation cap mechanics and Company Capitalization denominator, discount rate analysis, MFN clause triggering and scope, pro rata rights (in-form and side letter), conversion mechanics across all trigger events (equity financing, liquidity event, dissolution), amendment and majority-in-interest provisions, and non-standard modifications. Use when reviewing, negotiating, or advising on a YC-form SAFE, any SAFE variant, uncapped MFN SAFE, discount-only SAFE, or post-money SAFE side letter at pre-seed, seed, or bridge stage.
 
 ### [legalcode-sanctions-export-control-screening](skills/legalcode-sanctions-export-control-screening/SKILL.md)
 
-Screen transactions, counterparties, and exports against major international sanctions and export control regimes: OFAC SDN and Consolidated Sanctions Lists (all programs), EU Consolidated Sanctions List, UK OFSI Consolidated List, UN Security Council consolidated lists, BIS Entity/Denied Persons/Unverified/MEU Lists, and DDTC Debarred Parties. Applies the OFAC 50% Rule (SDN-owned beneficial owners), secondary sanctions analysis under CAATSA Sections 228/231/232/233 and CISADA, and Sectoral Sanctions Identifications (SSI) Directive 1-4 analysis for Russia. Covers EAR export classification (ECCN and EAR99), Commerce Control List (CCL) mapping, license exception analysis (STA, ENC, LVS, TMP, TSU, RPL, GOV, and others), Foreign Direct Product Rule (FDPR), Military End-Use Rule (15 C.F.R. § 744.21), and deemed export analysis.
+Screen transactions, counterparties, and exports against major international sanctions and export control regimes: OFAC SDN and Consolidated Sanctions Lists (all programs), EU Consolidated Sanctions List, UK OFSI Consolidated List, UN Security Council consolidated lists, BIS Entity/Denied Persons/Unverified/MEU Lists, and DDTC Debarred Parties. Use when screening a transaction before it proceeds, onboarding a counterparty, classifying an export, evaluating secondary sanctions exposure, preparing a due diligence report, or responding to a potential violation.
 
 ### [legalcode-services-agreement-drafter](skills/legalcode-services-agreement-drafter/SKILL.md)
 
-Draft and review standalone commercial services agreements for defined-scope engagements — fixed-price projects, time-and-materials assignments, milestone-based delivery, and hybrid fee structures. Covers scope of work and deliverable specification, change control, fees and payment (including acceptance testing, disputed invoices, and audit rights), intellectual property ownership and licensing (background/foreground IP, assignment formalities, license-back, moral rights), professional and fitness-for-purpose warranties, limitation of liability, indemnification (IP, data breach, gross negligence), data protection obligations, subcontracting controls, termination (cause, convenience, insolvency), and transition/wind-down assistance.
+Draft and review standalone commercial services agreements for defined-scope engagements — fixed-price projects, time-and-materials assignments, milestone-based delivery, and hybrid fee structures. Use when drafting or reviewing a single-document services agreement for a specific project or discrete engagement — as distinct from a two-tier Master Services Agreement / Statement of Work framework.
 
 ### [legalcode-startup-formation](skills/legalcode-startup-formation/SKILL.md)
 
@@ -168,7 +168,7 @@ Generates complete Delaware C-Corporation formation packages for founders and co
 
 ### [legalcode-statute-analysis](skills/legalcode-statute-analysis/SKILL.md)
 
-Analyze statutes, acts, and regulations section by section — deconstruct structure, parse definitions, classify operative verbs, map exceptions and conditions, assess penalty tiers, determine authority boundaries, flag interpretive ambiguities, and identify implementation consequences. Use when a lawyer, compliance officer, policy analyst, or legal researcher needs to understand what a statute actually says and requires — as distinct from verifying that a citation is in-force (use legalcode-legislation-verification for that). Covers primary legislation, delegated legislation (statutory instruments, regulations, ordinances, executive orders, decrees), and secondary regulatory frameworks. Jurisdiction-agnostic with [JURISDICTION-SPECIFIC] markers; supports common law and civil law systems.
+Analyze statutes, acts, and regulations section by section — deconstruct structure, parse definitions, classify operative verbs, map exceptions and conditions, assess penalty tiers, determine authority boundaries, flag interpretive ambiguities, and identify implementation consequences. Use when a lawyer, compliance officer, policy analyst, or legal researcher needs to understand what a statute actually says and requires — as distinct from verifying that a citation is in-force (use legalcode-legislation-verification for that).
 
 ### [legalcode-tabular-review](skills/legalcode-tabular-review/SKILL.md)
 
@@ -180,7 +180,7 @@ Orchestrate citation-backed tabular review over one or more local folders by tur
 
 ### [legalcode-term-sheet-analysis](skills/legalcode-term-sheet-analysis/SKILL.md)
 
-Deep analysis of venture capital term sheets across three dimensions: economics (pre/post-money valuation, option pool dilution, liquidation preference multiples and participation mechanics, pay-to-play provisions, anti-dilution weighted-average vs. full-ratchet), control (board composition, protective provisions and veto rights, drag-along/tag-along, information rights, registration rights), and other terms (founder vesting and acceleration, ESOP allocation, exclusivity, no-shop, conditions precedent). Evaluates each term against market benchmarks by stage (seed, Series A–D) and identifies investor-favorable vs. founder-favorable deviations. Models cap table dilution and founder economics across multiple exit scenarios.
+Deep analysis of venture capital term sheets across three dimensions: economics (pre/post-money valuation, option pool dilution, liquidation preference multiples and participation mechanics, pay-to-play provisions, anti-dilution weighted-average vs. full-ratchet), control (board composition, protective provisions and veto rights, drag-along/tag-along, information rights, registration rights), and other terms (founder vesting and acceleration, ESOP allocation, exclusivity, no-shop, conditions precedent). Use when reviewing VC term sheets for founders, legal counsel, or investors in US, UK, or Indian jurisdictions.
 
 ### [legalcode-terms-of-service-drafter](skills/legalcode-terms-of-service-drafter/SKILL.md)
 
@@ -188,7 +188,7 @@ Draft and review Terms of Service agreements for SaaS, web, and mobile platforms
 
 ### [legalcode-third-party-due-diligence](skills/legalcode-third-party-due-diligence/SKILL.md)
 
-Conduct anti-corruption due diligence on agents, distributors, joint venture partners, consultants, and other third-party intermediaries. Covers risk tiering, red flag analysis, due diligence questionnaire (DDQ) design, sanctions and debarment screening, contractual anti-corruption provisions, and ongoing monitoring. Aligns with DOJ FCPA guidance and DOJ Guidelines for Evaluation of Corporate Compliance Programs, UK Bribery Act 2010 Section 7 "adequate procedures" and Ministry of Justice six principles, OECD Good Practice Guidance on Internal Controls Ethics and Compliance, and World Bank / multilateral development bank debarment framework.
+Conduct anti-corruption due diligence on agents, distributors, joint venture partners, consultants, and other third-party intermediaries. Use when onboarding a new agent, distributor, or JV partner in a high-risk jurisdiction; when reviewing the adequacy of an existing third-party compliance program; when designing or improving a third-party risk management (TPRM) workflow; when preparing for DOJ/SEC FCPA inquiry or UK SFO investigation; or when a specific third party has raised red flags.
 
 ### [legalcode-vendor-privacy-assessment](skills/legalcode-vendor-privacy-assessment/SKILL.md)
 
@@ -214,7 +214,7 @@ Execute a knowledge work plan efficiently while maintaining quality, with deep l
 
 ### [legalcode-consumer-lending-compliance](skills/legalcode-consumer-lending-compliance/SKILL.md)
 
-Assess consumer lending programs and loan portfolios for regulatory compliance across the US, UK, and EU. Covers Truth in Lending Act (TILA) / Regulation Z (APR disclosure, ATR/QM rule, HOEPA, TRID), Equal Credit Opportunity Act (ECOA) / Regulation B (adverse action notices, anti-discrimination), Fair Lending (Fair Housing Act, disparate treatment, disparate impact, HMDA), Real Estate Settlement Procedures Act (RESPA) (Section 8 kickback prohibitions, mortgage servicing), state usury laws and rate caps (MLA 36% MAPR, SCRA 6%, NBA preemption), CFPB UDAAP, UK FCA Consumer Credit sourcebook (CONC), Consumer Credit Act 1974 (CCA 1974), FCA Consumer Duty (PS22/9), high-cost short-term credit (HCSTC) price cap, EU Consumer Credit Directive (CCD1 / CCD2 — application November 2026), Mortgage Credit Directive (MCD), and GDPR Article 22 automated credit decisions.
+Assess consumer lending programs and loan portfolios for regulatory compliance across the US, UK, and EU.
 
 ### [legalcode-fintech-regulatory-assessment](skills/legalcode-fintech-regulatory-assessment/SKILL.md)
 
@@ -222,21 +222,21 @@ Assess fintech regulatory compliance across four major jurisdictions — US, UK,
 
 ### [legalcode-security-collateral-review](skills/legalcode-security-collateral-review/SKILL.md)
 
-Review security interest packages and collateral documentation across US, UK, and EU jurisdictions. Covers UCC Article 9 (attachment, perfection by filing/control/possession, priority rules, PMSI super-priority, fixture filings, continuation statements, 2022 digital asset amendments), deposit account control agreements (DACAs), investment property control, IP security interests (copyright §205 Copyright Office recordation, patent/trademark UCC vs. federal preemption circuit split), UK fixed and floating charges (Companies Act 2006 ss.859A-859Q registration, Re Spectrum Plus [2005] UKHL 41 fixed/floating test, crystallization), UK financial collateral (FCARs 2003), all-asset debentures, real property mortgages and deeds of trust (recording, SNDAs, Garn-St.
+Review security interest packages and collateral documentation across US, UK, and EU jurisdictions.
 
 ## General / Compliance (38)
 
 ### [legalcode-accessibility-compliance](skills/legalcode-accessibility-compliance/SKILL.md)
 
-Assesses digital and physical accessibility compliance for websites, mobile apps, software, and built environments under the Americans with Disabilities Act Title III (42 U.S.C. §12181 et seq.), ADA Title II DOJ Final Rule (April 2024 WCAG 2.1 AA mandate), Section 508 of the Rehabilitation Act (29 U.S.C. §794d), WCAG 2.1 and WCAG 2.2 (Level A/AA/AAA), and the EU European Accessibility Act 2025 (Directive 2019/882 / EN 301 549). Covers website and mobile app technical audits, VPAT/ACR documentation, reasonable accommodation analysis, architectural barrier assessment under the ADA 2010 Standards for Accessible Design, and remediation planning with IMMEDIATE/NEAR-TERM/BACKGROUND prioritization.
+Assesses digital and physical accessibility compliance for websites, mobile apps, software, and built environments under the Americans with Disabilities Act Title III (42 U.S.C. §12181 et seq.), ADA Title II DOJ Final Rule (April 2024 WCAG 2.1 AA mandate), Section 508 of the Rehabilitation Act (29 U.S.C. §794d), WCAG 2.1 and WCAG 2.2 (Level A/AA/AAA), and the EU European Accessibility Act 2025 (Directive 2019/882 / EN 301 549). Use when assessing a website, app, digital product, or physical premises for accessibility compliance; preparing a VPAT (Voluntary Product Accessibility Template) or ACR (Accessibility Conformance Report); responding to a demand letter or DOJ complaint; meeting EU EAA June 2025 deadline obligations; conducting Section 508 federal procurement assessment; or building an accessibility remediation roadmap.
 
 ### [legalcode-ai-acceptable-use-policy](skills/legalcode-ai-acceptable-use-policy/SKILL.md)
 
-Drafts or reviews an organization's AI Acceptable Use Policy (AUP) — governing which AI tools employees may use, under what conditions, and with what safeguards. Covers permitted and prohibited AI uses, data handling restrictions (confidential information, PII/PHI, privileged communications), employee disclosure obligations for AI-generated content, intellectual property considerations for AI-generated work product, ethical walls between AI-assisted and human-only processes, security requirements for AI tool access, training and certification obligations, incident reporting for AI errors and bias, accountability and oversight requirements, and vendor-specific guidance for ChatGPT/OpenAI, Claude/Anthropic, Microsoft Copilot, and Google Gemini.
+Drafts or reviews an organization's AI Acceptable Use Policy (AUP) — governing which AI tools employees may use, under what conditions, and with what safeguards. Use when establishing AI governance foundations, conducting gap analysis against EU AI Act Art. 4 (AI literacy), ISO 42001, NIST AI RMF, or sector-specific requirements (HIPAA, FINRA, legal professional ethics rules), or updating existing policies for evolving AI tool landscapes.
 
 ### [legalcode-ai-fundamental-rights-impact-assessment](skills/legalcode-ai-fundamental-rights-impact-assessment/SKILL.md)
 
-Conduct Fundamental Rights Impact Assessments (FRIA) as required under EU AI Act Art. 27 (Regulation 2024/1689) for deployers of high-risk AI systems. Applies to public authorities deploying any Annex III system (excluding Point 2 critical infrastructure), private entities providing public services (education, healthcare, social services, housing, justice), and financial sector deployers of creditworthiness or insurance-pricing AI. Assesses impact across the full EU Charter of Fundamental Rights: human dignity (Art. 1), privacy and data protection (Arts. 7-8), freedom of expression (Art. 11), equality and non-discrimination (Art. 21), rights of the child (Art. 24), rights of the elderly (Art. 25), persons with disabilities (Art. 26), right to good administration (Art. 41), and right to an effective remedy (Art. 47).
+Conduct Fundamental Rights Impact Assessments (FRIA) as required under EU AI Act Art. 27 (Regulation 2024/1689) for deployers of high-risk AI systems. Use when a covered deployer must produce a FRIA before first deployment of a high-risk AI system; when performing a pre-deployment rights review of an Annex III AI system; when integrating a FRIA with an existing DPIA; when responding to a market surveillance authority request for FRIA documentation; or when building an organisational FRIA programme.
 
 ### [legalcode-ai-in-employment-compliance](skills/legalcode-ai-in-employment-compliance/SKILL.md)
 
@@ -244,7 +244,7 @@ Assess and remediate compliance with laws governing AI and automated decision-ma
 
 ### [legalcode-anti-bribery-compliance](skills/legalcode-anti-bribery-compliance/SKILL.md)
 
-Assess, build, or remediate an organization's anti-bribery and anti-corruption (ABAC) compliance program against the major international regimes: US Foreign Corrupt Practices Act (FCPA) anti-bribery provisions, books-and-records, and internal controls requirements; UK Bribery Act 2010 including the Section 7 corporate offence and adequate procedures defense; France Sapin II (Law No. 2016-1691) mandatory compliance program obligations and Agence Française Anticorruption (AFA) guidelines; and Brazil Clean Company Act (Lei 12.846/2013).
+Assess, build, or remediate an organization's anti-bribery and anti-corruption (ABAC) compliance program against the major international regimes: US Foreign Corrupt Practices Act (FCPA) anti-bribery provisions, books-and-records, and internal controls requirements; UK Bribery Act 2010 including the Section 7 corporate offence and adequate procedures defense; France Sapin II (Law No. 2016-1691) mandatory compliance program obligations and Agence Française Anticorruption (AFA) guidelines; and Brazil Clean Company Act (Lei 12.846/2013). Use when reviewing an existing ABAC program for gaps, building a new program from scratch, preparing for regulatory examination or enforcement response, conducting third-party due diligence, drafting or reviewing gifts-and-entertainment policies, designing government-official interaction protocols, or evaluating a specific transaction or red flag for corruption risk.
 
 ### [legalcode-antitrust-merger-review](skills/legalcode-antitrust-merger-review/SKILL.md)
 
@@ -252,7 +252,7 @@ Analyzes pre-merger notification obligations and merger control strategy for tra
 
 ### [legalcode-biometric-data-compliance](skills/legalcode-biometric-data-compliance/SKILL.md)
 
-Assess biometric data privacy compliance across Illinois BIPA (740 ILCS 14), Texas CUBI (Tex. Bus. & Com. Code § 503.001), Washington My Health MY Data Act (HB 1155, 2024), California CCPA/CPRA sensitive PI framework, Colorado CPA (HB 24-1130, effective July 1, 2025), GDPR Article 9 special category processing, UK GDPR, and emerging US state laws (New York S1422 proposed, Massachusetts, Virginia, Connecticut biometric provisions). Covers: consent and written release requirements, written biometric data policy and retention/destruction schedules, sale and profit prohibitions, third-party disclosure controls, vendor/processor contractual obligations, individual rights response procedures, DPIA requirements for GDPR high-risk processing, FTC risk assessment standards, incident response obligations, and penalty exposure modeling.
+Assess biometric data privacy compliance across Illinois BIPA (740 ILCS 14), Texas CUBI (Tex. Use when auditing employer biometric timekeeping or access control programs, reviewing retail facial recognition deployments, assessing consumer device biometric authentication, evaluating healthcare or financial services biometric verification, analyzing vendor/processor contracts for biometric data, preparing for regulatory inquiry or class action exposure, or designing a biometric privacy program from scratch.
 
 ### [legalcode-breach-affected-party-communication](skills/legalcode-breach-affected-party-communication/SKILL.md)
 
@@ -268,11 +268,11 @@ Build comprehensive corporate compliance programs aligned with DOJ Evaluation of
 
 ### [legalcode-consent-mechanism-review](skills/legalcode-consent-mechanism-review/SKILL.md)
 
-Reviews consent collection mechanisms for validity under GDPR Article 7, EDPB Guidelines 05/2020 on consent, and EDPB Guidelines 03/2022 on deceptive design patterns. Detects dark patterns including pre-ticked boxes (Planet49), bundled consent, cookie walls, forced consent, asymmetric button design, confirmshaming, withdrawal obstruction, and consent fatigue tactics. Evaluates all four validity conditions — freely given, specific, informed, and unambiguous — plus withdrawal parity (Article 7(3)) and proof burden (Article 7(1)). Covers consent granularity (purpose-by-purpose), children's consent under Article 8 with national age thresholds, explicit consent for Article 9 special categories, power-imbalance contexts (employment, public authorities, large platforms), and consent refresh triggers.
+Reviews consent collection mechanisms for validity under GDPR Article 7, EDPB Guidelines 05/2020 on consent, and EDPB Guidelines 03/2022 on deceptive design patterns. Use when auditing cookie banners, consent management platforms, account sign-up flows, app permission requests, or any consent mechanism before DPA review, product launch, or following enforcement enquiry.
 
 ### [legalcode-coppa-compliance-assessment](skills/legalcode-coppa-compliance-assessment/SKILL.md)
 
-COPPA compliance assessment for operators of websites and online services directed to children or with actual knowledge of child users. Covers the Children's Online Privacy Protection Act (15 U.S.C. §§ 6501–6506) and the FTC's COPPA Rule (16 C.F.R. Part 312), including the 2025 amendments (effective June 23, 2025; compliance deadline April 22, 2026). Assesses all five operator obligation domains: (1) privacy notice requirements including new retention disclosure mandate; (2) direct notice to parents; (3) verifiable parental consent (VPC) including all 10 approved methods and new separate consent for third-party sharing, targeted advertising, and AI training; (4) parental access and deletion rights; and (5) children's data security including the new written information security program requirement.
+COPPA compliance assessment for operators of websites and online services directed to children or with actual knowledge of child users. Use when a website operator, app developer, EdTech platform, gaming company, streaming service, or AdTech provider needs to determine COPPA compliance posture, prepare for FTC inquiry, assess a product or feature for child- audience risk, build a COPPA compliance program from scratch, respond to a parental complaint, or evaluate compliance with the 2025 amendments ahead of the April 2026 deadline.
 
 ### [legalcode-corporate-governance-audit](skills/legalcode-corporate-governance-audit/SKILL.md)
 
@@ -280,15 +280,15 @@ Audit corporate governance frameworks against US SOX Sections 302 and 404, UK Co
 
 ### [legalcode-data-mapping-workflow](skills/legalcode-data-mapping-workflow/SKILL.md)
 
-Conduct end-to-end data mapping exercises to build Records of Processing Activities (RoPA) compliant with GDPR Article 30, CCPA/CPRA, LGPD, PIPEDA, and APPI. Use when creating or refreshing a privacy data inventory, onboarding a new DPO, preparing for a DPIA, responding to a regulator inquiry, conducting a vendor privacy audit, or building breach-response readiness. Covers data inventory methodology (interviews, automated scanning, questionnaires), system-by-system data flow documentation, classification of personal data categories and special categories (GDPR Art. 9), legal basis mapping per processing activity, retention schedule alignment, third-party sharing and cross-border transfer identification, and completeness scoring. Produces machine-readable data maps (structured tables + YAML/JSON hooks) suitable for OneTrust, TrustArc, Privaci, and other privacy management platforms.
+Conduct end-to-end data mapping exercises to build Records of Processing Activities (RoPA) compliant with GDPR Article 30, CCPA/CPRA, LGPD, PIPEDA, and APPI. Use when creating or refreshing a privacy data inventory, onboarding a new DPO, preparing for a DPIA, responding to a regulator inquiry, conducting a vendor privacy audit, or building breach-response readiness.
 
 ### [legalcode-dpa-review-and-negotiation](skills/legalcode-dpa-review-and-negotiation/SKILL.md)
 
-Review and negotiate Data Processing Agreements (DPAs) clause-by-clause against GDPR Article 28 mandatory requirements, UK GDPR equivalents, CCPA/CPRA service provider contract provisions, and LGPD operator obligations. Covers subject matter and duration, nature and purpose of processing, data categories and data subject types, controller instructions mechanism, confidentiality of personnel, sub-processor controls (specific and general authorization), security obligations (Art. 32 / technical and organizational measures), data subject rights assistance, DPIA and prior-consultation support, breach notification requirements, audit rights, data return and deletion on termination, and international transfer mechanisms (EU SCCs, UK IDTA, adequacy decisions). GREEN/YELLOW/RED classification with confidence scores, redline suggestions, fallback positions, and negotiation priority tiers.
+Review and negotiate Data Processing Agreements (DPAs) clause-by-clause against GDPR Article 28 mandatory requirements, UK GDPR equivalents, CCPA/CPRA service provider contract provisions, and LGPD operator obligations. Use when reviewing a DPA or data processing addendum from a vendor, SaaS provider, or sub-processor; when drafting or negotiating DPA terms as a controller, processor, or sub-processor; when auditing existing DPAs for compliance gaps; or when building a DPA review program across multiple regimes.
 
 ### [legalcode-eea-incorporation-tracker](skills/legalcode-eea-incorporation-tracker/SKILL.md)
 
-Tracks the European Economic Area (EEA) Joint Committee Decision (JCD) process for incorporating EU acts into the EEA Agreement so that they apply in Iceland, Norway, and Liechtenstein on the EFTA pillar. Operates against the EEA Agreement's two-pillar architecture (Art. 7 EEA on incorporation; Art. 102 EEA on the JCD procedure with its six-month timeline and "serious difficulty" clause; Art. 103 EEA on constitutional reservations and the suspension of entry into force pending parliamentary approval), the Surveillance and Court Agreement (Art. 31 SCA mandating ESA monitoring; Art. 32 SCA on referral to the EFTA Court — the EFTA-pillar mirror of TFEU Art. 258), and the homogeneity principle that drives the EFTA Court to track CJEU jurisprudence.
+Tracks the European Economic Area (EEA) Joint Committee Decision (JCD) process for incorporating EU acts into the EEA Agreement so that they apply in Iceland, Norway, and Liechtenstein on the EFTA pillar.
 
 ### [legalcode-employee-handbook-review](skills/legalcode-employee-handbook-review/SKILL.md)
 
@@ -300,23 +300,23 @@ Reviews environmental compliance obligations across US, EU, and UK regulatory fr
 
 ### [legalcode-eu-conformity-assessment](skills/legalcode-eu-conformity-assessment/SKILL.md)
 
-Runs the substantive, per-provision conformity assessment of a Member State's National Implementing Measures (NIM) against the operative obligations of an EU directive. For each obligation extracted by `legalcode-eu-directive-analyzer` and mapped by `legalcode-eu-correlation-table-builder`, this skill applies the Commission's published methodology — the Better Regulation Toolbox 2023 (Chapter 4: Compliance, Implementation and Preparing Proposals) and the conformity-assessment template used in published Commission tenders such as the ECN+ Directive (Directive (EU) 2019/1, CELEX 32019L0001) tender (Belgian publication reference 765714) — to classify each provision as correctly transposed, partially transposed, incorrectly transposed, or not transposed. Anchors the binding-as-to-result test in Article 288(3) TFEU and the duty of sincere cooperation in Article 4(3) TEU.
+Runs the substantive, per-provision conformity assessment of a Member State's National Implementing Measures (NIM) against the operative obligations of an EU directive.
 
 ### [legalcode-eu-correlation-table-builder](skills/legalcode-eu-correlation-table-builder/SKILL.md)
 
-Generates the Commission-required two-column correlation table that every Member State must submit alongside its transposition notification under Art. 288 TFEU and the Joint Political Declarations of 28 September 2011 (OJ C 369, 17.12.2011, p. 14) and 27 October 2011 (OJ C 369, 17.12.2011, p. 15) on explanatory documents. Maps each operative provision of an EU directive — for example, NIS2 Directive (Directive (EU) 2022/2555, CELEX 32022L2555, OJ L 333, 27.12.2022, p. 80), CSRD Directive (EU) 2022/2464 (CELEX 32022L2464), CSDDD Directive (EU) 2024/1760 (CELEX 32024L1760), or the Whistleblower Protection Directive 2019/1937 — to the corresponding provision(s) in a Member State's National Implementing Measure (NIM).
+Generates the Commission-required two-column correlation table that every Member State must submit alongside its transposition notification under Art. 288 TFEU and the Joint Political Declarations of 28 September 2011 (OJ C 369, 17.12.2011, p. 14) and 27 October 2011 (OJ C 369, 17.12.2011, p. 15) on explanatory documents.
 
 ### [legalcode-eu-gold-plating-detector](skills/legalcode-eu-gold-plating-detector/SKILL.md)
 
-Detects "gold-plating" in a Member State's National Implementing Measure (NIM) for an EU directive — that is, situations where the national text imposes additional scope, requirements, sanctions, or deadlines beyond the EU minimum, fails to use available derogations or opt-outs, or omits review and sunset clauses included in the directive. Operates on the published five-category taxonomy from the Commission High Level Group on Administrative Burden (HLG, 2014 conclusions and recommendations on gold-plating) and from the UK BIS Gold-Plating Review (2013). Anchors burden quantification on the German Nationaler Normenkontrollrat (NKR) cost-opinion methodology and the Standard Cost Model (SCM). Cross-references the Austrian Anti-Gold-Plating-Gesetz 2019 (BGBl.
+Detects "gold-plating" in a Member State's National Implementing Measure (NIM) for an EU directive — that is, situations where the national text imposes additional scope, requirements, sanctions, or deadlines beyond the EU minimum, fails to use available derogations or opt-outs, or omits review and sunset clauses included in the directive.
 
 ### [legalcode-eu-infringement-procedure-tracker](skills/legalcode-eu-infringement-procedure-tracker/SKILL.md)
 
-Tracks the infringement-procedure timeline for a Member State / directive pair under TFEU Art. 258 (letter of formal notice → reasoned opinion → CJEU referral) and TFEU Art. 260 (judgment compliance, second-stage lump-sum and periodic-penalty proceedings, and the post-Lisbon Art. 260(3) first-referral penalty for non-notification of transposition of a legislative directive). Mirrors the procedure for EFTA-pillar EEA States (IS, NO, LI) under the Surveillance and Court Agreement (SCA) Arts. 31–32 before the EFTA Surveillance Authority (ESA) and the EFTA Court.
+Tracks the infringement-procedure timeline for a Member State / directive pair under TFEU Art. 258 (letter of formal notice → reasoned opinion → CJEU referral) and TFEU Art. 260 (judgment compliance, second-stage lump-sum and periodic-penalty proceedings, and the post-Lisbon Art. 260(3) first-referral penalty for non-notification of transposition of a legislative directive).
 
 ### [legalcode-eu-transposition-tracker](skills/legalcode-eu-transposition-tracker/SKILL.md)
 
-Maintains the per-Member-State implementation matrix for any EU directive across the 27 EU Member States and (where the act is EEA-relevant) the 3 EEA EFTA states (Iceland, Norway, Liechtenstein). Tracks for each MS-directive pair: the National Implementing Measure (NIM) citation in national identifier format (BGBl, JORF, SFS, Dz.U., Stjtíð. A, etc.), transposition status (planned / draft / partial / complete / overdue), notification status to the Commission under Art. 260(3) TFEU, the directive transposition deadline, and links to the national authoritative source (parliament bill page, official journal entry, ministry portal).
+Maintains the per-Member-State implementation matrix for any EU directive across the 27 EU Member States and (where the act is EEA-relevant) the 3 EEA EFTA states (Iceland, Norway, Liechtenstein).
 
 ### [legalcode-immigration-work-authorization](skills/legalcode-immigration-work-authorization/SKILL.md)
 
@@ -328,7 +328,7 @@ Build comprehensive Incident Response Plans (IRP) covering the full incident lif
 
 ### [legalcode-internal-investigation](skills/legalcode-internal-investigation/SKILL.md)
 
-Guide corporate internal investigations from initial allegation through remediation. Covers: investigation scoping and mandate design; legal hold implementation and litigation-hold notice drafting; investigator selection and independence analysis (in-house vs. outside counsel, conflict screening); attorney-client privilege protection (Upjohn Co. v.
+Guide corporate internal investigations from initial allegation through remediation. Use when receiving an internal allegation or whistleblower complaint, responding to a regulatory inquiry, conducting pre-acquisition due diligence on compliance matters, or building investigation capacity.
 
 ### [legalcode-legitimate-interest-assessment](skills/legalcode-legitimate-interest-assessment/SKILL.md)
 
@@ -336,7 +336,7 @@ Conduct a three-part Legitimate Interest Assessment (LIA) under GDPR Art. 6(1)(f
 
 ### [legalcode-multi-jurisdiction-privacy-comparison](skills/legalcode-multi-jurisdiction-privacy-comparison/SKILL.md)
 
-Perform a side-by-side comparison of global privacy law requirements for specific processing activities or business operations across 12+ international regimes. Use when assessing multi-country compliance obligations, determining the highest common denominator compliance baseline, identifying cross-regime conflicts, building a global harmonized compliance strategy, conducting pre-market entry privacy due diligence, or advising on international data transfers affecting multiple jurisdictions. Covers GDPR (EU), UK GDPR, CCPA/CPRA (California), LGPD (Brazil), PIPEDA/Bill C-27 (Canada), PIPL (China), PDPA (Singapore), POPIA (South Africa), APPI (Japan), Privacy Act (Australia), DPDP Act (India), and emerging frameworks (Thailand, Indonesia, Vietnam, New Zealand).
+Perform a side-by-side comparison of global privacy law requirements for specific processing activities or business operations across 12+ international regimes. Use when assessing multi-country compliance obligations, determining the highest common denominator compliance baseline, identifying cross-regime conflicts, building a global harmonized compliance strategy, conducting pre-market entry privacy due diligence, or advising on international data transfers affecting multiple jurisdictions.
 
 ### [legalcode-non-compete-analysis](skills/legalcode-non-compete-analysis/SKILL.md)
 
@@ -352,15 +352,15 @@ Conducts a comprehensive pay equity audit — from data scoping and similarly si
 
 ### [legalcode-soc2-readiness-assessment](skills/legalcode-soc2-readiness-assessment/SKILL.md)
 
-Assess SOC 2 Type I and Type II readiness across all five AICPA Trust Service Criteria (Security, Availability, Processing Integrity, Confidentiality, Privacy). Use when a SaaS company, cloud service provider, managed service provider, or other service organization needs to determine readiness for a SOC 2 audit, identify control gaps, build a remediation roadmap, or understand how SOC 2 maps to ISO 27001, NIST CSF, HIPAA, or PCI DSS. Covers all Common Criteria (CC1–CC9), optional TSC criteria (A, PI, C, P series), evidence collection requirements per control, management assertion obligations under AT-C Section 205, subservice organization carve-out vs. inclusive method, and Complementary User Entity Controls (CUECs).
+Assess SOC 2 Type I and Type II readiness across all five AICPA Trust Service Criteria (Security, Availability, Processing Integrity, Confidentiality, Privacy). Use when a SaaS company, cloud service provider, managed service provider, or other service organization needs to determine readiness for a SOC 2 audit, identify control gaps, build a remediation roadmap, or understand how SOC 2 maps to ISO 27001, NIST CSF, HIPAA, or PCI DSS.
 
 ### [legalcode-trademark-clearance-search](skills/legalcode-trademark-clearance-search/SKILL.md)
 
-Conducts comprehensive trademark availability searches including identical mark searches, phonetic equivalents, visual similarity analysis, and conceptual similarity assessment across USPTO TESS, EUIPO TMView, WIPO Global Brand Database, UKIPO, IP Australia, and IP India databases plus common law sources. Applies likelihood of confusion analysis using DuPont factors (sight, sound, meaning, commercial impression, channels of trade, consumer sophistication, mark fame). Evaluates descriptiveness/genericness risks, surname doctrine, geographic marks, and acquired distinctiveness arguments. Covers goods/services classification strategy across Nice Classification 45 classes (NCL 13-2026). Produces clearance opinion with risk rating (CLEAR/CAUTION/BLOCKED) and alternative mark recommendations.
+Conducts comprehensive trademark availability searches including identical mark searches, phonetic equivalents, visual similarity analysis, and conceptual similarity assessment across USPTO TESS, EUIPO TMView, WIPO Global Brand Database, UKIPO, IP Australia, and IP India databases plus common law sources. Use when clearing a new brand name, logo, slogan, or trade dress before filing, launching a product, or expanding into new markets.
 
 ### [legalcode-us-breach-notification-triage](skills/legalcode-us-breach-notification-triage/SKILL.md)
 
-Multi-state US breach notification triage covering all 50 states, DC, Puerto Rico, Guam, US Virgin Islands, and American Samoa. Use when a security incident involves personal information of US residents and you need to determine notification obligations: which states require notice, to whom, by when, with what content, and whether any safe harbor (encryption, good-faith acquisition, HIPAA compliance) applies. Covers the full triage lifecycle — PI definition matching, breach definition analysis, clock-start normalization, notification deadline calculation, AG filing thresholds, notice content requirements, substitute notice triggers, credit monitoring obligations, and federal overlay requirements (HIPAA Breach Notification Rule, GLBA Safeguards Rule, SEC Form 8-K Item 1.05, FCC telecom rules, CIRCIA).
+Multi-state US breach notification triage covering all 50 states, DC, Puerto Rico, Guam, US Virgin Islands, and American Samoa. Use when a security incident involves personal information of US residents and you need to determine notification obligations: which states require notice, to whom, by when, with what content, and whether any safe harbor (encryption, good-faith acquisition, HIPAA compliance) applies.
 
 ### [legalcode-us-state-privacy-comparison](skills/legalcode-us-state-privacy-comparison/SKILL.md)
 
@@ -372,11 +372,11 @@ Audits wage and hour compliance under the Fair Labor Standards Act (FLSA) and st
 
 ### [legalcode-warn-act-analysis](skills/legalcode-warn-act-analysis/SKILL.md)
 
-Analyzes federal WARN Act (29 U.S.C. §§ 2101–2109) and state mini-WARN compliance for plant closings and mass layoffs. Covers covered-employer determination, plant closing and mass layoff triggering thresholds, employment loss definitions, the 90-day rolling aggregation lookback, the three notice-reduction exceptions (faltering company, unforeseeable business circumstances, natural disaster), notice content and delivery requirements, damages calculation (back pay + ERISA benefits + $500/day civil penalty), the single-employer/affiliated-companies doctrine, sale-of-business allocation, WARN in bankruptcy, and remote-worker site-of-employment questions. Maps state mini-WARN variations for California, New York, New Jersey, Maine, Maryland, Minnesota, and Illinois.
+Analyzes federal WARN Act (29 U.S.C. §§ 2101–2109) and state mini-WARN compliance for plant closings and mass layoffs. Use when assessing a proposed or completed reduction-in-force, plant closing, or business sale for WARN Act exposure; when calculating potential damages; when evaluating whether exceptions apply; or when determining which state mini-WARN statutes impose additional obligations.
 
 ### [legalcode-workplace-investigation](skills/legalcode-workplace-investigation/SKILL.md)
 
-Guide workplace investigations end-to-end — from complaint intake and scope determination through investigator assignment, privilege preservation, document hold, witness interview protocols, credibility assessment, findings documentation, remedial action planning, and regulatory reporting. Applies to harassment, discrimination, retaliation, hostile work environment, OSHA/safety complaints, code-of-conduct violations, whistleblower allegations, time-and-attendance fraud, workplace violence, and misconduct investigations. Extends to compliance-driven, fraud, and false-claims investigations that arise in employment contexts.
+Guide workplace investigations end-to-end — from complaint intake and scope determination through investigator assignment, privilege preservation, document hold, witness interview protocols, credibility assessment, findings documentation, remedial action planning, and regulatory reporting.
 
 ## General / Contracts (18)
 
@@ -406,7 +406,7 @@ Analyze contracts approaching renewal to detect auto-renewal traps, calculate te
 
 ### [legalcode-distribution-agreement-review](skills/legalcode-distribution-agreement-review/SKILL.md)
 
-Review distribution and reseller agreements covering territory exclusivity, minimum purchase commitments (MPC/MAP), pricing and discount structures (including RPM and MFN clauses), marketing obligations and brand standards, IP licenses for trademarks and trade dress (naked licensing risk), termination and post-termination obligations, competition law compliance (EU VBER 2022 / Regulation 2022/720, US Sherman Act Section 1 / Leegin / Sylvania / Colgate doctrine / Robinson-Patman), and channel conflict management (dual distribution, online/offline separation, marketplace bans). Produces clause-by-clause review with EU/US market-standard benchmarks, severity-classified findings, and competition-law compliance screening.
+Review distribution and reseller agreements covering territory exclusivity, minimum purchase commitments (MPC/MAP), pricing and discount structures (including RPM and MFN clauses), marketing obligations and brand standards, IP licenses for trademarks and trade dress (naked licensing risk), termination and post-termination obligations, competition law compliance (EU VBER 2022 / Regulation 2022/720, US Sherman Act Section 1 / Leegin / Sylvania / Colgate doctrine / Robinson-Patman), and channel conflict management (dual distribution, online/offline separation, marketplace bans). Use when reviewing exclusive distribution agreements, non-exclusive distribution agreements, reseller agreements, authorised distributor agreements, OEM distribution agreements, or any channel-partner contract where a supplier appoints an intermediary to resell its products or services into a defined territory or customer segment.
 
 ### [legalcode-employment-agreement-review](skills/legalcode-employment-agreement-review/SKILL.md)
 
@@ -414,7 +414,7 @@ Review employment agreements clause-by-clause against market standards or an org
 
 ### [legalcode-esg-clause-reviewer](skills/legalcode-esg-clause-reviewer/SKILL.md)
 
-Review contracts for ESG (Environmental, Social, Governance) provisions — environmental commitments, carbon targets, net-zero clauses, Scope 1/2/3 emissions obligations, science-based targets, social and labor standards, human rights and modern slavery obligations, governance and anti-corruption requirements, supply chain sustainability due diligence (CSDDD, LkSG, France Devoir de Vigilance, UK Modern Slavery Act), ESG reporting obligations, framework compliance (GRI, SASB, TCFD, CSRD/ESRS, ISSB/IFRS S1/S2, SBTi), ESG representations and warranties, greenwashing and green claims risk, ESG-linked commercial terms and sustainability-linked pricing, ESG material adverse change definitions, biodiversity and circular economy provisions.
+Review contracts for ESG (Environmental, Social, Governance) provisions — environmental commitments, carbon targets, net-zero clauses, Scope 1/2/3 emissions obligations, science-based targets, social and labor standards, human rights and modern slavery obligations, governance and anti-corruption requirements, supply chain sustainability due diligence (CSDDD, LkSG, France Devoir de Vigilance, UK Modern Slavery Act), ESG reporting obligations, framework compliance (GRI, SASB, TCFD, CSRD/ESRS, ISSB/IFRS S1/S2, SBTi), ESG representations and warranties, greenwashing and green claims risk, ESG-linked commercial terms and sustainability-linked pricing, ESG material adverse change definitions, biodiversity and circular economy provisions. Use when reviewing commercial contracts, supplier agreements, procurement agreements, partnership agreements, loan agreements, investment agreements, or any contract that contains, should contain, or explicitly lacks ESG provisions.
 
 ### [legalcode-franchise-agreement-review](skills/legalcode-franchise-agreement-review/SKILL.md)
 
@@ -422,15 +422,15 @@ Review franchise agreements and Franchise Disclosure Documents (FDD/disclosure d
 
 ### [legalcode-guaranty-agreement-review](skills/legalcode-guaranty-agreement-review/SKILL.md)
 
-Review guaranty and surety agreements for scope, suretyship defenses, subrogation, contribution, and enforceability risks. Use when reviewing personal guaranties, parent company guaranties, corporate guaranties, bank guaranties, bad boy carve-out guaranties, keepwell agreements, or comfort letters in connection with commercial lending, real estate finance, lease transactions, construction finance, or supply chain credit support. Covers continuing vs. specific guaranty analysis, waiver of suretyship defenses (RSG §§ 37-49 / UCC § 3-605), anti-deficiency statute exposure (California CCP §§ 580a-580d, one-action rule CCP § 726), subrogation deferral mechanics, contribution rights among co-guarantors, financial covenants and keepwell provisions, notice requirements, dollar cap and burn-off structures, and reinstatement clause risk.
+Review guaranty and surety agreements for scope, suretyship defenses, subrogation, contribution, and enforceability risks. Use when reviewing personal guaranties, parent company guaranties, corporate guaranties, bank guaranties, bad boy carve-out guaranties, keepwell agreements, or comfort letters in connection with commercial lending, real estate finance, lease transactions, construction finance, or supply chain credit support.
 
 ### [legalcode-ip-assignment-agreement](skills/legalcode-ip-assignment-agreement/SKILL.md)
 
-Review and draft intellectual property assignment agreements transferring ownership of patents, copyrights, trademarks, trade secrets, and know-how. Use when reviewing or drafting IP assignments in employment contexts (invention assignment clauses, employee IP provisions), contractor engagements (consultant IP transfer, freelancer work product), M&A transactions (IP due diligence, founder IP transfer, pre-incorporation assignment remediation), technology transfers (source code assignment, software IP, algorithm transfer), and corporate reorganizations (intra-group IP transfer, spin-off IP allocation). Covers assignment vs. license distinction, present vs. future rights assignment language ("hereby assign" vs. "agree to assign"), work-for-hire doctrine (17 USC 101 nine categories, Community for Creative Non-Violence v.
+Review and draft intellectual property assignment agreements transferring ownership of patents, copyrights, trademarks, trade secrets, and know-how. Use when reviewing or drafting IP assignments in employment contexts (invention assignment clauses, employee IP provisions), contractor engagements (consultant IP transfer, freelancer work product), M&A transactions (IP due diligence, founder IP transfer, pre-incorporation assignment remediation), technology transfers (source code assignment, software IP, algorithm transfer), and corporate reorganizations (intra-group IP transfer, spin-off IP allocation).
 
 ### [legalcode-lease-abstractor](skills/legalcode-lease-abstractor/SKILL.md)
 
-Extract and summarize key commercial lease terms into a structured abstract for portfolio management, date tracking, financial modeling, and quick reference. Use when building a lease database, onboarding a new lease into a portfolio system, tracking renewal and termination option deadlines, abstracting lease terms for due diligence, or creating a machine-readable lease record for import into Yardi, MRI, CoStar, VTS, Tango, or similar platforms. Produces a 14-category structured abstract covering rent and escalations, CAM and operating expenses, TI allowances, renewal/expansion/termination options, assignment and subletting, co-tenancy, exclusivity, use restrictions, insurance, maintenance, guarantees, SNDA, default and cure periods, and holdover provisions — with extraction confidence scoring, critical date computation, amendment reconciliation, and structured JSON/CSV export.
+Extract and summarize key commercial lease terms into a structured abstract for portfolio management, date tracking, financial modeling, and quick reference. Use when building a lease database, onboarding a new lease into a portfolio system, tracking renewal and termination option deadlines, abstracting lease terms for due diligence, or creating a machine-readable lease record for import into Yardi, MRI, CoStar, VTS, Tango, or similar platforms.
 
 ### [legalcode-loan-agreement-review](skills/legalcode-loan-agreement-review/SKILL.md)
 
@@ -442,11 +442,11 @@ Draft, review, and negotiate mutual non-disclosure agreements (NDAs) for bilater
 
 ### [legalcode-partnership-agreement-review](skills/legalcode-partnership-agreement-review/SKILL.md)
 
-Review partnership agreements — general partnerships (GP), limited partnerships (LP), and limited liability partnerships (LLP) — covering capital contributions, profit/loss allocation and distribution waterfalls, management authority and reserved matters, partner fiduciary duties, non-compete and non-solicitation obligations, admission and withdrawal of partners, dissolution triggers and winding-up procedures, and tax allocation mechanics. Applies RUPA 1997/2013, ULPA 2001, and Delaware DRULPA for US analysis; Partnership Act 1890, Limited Partnership Act 1907, and LLP Act 2000 for UK analysis; and state-based Partnership Acts plus ITAA 1936 Division 5/5A for Australian analysis.
+Review partnership agreements — general partnerships (GP), limited partnerships (LP), and limited liability partnerships (LLP) — covering capital contributions, profit/loss allocation and distribution waterfalls, management authority and reserved matters, partner fiduciary duties, non-compete and non-solicitation obligations, admission and withdrawal of partners, dissolution triggers and winding-up procedures, and tax allocation mechanics. Use when reviewing or negotiating any partnership agreement, joint venture structured as a partnership, fund limited partnership agreement (LPA), LLP members' agreement, family limited partnership (FLP), or professional partnership deed.
 
 ### [legalcode-supply-chain-contract-review](skills/legalcode-supply-chain-contract-review/SKILL.md)
 
-Review supply and procurement agreements covering pricing mechanisms (fixed, index-linked, MFC/MFN), tariff and customs risk allocation, delivery terms (Incoterms 2020), quality specifications and inspection rights, warranty provisions (UCC Article 2, CISG Art. 35, UK Sale of Goods Act 1979), EU Product Liability Directive 2024/2853 (in force Nov 2024), force majeure and commercial impracticability, supply continuity and business continuity obligations, sustainability and ESG supply chain due diligence (EU CSDDD, UK Modern Slavery Act, US UFLPA, France Devoir de Vigilance, Norway Åpenhetsloven), critical minerals and rare earth traceability (EU CRMA, EU Battery Regulation, Dodd-Frank), supply chain finance integration, and indemnification. Covers UCC Article 2, CISG Arts 25/35/71–79, and UK Sale of Goods Act.
+Review supply and procurement agreements covering pricing mechanisms (fixed, index-linked, MFC/MFN), tariff and customs risk allocation, delivery terms (Incoterms 2020), quality specifications and inspection rights, warranty provisions (UCC Article 2, CISG Art. 35, UK Sale of Goods Act 1979), EU Product Liability Directive 2024/2853 (in force Nov 2024), force majeure and commercial impracticability, supply continuity and business continuity obligations, sustainability and ESG supply chain due diligence (EU CSDDD, UK Modern Slavery Act, US UFLPA, France Devoir de Vigilance, Norway Åpenhetsloven), critical minerals and rare earth traceability (EU CRMA, EU Battery Regulation, Dodd-Frank), supply chain finance integration, and indemnification.
 
 ### [legalcode-technology-license-agreement](skills/legalcode-technology-license-agreement/SKILL.md)
 
@@ -456,11 +456,11 @@ Structure, draft, review, and negotiate technology and IP license agreements cov
 
 ### [legalcode-board-resolution-drafter](skills/legalcode-board-resolution-drafter/SKILL.md)
 
-Drafts board resolutions and unanimous written consents (UWCs) for common corporate actions: officer appointments and removals, equity issuances, stock option and warrant grants (ISO/NSO), equity incentive plan adoptions, financing approvals (debt facilities, convertible notes, SAFEs, preferred rounds), contract authorizations, dividend declarations, bank account authorizations, annual compliance resolutions, IP assignments, subsidiary formations, M&A preliminary approvals, and indemnification agreements. Covers recital/WHEREAS and RESOLVED structure, quorum, unanimous consent mechanics, Secretary certification, and corporate formality requirements under Delaware DGCL §141, UK Companies Act 2006, and MBCA. Deep coverage of IRC §409A FMV requirements for equity grants, Rule 701 securities law compliance, and §280G golden parachute analysis triggers.
+Drafts board resolutions and unanimous written consents (UWCs) for common corporate actions: officer appointments and removals, equity issuances, stock option and warrant grants (ISO/NSO), equity incentive plan adoptions, financing approvals (debt facilities, convertible notes, SAFEs, preferred rounds), contract authorizations, dividend declarations, bank account authorizations, annual compliance resolutions, IP assignments, subsidiary formations, M&A preliminary approvals, and indemnification agreements. Use when a company needs a board resolution or written consent for any corporate governance action.
 
 ### [legalcode-cap-table-review](skills/legalcode-cap-table-review/SKILL.md)
 
-Review, audit, and model cap tables for US startups at any stage — covering SAFE mechanics (post-money vs. pre-money conversion, MFN, pro-rata), convertible note conversion (discount, valuation cap, shadow preferred, interest accrual), option pool sizing and the option pool shuffle, anti-dilution adjustments (broad-based weighted average, full ratchet, narrow-based, pay-to-play, NVCA carve-outs), liquidation waterfall modeling (non-participating, participating, participation cap, liquidation multiples), and dilution scenario modeling across rounds. Identifies cap table errors, missing shadow preferred mechanics, incorrect fully diluted counts, and structural red flags. Benchmarks against NVCA October 2025 model documents and current market standards.
+Review, audit, and model cap tables for US startups at any stage — covering SAFE mechanics (post-money vs. pre-money conversion, MFN, pro-rata), convertible note conversion (discount, valuation cap, shadow preferred, interest accrual), option pool sizing and the option pool shuffle, anti-dilution adjustments (broad-based weighted average, full ratchet, narrow-based, pay-to-play, NVCA carve-outs), liquidation waterfall modeling (non-participating, participating, participation cap, liquidation multiples), and dilution scenario modeling across rounds.
 
 ### [legalcode-closing-checklist](skills/legalcode-closing-checklist/SKILL.md)
 
@@ -468,11 +468,11 @@ Generate comprehensive transaction closing checklists covering pre-closing deliv
 
 ### [legalcode-convertible-note-review](skills/legalcode-convertible-note-review/SKILL.md)
 
-Review convertible notes and convertible loan notes (CLNs) for founders, investors, and counsel — covering interest accrual and compounding mechanics, maturity and redemption risk, qualified financing definition and threshold, conversion mechanics (discount rate, valuation cap, shadow preferred stock, post-money formula), MFN clause analysis, pro-rata rights, prepayment and subordination provisions, events of default, and amendment consent thresholds. Benchmarks every material term against current market standards (NVCA 2025, Carta Q1 2025, Fenwick/Cooley market data) with dual-perspective framing (founder view and investor view for every economic term). Models cap table dilution from interest accrual and conversion across multiple scenarios.
+Review convertible notes and convertible loan notes (CLNs) for founders, investors, and counsel — covering interest accrual and compounding mechanics, maturity and redemption risk, qualified financing definition and threshold, conversion mechanics (discount rate, valuation cap, shadow preferred stock, post-money formula), MFN clause analysis, pro-rata rights, prepayment and subordination provisions, events of default, and amendment consent thresholds. Use when reviewing or negotiating a convertible note, convertible loan note, bridge note, or demand note convertible instrument at any stage (pre-seed through Series A bridge).
 
 ### [legalcode-corporate-minutes-drafter](skills/legalcode-corporate-minutes-drafter/SKILL.md)
 
-Draft formal meeting minutes for board of directors, shareholder/stockholder, and committee meetings. Use when preparing minutes for any corporate meeting — annual, special, organizational, or written consent — covering attendance and quorum certification, agenda items, motions and voting outcomes, conflict of interest disclosures, committee reports, officer elections, equity and financing approvals, M&A and major transactions, action item assignments, and next-meeting scheduling. Supports US (Delaware, MBCA) and UK (Companies Act 2006) corporations with [JURISDICTION-SPECIFIC] markers for other jurisdictions. Also use when reviewing draft minutes for completeness, documenting written consents in lieu of meeting, or producing the secretary's certification block.
+Draft formal meeting minutes for board of directors, shareholder/stockholder, and committee meetings. Use when preparing minutes for any corporate meeting — annual, special, organizational, or written consent — covering attendance and quorum certification, agenda items, motions and voting outcomes, conflict of interest disclosures, committee reports, officer elections, equity and financing approvals, M&A and major transactions, action item assignments, and next-meeting scheduling.
 
 ### [legalcode-corporate-restructuring](skills/legalcode-corporate-restructuring/SKILL.md)
 
@@ -480,7 +480,7 @@ Comprehensive corporate restructuring analysis covering US Chapter 11 reorganiza
 
 ### [legalcode-data-room-organizer](skills/legalcode-data-room-organizer/SKILL.md)
 
-Organizes and audits Virtual Data Rooms (VDRs) for M&A transactions, debt financing, IPO/capital markets, and venture/growth equity. Generates standard folder taxonomy tailored to transaction type, classifies and tags documents, identifies gaps against comprehensive diligence checklists, produces a numbered VDR index, and recommends granular access permission tiers. Use when setting up a sell-side or buy-side data room, auditing an existing data room for completeness, preparing an information request list, generating a VDR index for transaction documentation, or configuring access controls for multi-bidder auction, competitive financing, or IPO processes.
+Organizes and audits Virtual Data Rooms (VDRs) for M&A transactions, debt financing, IPO/capital markets, and venture/growth equity. Use when setting up a sell-side or buy-side data room, auditing an existing data room for completeness, preparing an information request list, generating a VDR index for transaction documentation, or configuring access controls for multi-bidder auction, competitive financing, or IPO processes.
 
 ### [legalcode-equity-incentive-plan-review](skills/legalcode-equity-incentive-plan-review/SKILL.md)
 
@@ -492,11 +492,11 @@ Draft comprehensive founders agreements covering equity allocation and split met
 
 ### [legalcode-joint-venture-agreement](skills/legalcode-joint-venture-agreement/SKILL.md)
 
-Drafts and reviews joint venture agreements covering governance structure, board composition and voting thresholds, capital contributions, profit and loss allocation, management rights, deadlock resolution mechanisms (Russian roulette, Texas shoot-out, expert determination), non-compete obligations, exit strategies (put/call options, ROFO/ROFR, shotgun clauses, tag-along/drag-along), intellectual property ownership and licensing (background IP/foreground IP), and dissolution procedures. Addresses tax structuring implications across entity types. Primary coverage: US (Delaware LLC and C-Corp structures), UK (England and Wales companies/LLPs), EU (cross-border JVs and merger control), and India (Companies Act 2013 / FEMA compliance).
+Drafts and reviews joint venture agreements covering governance structure, board composition and voting thresholds, capital contributions, profit and loss allocation, management rights, deadlock resolution mechanisms (Russian roulette, Texas shoot-out, expert determination), non-compete obligations, exit strategies (put/call options, ROFO/ROFR, shotgun clauses, tag-along/drag-along), intellectual property ownership and licensing (background IP/foreground IP), and dissolution procedures. Use when drafting a new JV agreement, reviewing a counterparty's JV draft, structuring a corporate joint venture, evaluating deadlock provisions, or assessing exit mechanism enforceability.
 
 ### [legalcode-letter-of-intent-review](skills/legalcode-letter-of-intent-review/SKILL.md)
 
-Review letters of intent (LOIs), memoranda of understanding (MOUs), term sheets, heads of terms, and agreements in principle for corporate transactions. Identifies binding vs. non-binding provisions, assesses enforceability risks from purportedly non-binding language, and flags provisions creating unintended binding obligations. Analyzes exclusivity and no-shop clauses (scope, duration, fiduciary-out carveouts, penalty for breach), break-up fees and reverse break-up fees (trigger events, market benchmarks, Takeover Panel inducement fee rules), confidentiality obligations (standalone vs. integrated, duration, residuals clauses), conditions precedent to closing (satisfactory due diligence risk, financing conditions, regulatory clearances), expense allocation (reliance damages exposure, culpa in contrahendo under civil law), and governing law provisions.
+Review letters of intent (LOIs), memoranda of understanding (MOUs), term sheets, heads of terms, and agreements in principle for corporate transactions.
 
 ### [legalcode-ma-due-diligence-checklist](skills/legalcode-ma-due-diligence-checklist/SKILL.md)
 
@@ -504,11 +504,11 @@ Generate comprehensive M&A legal due diligence checklists tailored to transactio
 
 ### [legalcode-merger-agreement-analysis](skills/legalcode-merger-agreement-analysis/SKILL.md)
 
-Analyze merger agreements clause-by-clause against market standards or a transaction playbook. Covers deal structure (forward merger, reverse triangular merger, statutory merger), representations and warranties (bring-down conditions, materiality scrape, fundamental vs. general reps, survival periods), MAC/MAE clause drafting and judicial standards (Akorn, Snow Phipps), interim operating covenants (ordinary course, consent thresholds, efforts standards), conditions to closing (regulatory approvals, HSR, CMA, EU merger regulation, CFIUS), deal protection mechanisms (no-shop, fiduciary out, matching rights, go-shop), termination rights and fees (breakup fees, reverse termination fees), consideration structures (cash, stock-for-stock, mixed, earnouts), and dissenter/appraisal rights (DGCL Section 262, UK scheme squeeze-out).
+Analyze merger agreements clause-by-clause against market standards or a transaction playbook.
 
 ### [legalcode-purchase-agreement-review](skills/legalcode-purchase-agreement-review/SKILL.md)
 
-Review stock purchase agreements (SPAs) and asset purchase agreements (APAs) clause-by-clause against market standards or a transaction playbook. Analyzes representations and warranties (fundamental vs. general, materiality and knowledge qualifiers, materiality scrape), purchase price adjustment mechanisms (locked box vs. completion accounts, NWC targets, true-up), indemnification mechanics (tipping baskets, true deductibles, caps, survival periods, fraud carve-outs), MAC/MAE clauses and closing conditions, earnout provisions (metrics definition, anti-manipulation covenants, accounting standards, dispute resolution), escrow and holdback arrangements, representations and warranties insurance (RWI/W&I), non-compete and non-solicitation covenants, pre- and post-closing covenants, employee and benefits provisions, and specific indemnities (tax, environmental, pending litigation).
+Review stock purchase agreements (SPAs) and asset purchase agreements (APAs) clause-by-clause against market standards or a transaction playbook.
 
 ### [legalcode-shareholders-agreement-review](skills/legalcode-shareholders-agreement-review/SKILL.md)
 
@@ -522,7 +522,7 @@ Comprehensive venture financing suite covering instrument selection (SAFE vs. AS
 
 ### [legalcode-ai-training-data-copyright](skills/legalcode-ai-training-data-copyright/SKILL.md)
 
-Analyze copyright implications of AI training data. Use when evaluating whether scraped or licensed content can be used to train AI/ML models, assessing legal exposure from bulk data acquisition, reviewing TDM (text and data mining) rights under EU DSM Directive Articles 3 and 4, analyzing US fair use defenses for model training, checking compliance with EU AI Act Article 53 training data transparency obligations, assessing opt-out mechanisms (robots.txt, TDM reservations), reviewing Creative Commons and data license compatibility with AI training, evaluating right of publicity risks in training datasets, analyzing DMCA Section 1202 copyright management information claims, or preparing a litigation risk assessment for an AI training dataset. Covers the NYT v. OpenAI and Getty Images v.
+Analyze copyright implications of AI training data. Use when evaluating whether scraped or licensed content can be used to train AI/ML models, assessing legal exposure from bulk data acquisition, reviewing TDM (text and data mining) rights under EU DSM Directive Articles 3 and 4, analyzing US fair use defenses for model training, checking compliance with EU AI Act Article 53 training data transparency obligations, assessing opt-out mechanisms (robots.txt, TDM reservations), reviewing Creative Commons and data license compatibility with AI training, evaluating right of publicity risks in training datasets, analyzing DMCA Section 1202 copyright management information claims, or preparing a litigation risk assessment for an AI training dataset.
 
 ### [legalcode-copyright-infringement-assessment](skills/legalcode-copyright-infringement-assessment/SKILL.md)
 
@@ -534,7 +534,7 @@ Manages DMCA takedown and counter-notification workflows under 17 USC 512, and E
 
 ### [legalcode-licensing-agreement-review](skills/legalcode-licensing-agreement-review/SKILL.md)
 
-Review IP licensing agreements of all categories — patents, trademarks, copyright, trade secrets, know-how, and mixed-IP bundles — against organizational positions or general market standards. Identifies deviations, generates confidence-scored redlines, and produces an auditable analysis. Use when reviewing any IP license for grant scope, field-of-use or territory restrictions, sublicensing chain provisions, royalty structures and audit rights, improvement and grant-back clauses, IP title warranties, infringement indemnification, licensor insolvency protections (including §365(n)), and termination effects on licensed rights. Covers pharmaceutical licenses, software licenses, trademark franchise-adjacent licenses, copyright and music licenses, trade secret licenses, know-how licenses, university technology transfer, and mixed-IP bundles.
+Review IP licensing agreements of all categories — patents, trademarks, copyright, trade secrets, know-how, and mixed-IP bundles — against organizational positions or general market standards. Use when reviewing any IP license for grant scope, field-of-use or territory restrictions, sublicensing chain provisions, royalty structures and audit rights, improvement and grant-back clauses, IP title warranties, infringement indemnification, licensor insolvency protections (including §365(n)), and termination effects on licensed rights.
 
 ### [legalcode-patent-landscape-analysis](skills/legalcode-patent-landscape-analysis/SKILL.md)
 
@@ -552,11 +552,11 @@ Draft appellate briefs for US federal circuit courts (FRAP), US state appellate 
 
 ### [legalcode-arbitration-clause-review](skills/legalcode-arbitration-clause-review/SKILL.md)
 
-Review and analyze arbitration clauses for enforceability, pathological defects, and commercial suitability — identify unclear scope, missing essential elements, inconsistent provisions, and jurisdiction-specific risks. Use when reviewing dispute resolution provisions in commercial contracts, evaluating arbitration clauses for New York Convention enforceability, assessing institutional arbitration clause compliance (ICC, LCIA, AAA/ICDR, SIAC, HKIAC, SCC), checking for multi-tiered escalation clause defects, or advising on seat selection and procedural adequacy. Covers ad hoc and institutional arbitration, emergency arbitrator provisions, consolidation rights, joinder clauses, confidentiality obligations, cost allocation mechanisms, and waiver provisions (class action, jury, punitive damages).
+Review and analyze arbitration clauses for enforceability, pathological defects, and commercial suitability — identify unclear scope, missing essential elements, inconsistent provisions, and jurisdiction-specific risks. Use when reviewing dispute resolution provisions in commercial contracts, evaluating arbitration clauses for New York Convention enforceability, assessing institutional arbitration clause compliance (ICC, LCIA, AAA/ICDR, SIAC, HKIAC, SCC), checking for multi-tiered escalation clause defects, or advising on seat selection and procedural adequacy.
 
 ### [legalcode-arbitration-demand-drafter](skills/legalcode-arbitration-demand-drafter/SKILL.md)
 
-Drafts and reviews arbitration demands (Requests for Arbitration, Notices of Arbitration), Statements of Claim, Answers/Responses, and Counterclaims for international and domestic commercial arbitration proceedings under ICC (2021 Rules), LCIA (2020 Rules), AAA Commercial Arbitration Rules, ICDR International Arbitration Rules, SIAC (2016/2025 Rules), and HKIAC (2018 Rules). Also supports UNCITRAL ad hoc arbitration and UNCITRAL Model Law jurisdictions.
+Drafts and reviews arbitration demands (Requests for Arbitration, Notices of Arbitration), Statements of Claim, Answers/Responses, and Counterclaims for international and domestic commercial arbitration proceedings under ICC (2021 Rules), LCIA (2020 Rules), AAA Commercial Arbitration Rules, ICDR International Arbitration Rules, SIAC (2016/2025 Rules), and HKIAC (2018 Rules). Use when commencing arbitration proceedings, responding to an arbitration demand, seeking emergency relief in arbitration, or preparing any notice, request, or demand document for filing with an international or domestic arbitral institution.
 
 ### [legalcode-case-summarizer](skills/legalcode-case-summarizer/SKILL.md)
 
@@ -584,11 +584,11 @@ Structure and calculate damages across economic, non-economic, punitive, and sta
 
 ### [legalcode-deadline-calculator](skills/legalcode-deadline-calculator/SKILL.md)
 
-Calculate litigation deadlines based on triggering events, applicable court rules, and jurisdictional requirements. Use when computing FRCP response deadlines (answer to complaint, discovery responses, MSJ oppositions, post-trial motions), appeals windows (FRAP Rule 4 notice of appeal), statute of limitations expiry dates with tolling analysis, EEOC charge filing deadlines (180/300 days), FTCA administrative claim windows (2 years + 6 months), government tort claims notice requirements, and regulatory filing deadlines. Applies FRCP Rule 6 day-count mechanics including weekend/holiday extensions, service-method additions under Rule 6(d) (2016 amendment), and calendar vs. business day distinctions. Handles multi-jurisdiction deadline tracking for matters pending in multiple courts.
+Calculate litigation deadlines based on triggering events, applicable court rules, and jurisdictional requirements. Use when computing FRCP response deadlines (answer to complaint, discovery responses, MSJ oppositions, post-trial motions), appeals windows (FRAP Rule 4 notice of appeal), statute of limitations expiry dates with tolling analysis, EEOC charge filing deadlines (180/300 days), FTCA administrative claim windows (2 years + 6 months), government tort claims notice requirements, and regulatory filing deadlines.
 
 ### [legalcode-demand-letter-drafter](skills/legalcode-demand-letter-drafter/SKILL.md)
 
-Drafts demand letters and cease and desist letters for common dispute types including breach of contract (UCC and common law), personal injury, employment disputes (wrongful termination, wage theft, FLSA violations, discrimination), consumer protection violations (CLRA, state UDAP, ACL), intellectual property infringement (trademark, copyright, patent cease and desist), debt collection (FDCPA and Regulation F compliant), property damage, and professional malpractice. Covers proper party identification, factual narrative development, legal basis articulation with specific statutory references, damages calculation and demand amount, response deadlines, consequences of non-compliance, and settlement offer frameworks.
+Drafts demand letters and cease and desist letters for common dispute types including breach of contract (UCC and common law), personal injury, employment disputes (wrongful termination, wage theft, FLSA violations, discrimination), consumer protection violations (CLRA, state UDAP, ACL), intellectual property infringement (trademark, copyright, patent cease and desist), debt collection (FDCPA and Regulation F compliant), property damage, and professional malpractice. Use when drafting any pre-suit demand, cease and desist, or statutory notice before commencing civil litigation.
 
 ### [legalcode-deposition-preparation](skills/legalcode-deposition-preparation/SKILL.md)
 
@@ -600,7 +600,7 @@ Draft interrogatories, requests for production (RFPs), and requests for admissio
 
 ### [legalcode-discovery-response-drafter](skills/legalcode-discovery-response-drafter/SKILL.md)
 
-Draft defensible responses to interrogatories, requests for production (RFPs), and requests for admission (RFAs) with specific objections, substantive answers, and privilege assertions. Covers FRCP 26(b)(1) proportionality defense, Rule 34(b)(2) objection-specificity requirements, FRCP 26(b)(5) privilege log drafting, FRE 502 clawback integration, and Rule 26(e) supplement obligations. Use when responding to received discovery requests in federal or state civil litigation, drafting specific objections with identifying particularity, asserting attorney-client privilege or work-product protection with compliant log entries, arguing proportionality as a limiting principle, or preparing meet-and-confer positions on discovery disputes.
+Draft defensible responses to interrogatories, requests for production (RFPs), and requests for admission (RFAs) with specific objections, substantive answers, and privilege assertions. Use when responding to received discovery requests in federal or state civil litigation, drafting specific objections with identifying particularity, asserting attorney-client privilege or work-product protection with compliant log entries, arguing proportionality as a limiting principle, or preparing meet-and-confer positions on discovery disputes.
 
 ### [legalcode-early-case-assessment](skills/legalcode-early-case-assessment/SKILL.md)
 
@@ -624,7 +624,7 @@ Evaluate litigation risk across four dimensions — legal merit, factual strengt
 
 ### [legalcode-mediation-preparation](skills/legalcode-mediation-preparation/SKILL.md)
 
-Prepare comprehensive mediation materials including opening and confidential mediation statements, BATNA/WATNA/MLATNA analysis, settlement range development with probability-weighted outcomes, zone of possible agreement (ZOPA) identification, and strategic concession planning. Use when preparing for a commercial mediation session, selecting a mediator, organizing pre-mediation discovery and evidence, confirming settlement authority and decision-maker attendance, drafting opening statements, or developing phase-by-phase negotiation tactics. Evaluates cost-benefit of settlement vs. continued litigation with risk-adjusted present value analysis. Covers mediator selection criteria, multi-party coordination, joint session and caucus strategy, impasse diagnosis, and exit protocols. Supports evaluative and facilitative mediation approaches from claimant, defendant, or multi-party perspectives.
+Prepare comprehensive mediation materials including opening and confidential mediation statements, BATNA/WATNA/MLATNA analysis, settlement range development with probability-weighted outcomes, zone of possible agreement (ZOPA) identification, and strategic concession planning. Use when preparing for a commercial mediation session, selecting a mediator, organizing pre-mediation discovery and evidence, confirming settlement authority and decision-maker attendance, drafting opening statements, or developing phase-by-phase negotiation tactics.
 
 ### [legalcode-privilege-review](skills/legalcode-privilege-review/SKILL.md)
 
@@ -640,25 +640,25 @@ Structure settlement negotiation frameworks with probability-weighted outcome mo
 
 ### [legalcode-witness-preparation](skills/legalcode-witness-preparation/SKILL.md)
 
-Prepare lay witnesses and corporate designees for deposition and trial testimony in US civil litigation. Generates structured preparation packages covering anticipated direct and cross-examination questions, exhibit familiarity sessions, prior statement reconciliation, rules-of-the-road orientation, demeanor and conduct coaching, objection protocol instructions, deposition-vs-trial distinctions, and redirect rehabilitation planning. Covers all witness types: first-time lay witnesses, fact witnesses with prior testimony history, corporate Rule 30(b)(6) designees, former employees, and hostile/reluctant witnesses. Produces per-topic preparation cards, a witness readiness score, a mock examination plan, and a logistics checklist.
+Prepare lay witnesses and corporate designees for deposition and trial testimony in US civil litigation. Use when you need to prepare any non-expert witness for deposition, trial, arbitration, or administrative proceeding; when reviewing prior testimony for inconsistencies before cross-examination exposure; when assessing a witness's readiness across credibility dimensions; or when building a multi-session preparation timeline.
 
 ## General / Real Estate (4)
 
 ### [legalcode-real-estate-due-diligence](skills/legalcode-real-estate-due-diligence/SKILL.md)
 
-Conducts comprehensive real estate due diligence for property acquisitions, financing, development, and disposal transactions. Covers eight workstreams: title examination, survey and boundary review, environmental assessments (Phase I/II ESA), zoning and planning compliance, permit and certificate verification, lease audit, property tax review, and encumbrance identification. Generates a PASS/FLAG/FAIL risk-scored report with priority tiers and actionable remediation recommendations. Use when acquiring commercial or residential property, securing real estate financing, conducting pre-development due diligence, or reviewing a vendor's due diligence pack.
+Conducts comprehensive real estate due diligence for property acquisitions, financing, development, and disposal transactions. Use when acquiring commercial or residential property, securing real estate financing, conducting pre-development due diligence, or reviewing a vendor's due diligence pack.
 
 ### [legalcode-residential-lease-review](skills/legalcode-residential-lease-review/SKILL.md)
 
-Review residential leases and tenancy agreements for tenants, landlords, and property managers — identify problematic clauses, flag illegal provisions, generate compliance checklists, and produce jurisdiction-specific remediation actions. Use when reviewing an Assured Shorthold Tenancy (AST) or periodic assured tenancy in England and Wales, a US state residential lease, an Australian residential tenancy agreement, or a German Mietvertrag (tenancy contract under BGB). Covers: rent and payment terms, security deposit / bond / Kaution, tenant and landlord rights, maintenance and repairs, habitability standards, termination and eviction grounds, rent control and increase limits, fair housing and anti-discrimination obligations, renewal provisions, and statutory compliance gaps.
+Review residential leases and tenancy agreements for tenants, landlords, and property managers — identify problematic clauses, flag illegal provisions, generate compliance checklists, and produce jurisdiction-specific remediation actions. Use when reviewing an Assured Shorthold Tenancy (AST) or periodic assured tenancy in England and Wales, a US state residential lease, an Australian residential tenancy agreement, or a German Mietvertrag (tenancy contract under BGB).
 
 ### [legalcode-title-review](skills/legalcode-title-review/SKILL.md)
 
-Reviews title commitments and title registers for real estate transactions — purchase, refinance, and development. Use when analyzing an ALTA 2021 title commitment (Schedule B-I requirements, Schedule B-II exceptions), a UK HM Land Registry official copy of register entries, a California Preliminary Report, or any title abstract or opinion letter. Analyzes easements, judgment and tax liens, mechanic's and materialmen's liens, restrictive covenants and CC&Rs, survey exceptions, mineral reservations, gap coverage risks, and endorsement requirements. Generates a closing checklist with prioritized curative action items, responsible parties, and deadlines. Supports the US ALTA/CLTA title insurance framework (owner's and lender's policies) and the UK Land Registration Act 2002 framework (absolute, good leasehold, possessory, and qualified title grades).
+Reviews title commitments and title registers for real estate transactions — purchase, refinance, and development. Use when analyzing an ALTA 2021 title commitment (Schedule B-I requirements, Schedule B-II exceptions), a UK HM Land Registry official copy of register entries, a California Preliminary Report, or any title abstract or opinion letter.
 
 ### [legalcode-zoning-land-use-analysis](skills/legalcode-zoning-land-use-analysis/SKILL.md)
 
-Analyze zoning and land use compliance for any property or development project. Covers permitted use classification (by-right vs. discretionary), conditional/special use permits (CUPs/SUPs), area and use variances, nonconforming use rights (legal nonconforming status, abandonment, expansion), setback and bulk standards, subdivision regulation and platting, development agreements and vesting rights, environmental review (CEQA/NEPA), historic preservation (Section 106 NHPA, UK Planning (Listed Buildings and Conservation Areas) Act 1990), and exaction proportionality (Nollan/Dolan/Koontz/Sheetz). US and UK coverage: US Euclidean zoning, form-based codes, state enabling legislation, California Development Agreements (Gov.
+Analyze zoning and land use compliance for any property or development project. Use when evaluating development feasibility, checking zoning compliance before purchase, assessing variance necessity, analyzing entitlement risk, advising on project approvals, or reviewing planning conditions and obligations.
 
 ## General / Risk Assessment (1)
 
@@ -682,7 +682,7 @@ Analyzes document sets for cross-reference integrity: builds a defined terms reg
 
 ### [legalcode-defined-term-audit](skills/legalcode-defined-term-audit/SKILL.md)
 
-Extracts and audits all defined terms in one or more legal documents — flags unused (orphaned) definitions, terms used but never defined, circular definitions, inconsistent usage, overly broad definitions, precision gaps, shadowed definitions, and conflicting definitions across related documents. Use when conducting pre-execution quality review of any contract, agreement, policy, regulation, or legislation; during due diligence on acquired contract portfolios; after substantial redlining or document merging; before filing regulatory submissions; or when preparing complex multi-document transaction sets (loan facilities with schedules, M&A agreements, franchise disclosure documents, software license suites). Jurisdiction-agnostic with [JURISDICTION-SPECIFIC] markers.
+Extracts and audits all defined terms in one or more legal documents — flags unused (orphaned) definitions, terms used but never defined, circular definitions, inconsistent usage, overly broad definitions, precision gaps, shadowed definitions, and conflicting definitions across related documents. Use when conducting pre-execution quality review of any contract, agreement, policy, regulation, or legislation; during due diligence on acquired contract portfolios; after substantial redlining or document merging; before filing regulatory submissions; or when preparing complex multi-document transaction sets (loan facilities with schedules, M&A agreements, franchise disclosure documents, software license suites).
 
 ### [legalcode-document-classifier](skills/legalcode-document-classifier/SKILL.md)
 
@@ -710,7 +710,7 @@ Structure and execute legal project management (LPM) across the full matter life
 
 ### [legalcode-legislation-verification](skills/legalcode-legislation-verification/SKILL.md)
 
-Verify cited statutes, regulations, directives, rules, and public guidance for currency, accuracy, and proposition support. Use when a legal document, brief, opinion, contract, or AI-generated output contains citations to legislation and you need to confirm that each provision exists, is currently in force (or was in force at the relevant date), has been correctly cited, has not been repealed or materially amended since citation, applies to the claimed territory, and actually supports the legal proposition advanced. Covers primary legislation (Acts, codes, statutes), secondary and delegated legislation (Statutory Instruments, regulations, orders, decrees), EU legislation (regulations directly applicable, directives requiring transposition), court procedural rules, and regulatory guidance.
+Verify cited statutes, regulations, directives, rules, and public guidance for currency, accuracy, and proposition support. Use when a legal document, brief, opinion, contract, or AI-generated output contains citations to legislation and you need to confirm that each provision exists, is currently in force (or was in force at the relevant date), has been correctly cited, has not been repealed or materially amended since citation, applies to the claimed territory, and actually supports the legal proposition advanced.
 
 ### [legalcode-matter-scoping](skills/legalcode-matter-scoping/SKILL.md)
 
@@ -718,7 +718,7 @@ Generate comprehensive legal matter scope statements, fee arrangement analyses, 
 
 ### [legalcode-matter-triage-workflow](skills/legalcode-matter-triage-workflow/SKILL.md)
 
-Route incoming legal requests to the appropriate resource based on matter type, urgency, complexity, and organizational risk. Use when a new legal request arrives, when prioritizing a backlog of open matters, or when deciding whether to handle a matter in-house or refer to outside counsel. Covers intake classification across all practice areas (contracts, employment, litigation, regulatory, IP, corporate, real estate, finance, tax), urgency scoring with SLA targets (CRITICAL/HIGH/STANDARD/LOW), complexity assessment (ROUTINE/MODERATE/COMPLEX/BET-THE-COMPANY), resource matching (self-service, paralegal, junior counsel, senior counsel, GC, outside counsel, specialist, ALSP), budget routing with authority levels, and escalation protocols for matters crossing risk thresholds. Supports configurable routing rules by business unit, geography, and matter type.
+Route incoming legal requests to the appropriate resource based on matter type, urgency, complexity, and organizational risk. Use when a new legal request arrives, when prioritizing a backlog of open matters, or when deciding whether to handle a matter in-house or refer to outside counsel.
 
 ### [legalcode-offer-letter-drafter](skills/legalcode-offer-letter-drafter/SKILL.md)
 
@@ -726,11 +726,11 @@ Drafts and reviews US employment offer letters that are state-compliant across a
 
 ### [legalcode-outside-counsel-guidelines](skills/legalcode-outside-counsel-guidelines/SKILL.md)
 
-Draft, update, or audit outside counsel guidelines (OCGs) — the overarching billing and conduct policies governing law firm relationships for corporate legal departments. Covers billing rates, staffing requirements, block-billing prohibition, expense policies, budget management, LEDES/UTBMS e-billing compliance, alternative fee arrangements (AFAs), diversity and inclusion reporting, performance scorecards, AI and technology provisions, and enforcement mechanisms. Supports two modes: (1) Draft or update an OCG from scratch for a legal department or organization, and (2) Audit existing outside counsel invoices or billing practices against an established OCG. Jurisdiction-agnostic with [JURISDICTION-SPECIFIC] markers for local billing ethics rules.
+Draft, update, or audit outside counsel guidelines (OCGs) — the overarching billing and conduct policies governing law firm relationships for corporate legal departments. Use when a legal ops team needs an OCG, when an existing OCG needs updating to reflect AFA trends or AI provisions, when a law firm needs to understand client billing expectations, or when invoices are under dispute.
 
 ### [legalcode-plain-language](skills/legalcode-plain-language/SKILL.md)
 
-Rewrites legal text for specified audiences while maintaining legal accuracy and precision. Covers legalese simplification, active-voice conversion, jargon replacement, archaic-phrase elimination, readability scoring (Flesch-Kincaid Reading Ease, Flesch-Kincaid Grade Level, Gunning Fog Index, SMOG, Coleman-Liau), and plain language compliance assessment.
+Rewrites legal text for specified audiences while maintaining legal accuracy and precision. Use when asked to "make this simpler," "translate this to plain English," "rewrite this for clients," "check readability," "plain language review," "accessibility audit," "consumer-friendly version," "grade level check," or when a document must comply with plain language regulations such as the US Plain Writing Act 2010, SEC Rule 421 plain English, CFPB mortgage disclosures, GDPR Article 12(1) clear and plain language, UK Consumer Rights Act 2015 plain and intelligible, FCA Consumer Duty 2023, South Africa CPA s.22, ISO 24495-1:2023, ISO 24495-2:2025, or state-level insurance readability mandates (Florida/Connecticut Flesch RE ≥45, New York grade ≤8, Pennsylvania FK grade ≤9).
 
 ### [legalcode-precedent-analyzer](skills/legalcode-precedent-analyzer/SKILL.md)
 
@@ -738,7 +738,7 @@ Analyzes completed deal corpora — contract archives, CLM exports, closing bind
 
 ### [legalcode-precedent-search](skills/legalcode-precedent-search/SKILL.md)
 
-Search firm knowledge bases, document repositories, and legal precedent libraries for relevant prior agreements, templates, clauses, memoranda, court filings, transaction documents, and legal positions. Use when drafting new contracts and need proven language, advising clients on recurring legal issues and need prior advice letters, evaluating counterparty positions against prior deals, building or refreshing a clause library, or identifying subject matter experts within the organization. Covers semantic search by legal concept (not just keyword), multi-dimensional filtering (jurisdiction, counterparty, matter type, practice area, date range, document type), precedent applicability assessment, currency and staleness evaluation, conflicting-positions detection, subject matter expert identification, and privilege and confidentiality handling.
+Search firm knowledge bases, document repositories, and legal precedent libraries for relevant prior agreements, templates, clauses, memoranda, court filings, transaction documents, and legal positions. Use when drafting new contracts and need proven language, advising clients on recurring legal issues and need prior advice letters, evaluating counterparty positions against prior deals, building or refreshing a clause library, or identifying subject matter experts within the organization.
 
 ### [legalcode-proofread](skills/legalcode-proofread/SKILL.md)
 
@@ -752,7 +752,7 @@ Analyze multi-party legal and business strategy problems using a game-theory wor
 
 ### [legalcode-au-asic-regulatory-compliance](skills/legalcode-au-asic-regulatory-compliance/SKILL.md)
 
-Assess compliance with the Australian Securities and Investments Commission (ASIC) regulatory framework.
+Assess compliance with the Australian Securities and Investments Commission (ASIC) regulatory framework. Use when auditing AFS licensees, credit licensees, responsible entities, managed investment scheme operators, securities dealers, superannuation trustees, financial advisers, insurance providers, BNPL providers, or any entity regulated by ASIC under the Corporations Act 2001, ASIC Act 2001, or NCCP Act 2009.
 
 ### [legalcode-au-consumer-law-compliance](skills/legalcode-au-consumer-law-compliance/SKILL.md)
 
@@ -760,31 +760,31 @@ Assess compliance with the Australian Consumer Law (ACL) — Schedule 2 of the C
 
 ### [legalcode-au-fair-work-compliance](skills/legalcode-au-fair-work-compliance/SKILL.md)
 
-Assess compliance with the Fair Work Act 2009 (Cth) — including the 11 National Employment Standards (NES), modern award coverage and minimum entitlements, enterprise agreement obligations, general protections and adverse action exposure, sham contracting risk, termination and unfair dismissal procedural fairness, record-keeping obligations, and FWO enforcement risk profiling. Fully covers the Closing Loopholes Acts (2023–2024): right to disconnect, new casual definition, fixed-term contract limits, wage theft criminalisation (effective 1 January 2025), labour hire same-job-same-pay orders, employee-like platform worker standards, and flexible work request reforms. Generates COMPLIANT / PARTIAL / NON-COMPLIANT findings with CRITICAL / HIGH / MEDIUM / LOW risk tiers, clause-level remediation language with revised drafts, penalty exposure estimates, and a prioritised remediation roadmap.
+Assess compliance with the Fair Work Act 2009 (Cth) — including the 11 National Employment Standards (NES), modern award coverage and minimum entitlements, enterprise agreement obligations, general protections and adverse action exposure, sham contracting risk, termination and unfair dismissal procedural fairness, record-keeping obligations, and FWO enforcement risk profiling. Use when auditing employment agreements, award compliance, wage and hour practices, casual conversion eligibility, flexible work policies, termination procedures, contractor classification, or any workplace practice for Fair Work Act compliance.
 
 ### [legalcode-au-unfair-contract-terms](skills/legalcode-au-unfair-contract-terms/SKILL.md)
 
-Review contracts for unfair terms under Australia's unfair contract terms (UCT) regime — Australian Consumer Law (ACL) ss 23–28 and ASIC Act ss 12BH–12BK.
+Review contracts for unfair terms under Australia's unfair contract terms (UCT) regime — Australian Consumer Law (ACL) ss 23–28 and ASIC Act ss 12BH–12BK. Use when reviewing any standard form consumer or small business contract for Australian UCT compliance — including SaaS agreements, subscription contracts, financial services terms, insurance contracts (post-5 April 2021), franchise agreements, services contracts, platform terms, and any terms and conditions used at scale in Australia.
 
 ### [legalcode-franchise-agreement-review-au](skills/legalcode-franchise-agreement-review-au/SKILL.md)
 
-Review franchise agreements for Australian operations against the Franchising Code of Conduct 2025 (Competition and Consumer (Industry Codes—Franchising) Regulations 2024) and Australian Consumer Law (Competition and Consumer Act 2010, Schedule 2) — verify disclosure document compliance with Schedule 1, screen for unfair contract terms under the expanded UCT regime (penalties from 9 November 2023), evaluate good faith obligation compliance (s 6), analyse restraint of trade provisions including new s 42 prohibition on non-renewal restraints, review significant capital expenditure disclosure (Items 14(1A), 14(1B) from 1 November 2025), assess early termination compensation obligations (s 43), evaluate "reasonable opportunity for return on investment" requirement (s 44), review specific purpose fund obligations, verify 14-day consideration period and cooling-off compliance, and assess ACCC enforcement risk.
+Review franchise agreements for Australian operations against the Franchising Code of Conduct 2025 (Competition and Consumer (Industry Codes—Franchising) Regulations 2024) and Australian Consumer Law (Competition and Consumer Act 2010, Schedule 2) — verify disclosure document compliance with Schedule 1, screen for unfair contract terms under the expanded UCT regime (penalties from 9 November 2023), evaluate good faith obligation compliance (s 6), analyse restraint of trade provisions including new s 42 prohibition on non-renewal restraints, review significant capital expenditure disclosure (Items 14(1A), 14(1B) from 1 November 2025), assess early termination compensation obligations (s 43), evaluate "reasonable opportunity for return on investment" requirement (s 44), review specific purpose fund obligations, verify 14-day consideration period and cooling-off compliance, and assess ACCC enforcement risk. Use when reviewing any franchise agreement for operations in Australia.
 
 ## Jurisdictions / Brazil (2)
 
 ### [legalcode-br-clt-employment-review](skills/legalcode-br-clt-employment-review/SKILL.md)
 
-Reviews Brazilian employment contracts, HR policies, payroll calculations, and termination packages for CLT (Consolidação das Leis do Trabalho) compliance. Covers all contract types (prazo indeterminado, experiência, intermitente, teletrabalho), 13th salary (décimo terceiro salário), férias and dobra de férias, FGTS deposits and multa rescisória, overtime (horas extras) and banco de horas, termination types and calculations (rescisão, aviso prévio proporcional, TRCT), union obligations, and eSocial event deadlines. Applies 2017 Reforma Trabalhista (Lei 13.467/2017) and Lei 14.442/2022 (teletrabalho update). Use when auditing Brazilian employment agreements, reviewing severance packages, validating payroll calculations, assessing vínculo empregatício (misclassification) exposure, or conducting HR compliance reviews for Brazilian operations.
+Reviews Brazilian employment contracts, HR policies, payroll calculations, and termination packages for CLT (Consolidação das Leis do Trabalho) compliance. Use when auditing Brazilian employment agreements, reviewing severance packages, validating payroll calculations, assessing vínculo empregatício (misclassification) exposure, or conducting HR compliance reviews for Brazilian operations.
 
 ### [legalcode-venture-financing-br](skills/legalcode-venture-financing-br/SKILL.md)
 
-Brazilian venture financing advisor covering the full lifecycle from pre-seed to exit. Analyze, draft, and review MISTO (Latitud open-source), CICC (Contrato de Investimento em Capital Conversível), and Mútuo Conversível instruments. Assess Ltda vs. S.A. corporate structure selection, Acordo de Quotistas and Acordo de Acionistas terms, FIP (Fundo de Investimento em Participações) fund vehicle structuring under CVM Resolution 175/22 and its Normative Annex IV, Marco Legal das Startups (Lei Complementar 182/2021), CICC legislative framework (PLP 252/2023), CVM sandbox exemptions, IOF tax analysis, LGPD compliance, FGTS equity-compensation interaction, anti-dilution mechanics (broad-based weighted average), liquidation preference (preferência de liquidação), tag-along, drag-along, offshore flip structures, CADE antitrust thresholds, and ABStartups/ABVCAP market standards.
+Brazilian venture financing advisor covering the full lifecycle from pre-seed to exit. Use when a lawyer, founder, angel investor, VC fund manager, or in-house counsel asks to review or draft startup investment documents governed by Brazilian law, analyze a Brazilian term sheet, structure a FIP, assess IOF exposure on a convertible loan, advise on MISTO vs. Mútuo Conversível, check CVM compliance for a startup financing round, evaluate a Ltda-to-S.A. transformation, plan an offshore flip, or understand Brazilian venture capital regulatory requirements.
 
 ## Jurisdictions / Canada (3)
 
 ### [legalcode-ca-competition-act-assessment](skills/legalcode-ca-competition-act-assessment/SKILL.md)
 
-Assess Competition Act (R.S.C., 1985, c. C-34) compliance for Canadian businesses and counsel. Covers criminal cartel offences (price-fixing, market allocation, bid-rigging, wage-fixing, no-poach), civil reviewable matters (abuse of dominance, price maintenance, exclusive dealing, tied selling, refusal to deal), merger notification and substantive review (post-2024 amendments including repealed efficiency defence and rebuttable presumption), deceptive marketing practices (misleading advertising, drip pricing, greenwashing pre-substantiation obligations), Competition Bureau enforcement and investigation procedures, consent agreements, immunity and leniency programs, private rights of action expanded by Bills C-56 and C-59, and the section 90.1 non-competitor civil collaboration regime in force December 2024.
+Assess Competition Act (R.S.C., 1985, c. Use when advising on competition law risk, building compliance programs, preparing for Bureau investigations, reviewing distribution or franchise agreements, conducting cartel self-audits, assessing merger filing obligations, or responding to Competition Bureau inquiries.
 
 ### [legalcode-ca-employment-standards-review](skills/legalcode-ca-employment-standards-review/SKILL.md)
 
@@ -792,35 +792,35 @@ Reviews employment standards compliance across all Canadian jurisdictions — fe
 
 ### [legalcode-ca-pipeda-compliance](skills/legalcode-ca-pipeda-compliance/SKILL.md)
 
-Comprehensive PIPEDA compliance assessment for Canadian private-sector organizations. Evaluates organizational practices against all 10 Fair Information Principles (PIPEDA Schedule 1 Clauses 4.1–4.10), the OPC 2019 Meaningful Consent Guidelines, cross-border transfer accountability obligations, individual access and correction rights, and the breach of security safeguards framework (ss.10.1–10.3, SOR/2018-64). Generates a structured compliance gap report with COMPLIANT/PARTIAL/NON-COMPLIANT findings, CRITICAL/ HIGH/MEDIUM/LOW risk prioritization, and actionable remediation steps. Covers provincial interaction with BC PIPA (SBC 2003, c.63), Alberta PIPA (SA 2003, c.P-6.5), and Quebec Law 25, and includes a CPPA readiness gap analysis against the proposed Consumer Privacy Protection Act (Bill C-27).
+Comprehensive PIPEDA compliance assessment for Canadian private-sector organizations. Use when conducting a PIPEDA compliance audit, preparing for an OPC investigation or complaint, building a privacy management program, onboarding a new line of business or product involving personal information, or assessing compliance exposure before a merger, acquisition, or regulatory engagement in Canada.
 
 ## Jurisdictions / China (1)
 
 ### [legalcode-non-compete-analysis-cn](skills/legalcode-non-compete-analysis-cn/SKILL.md)
 
-Deep enforceability analysis of Chinese non-compete clauses (竞业限制) governed by Labor Contract Law of the PRC (劳动合同法) Articles 23-24 and the SPC Consolidated Judicial Interpretation on Labor Disputes (最高人民法院关于审理劳动争议案件适用法律问题的解释(一), effective 1 January 2021) and SPC Judicial Interpretation II (Fa Shi [2025] No. 12, effective 1 September 2025).
+Deep enforceability analysis of Chinese non-compete clauses (竞业限制) governed by Labor Contract Law of the PRC (劳动合同法) Articles 23-24 and the SPC Consolidated Judicial Interpretation on Labor Disputes (最高人民法院关于审理劳动争议案件适用法律问题的解释(一), effective 1 January 2021) and SPC Judicial Interpretation II (Fa Shi [2025] No. 12, effective 1 September 2025). Use when reviewing a non-compete clause (竞业限制条款) in a Chinese employment contract (劳动合同), executive agreement, severance package, or standalone restrictive covenant agreement; advising on waiver strategy at termination; assessing an employee's ability to join a competitor; planning workforce restructuring; or reviewing non-compete provisions in M&A employment due diligence for a Chinese target or acquiree.
 
 ## Jurisdictions / European Union (7)
 
 ### [legalcode-eu-competition-law-assessment](skills/legalcode-eu-competition-law-assessment/SKILL.md)
 
-Assess EU competition law compliance across all major enforcement pillars: Article 101 TFEU (anti-competitive agreements, cartels, block exemptions including VBER 2022/720 and horizontal BERs), Article 102 TFEU (abuse of dominant position, predatory pricing, exclusivity rebates, tying, margin squeeze, post-Intel AEC test), EU Merger Regulation 139/2004 (EU dimension thresholds, Phase I/II review, gun-jumping, SIEC test, Article 22 post-Illumina/GRAIL), State Aid (Articles 107-109 TFEU, GBER 651/2014, De Minimis 2023/2831), dawn raid preparedness (Regulation 1/2003 Article 20, legal privilege, digital evidence), and EU leniency programmes (cartel immunity, fine reductions, corporate statements, private damages interaction under Directive 2014/104/EU).
+Assess EU competition law compliance across all major enforcement pillars: Article 101 TFEU (anti-competitive agreements, cartels, block exemptions including VBER 2022/720 and horizontal BERs), Article 102 TFEU (abuse of dominant position, predatory pricing, exclusivity rebates, tying, margin squeeze, post-Intel AEC test), EU Merger Regulation 139/2004 (EU dimension thresholds, Phase I/II review, gun-jumping, SIEC test, Article 22 post-Illumina/GRAIL), State Aid (Articles 107-109 TFEU, GBER 651/2014, De Minimis 2023/2831), dawn raid preparedness (Regulation 1/2003 Article 20, legal privilege, digital evidence), and EU leniency programmes (cartel immunity, fine reductions, corporate statements, private damages interaction under Directive 2014/104/EU). Use when conducting competition law compliance reviews, assessing agreements, evaluating dominance risk, screening M&A transactions, advising on state aid eligibility, preparing for or responding to Commission inspections, or advising on leniency filings.
 
 ### [legalcode-eu-csrd-sustainability-reporting](skills/legalcode-eu-csrd-sustainability-reporting/SKILL.md)
 
-EU CSRD (Directive 2022/2464/EU) sustainability reporting compliance assessment. Determine CSRD applicability and wave classification under Omnibus I thresholds (≥1,000 employees + €50M turnover or €25M balance sheet), assess double materiality assessment (DMA) completeness against ESRS 1 Chapter 3, evaluate ESRS disclosures across all cross-cutting (ESRS 1, ESRS 2) and topical standards (E1–E5, S1–S4, G1), review Scope 1/2/3 GHG methodology against ESRS E1, assess value chain data collection and CSDDD alignment, check XBRL/iXBRL digital tagging readiness, and evaluate limited assurance readiness under ISSA 5000. Classifies findings as COMPLIANT / PARTIAL / NON-COMPLIANT / CRITICAL. Outputs executive summary, ESRS gap matrix, DMA assessment, assurance readiness report, and remediation roadmap with phased timelines.
+EU CSRD (Directive 2022/2464/EU) sustainability reporting compliance assessment.
 
 ### [legalcode-eu-dma-compliance](skills/legalcode-eu-dma-compliance/SKILL.md)
 
-Assess compliance with the EU Digital Markets Act (Regulation (EU) 2022/1925, "DMA") for any organisation that may be a gatekeeper or that provides products or services on a designated gatekeeper's core platform service.
+Assess compliance with the EU Digital Markets Act (Regulation (EU) 2022/1925, "DMA") for any organisation that may be a gatekeeper or that provides products or services on a designated gatekeeper's core platform service. Use when advising a potential gatekeeper on designation risk, conducting a DMA gap analysis, preparing an annual compliance report, responding to a Commission information request, building a DMA compliance programme from scratch, advising a third-party developer or business user on their DMA rights, or assessing enforcement exposure after the April 2025 Apple/Meta fines.
 
 ### [legalcode-eu-dsa-compliance](skills/legalcode-eu-dsa-compliance/SKILL.md)
 
-Assess compliance with the EU Digital Services Act (Regulation (EU) 2022/2065, "DSA") for any provider of intermediary services, online platforms, or online search engines serving EU users.
+Assess compliance with the EU Digital Services Act (Regulation (EU) 2022/2065, "DSA") for any provider of intermediary services, online platforms, or online search engines serving EU users. Use when onboarding a new digital service under DSA, conducting a DSA compliance audit, preparing for a DSC inspection, responding to an enforcement inquiry, or building a DSA compliance programme from scratch.
 
 ### [legalcode-eu-gdpr-breach-notification-operations](skills/legalcode-eu-gdpr-breach-notification-operations/SKILL.md)
 
-Runs the complete EU GDPR personal data breach response workflow from initial incident triage through post-incident remediation. Use when: (1) a data breach or security incident involving personal data has occurred or is suspected, (2) an organisation needs to determine whether GDPR Articles 33 or 34 notification obligations are triggered, (3) a controller or processor needs to manage the 72-hour notification clock and lead supervisory authority determination, (4) a phased or supplementary notification must be prepared under Art. 33(4), (5) an operator needs to draft the Art. 33 SA notification, Art. 34 data subject communication, or processor-to-controller notification, (6) a forensic coordination plan or post-breach mitigation playbook is required, (7) Art. 33(5) internal documentation must be produced for regulatory audit. Covers controller-only, processor-only, and hybrid scenarios.
+Runs the complete EU GDPR personal data breach response workflow from initial incident triage through post-incident remediation.
 
 ### [legalcode-eu-prospectus-regulation](skills/legalcode-eu-prospectus-regulation/SKILL.md)
 
@@ -828,13 +828,13 @@ Guides compliance with the EU Prospectus Regulation (Regulation (EU) 2017/1129, 
 
 ### [legalcode-eu-whistleblower-directive](skills/legalcode-eu-whistleblower-directive/SKILL.md)
 
-Implement and audit compliance with EU Whistleblower Directive 2019/1937. Covers internal reporting channel design, protected persons scope, reportable breach categories, 7-day acknowledgment and 3-month feedback obligations, investigator independence, confidentiality requirements, anti-retaliation framework (Article 19 burden-of-proof reversal), external reporting authorities, public disclosure conditions (Article 15), GDPR interaction, and national transposition variations across all EU Member States.
+Implement and audit compliance with EU Whistleblower Directive 2019/1937. Use when building a whistleblower program from scratch, auditing an existing program, conducting a gap analysis against the Directive, advising on national implementation differences (Hinweisgeberschutzgesetz, Loi Sapin II, Wet Bescherming Klokkenluiders, Protected Disclosures Act, etc.), drafting internal reporting policies, handling retaliation allegations, designing intake/triage workflows, or assessing interaction with sector-specific rules (MAR, MiFID II, CRD V).
 
 ## Jurisdictions / France (7)
 
 ### [legalcode-fr-bail-commercial](skills/legalcode-fr-bail-commercial/SKILL.md)
 
-Draft or review a French commercial lease (bail commercial) governed by the statut des baux commerciaux — Code de commerce Art. L145-1 to L145-60, as reformed by Loi Pinel 2014 and Décret 2014-1317. Covers the mandatory 9-year term and triennial break rights (Art. L145-4), rent review using ILC (Indice des Loyers Commerciaux) or ILAT (Indice des Loyers des Activités Tertiaires) with plafonnement and déplafonnement rules, lissage (10% annual cap), clause tunnel (Art. L145-39 at 25% indexation variance), renewal rights (renouvellement), refusal without indemnity (motif sérieux et légitime), eviction indemnity (indemnité d'éviction — Art. L145-14) calculation and components, lease assignment (cession du bail / cession du fonds de commerce — Art. L145-16), subletting (sous-location — Art. L145-31), charges and property tax allocation (Art.
+Draft or review a French commercial lease (bail commercial) governed by the statut des baux commerciaux — Code de commerce Art. L145-1 to L145-60, as reformed by Loi Pinel 2014 and Décret 2014-1317. Use when reviewing a tenant's or landlord's draft bail commercial, negotiating renewal terms, assessing eviction indemnity entitlement, advising on rent revision disputes, or drafting a new bail commercial under French law.
 
 ### [legalcode-fr-cnil-privacy-compliance](skills/legalcode-fr-cnil-privacy-compliance/SKILL.md)
 
@@ -842,7 +842,7 @@ Assess an organization's privacy compliance against French data protection law: 
 
 ### [legalcode-fr-contrat-de-travail-cdi](skills/legalcode-fr-contrat-de-travail-cdi/SKILL.md)
 
-Draft or review a French CDI (contrat de travail à durée indéterminée — permanent employment contract) for an employer or employee in France. Covers all mandatory clauses under the Code du travail, convention collective alignment (Syntec IDCC 1486, Métallurgie IDCC 3248, and major sector CCNs), non-compete clause (clause de non-concurrence) validity and mandatory financial compensation, mobility clauses (clause de mobilité), intellectual property assignment and employee inventions (Art. L113-9 / L611-7 Code de la propriété intellectuelle), forfait jours for autonomous executives, telework (télétravail) provisions, RGPD/CNIL employee data clause, probationary period (période d'essai) rules, termination (licenciement) procedure and Barème Macron, and rupture conventionnelle.
+Draft or review a French CDI (contrat de travail à durée indéterminée — permanent employment contract) for an employer or employee in France. Use when drafting a new CDI, reviewing an existing French employment contract, advising on enforceability of restrictive covenants, assessing compliance with Code du travail mandatory provisions, or preparing for termination.
 
 ### [legalcode-fr-sapin-ii-compliance](skills/legalcode-fr-sapin-ii-compliance/SKILL.md)
 
@@ -850,15 +850,15 @@ Assess an organization's anti-corruption compliance program against France's Loi
 
 ### [legalcode-franchise-agreement-review-eu-fr](skills/legalcode-franchise-agreement-review-eu-fr/SKILL.md)
 
-Review franchise agreements for French operations against the Loi Doubin (Art. L330-3 Code de commerce) and Decree 91-337 (Art. R330-1) — verify Document d'Information Précontractuelle (DIP) compliance with mandatory 20-day pre-contractual disclosure period, screen for significant imbalance (déséquilibre significatif) under Art. L442-1 I(2) Code de commerce, evaluate post-term non-compete enforceability under Art. L341-2 (Macron Law 2015: maximum 1 year, limited to premises, indispensable for know-how protection), analyse abrupt termination (rupture brutale) exposure under Art.
+Review franchise agreements for French operations against the Loi Doubin (Art. L330-3 Code de commerce) and Decree 91-337 (Art. R330-1) — verify Document d'Information Précontractuelle (DIP) compliance with mandatory 20-day pre-contractual disclosure period, screen for significant imbalance (déséquilibre significatif) under Art. L442-1 I(2) Code de commerce, evaluate post-term non-compete enforceability under Art. L341-2 (Macron Law 2015: maximum 1 year, limited to premises, indispensable for know-how protection), analyse abrupt termination (rupture brutale) exposure under Art. L442-1 II (18-month safe harbour), assess good faith compliance under Art. 1104 Code civil (mandatory, d'ordre public), review competition law compliance under EU VBER 2022/720 (RPM, online sales, territory), evaluate intuitu personae transfer restrictions and pre-emption rights (droit de préemption), and review defect of consent (vice du consentement) exposure for DIP failures.
 
 ### [legalcode-non-compete-analysis-fr](skills/legalcode-non-compete-analysis-fr/SKILL.md)
 
-Deep enforceability analysis of a French non-compete clause (clause de non-concurrence) against the five cumulative Cour de cassation criteria established by the landmark decisions of 10 juillet 2002 (Cass. Soc. n° 00-45.135 and 00-45.387). Covers mandatory financial compensation (contrepartie financière) and its calculation basis, collective bargaining agreement (CCN/CBA) overlay including Syntec IDCC 1486, Métallurgie IDCC 3248, and other major sector agreements, geographic and activity scope proportionality, maximum duration, employer renunciation (waiver) mechanics and deadlines, consequences of non-payment and employee breach (Cass. Soc. 24 janvier 2024), and special situations (rupture conventionnelle, licenciement économique, période d'essai, Art. L1224-1 business transfers).
+Deep enforceability analysis of a French non-compete clause (clause de non-concurrence) against the five cumulative Cour de cassation criteria established by the landmark decisions of 10 juillet 2002 (Cass. Use when reviewing a clause de non-concurrence in a French CDI, CDD, severance agreement, or rupture conventionnelle; advising an employer on waiver strategy; or assessing an employee's ability to join a competitor.
 
 ### [legalcode-venture-financing-fr](skills/legalcode-venture-financing-fr/SKILL.md)
 
-French venture financing suite covering BSPCE (Art. 163 bis G CGI; 2025 Finance Law reform), BSA (Bons de Souscription d'Actions), SAS structural flexibility (actions de préférence L228-11 to L228-19; pacte d'associés), AMF private placement rules (Art. L411-2 CMF; less than 150 investors; qualified investor exemption), obligations convertibles (OC/OCABSA/BSAR; Arts. L228-91–L228-106 Code de Commerce), and French Tech ecosystem instruments (BPI France; Tibi initiative; French Tech Visa). Use when a founder, investor, or counsel needs to: select BSPCE vs. BSA vs.
+French venture financing suite covering BSPCE (Art. 163 bis G CGI; 2025 Finance Law reform), BSA (Bons de Souscription d'Actions), SAS structural flexibility (actions de préférence L228-11 to L228-19; pacte d'associés), AMF private placement rules (Art. L411-2 CMF; less than 150 investors; qualified investor exemption), obligations convertibles (OC/OCABSA/BSAR; Arts. L228-91–L228-106 Code de Commerce), and French Tech ecosystem instruments (BPI France; Tibi initiative; French Tech Visa).
 
 ## Jurisdictions / Germany (6)
 
@@ -908,7 +908,7 @@ Review, draft, and analyse contracts governed by Icelandic law. Covers Act No. 7
 
 ### [legalcode-venture-financing-in](skills/legalcode-venture-financing-in/SKILL.md)
 
-India venture financing skill covering the full lifecycle from pre-seed to IPO exit. Deep analysis of India-specific instruments and regulatory frameworks: iSAFE (structured as CCPS under Companies Act 2013), Compulsorily Convertible Preference Shares (CCPS), Compulsorily Convertible Debentures (CCD), and priced equity rounds. Covers FEMA/NDI Rules 2019 pricing and reporting (Form FC-GPR, Form FC-TRS), SEBI Alternative Investment Fund (AIF) Category I angel fund regulations (including September 2025 restructuring), angel tax abolition (Finance Act 2024, effective FY 2025-26), Section 80-IAC startup tax holiday (3-year profit exemption), DPIIT recognition requirements and benefits, RBI External Commercial Borrowing (ECB) automatic route for startups, and SEBI ICDR IPO eligibility.
+India venture financing skill covering the full lifecycle from pre-seed to IPO exit. Use when a founder, investor, counsel, or finance professional needs to: structure a venture financing round under Indian law; analyze iSAFE vs. CCPS vs. CCD instrument selection; review FEMA compliance for foreign investor participation; assess DPIIT recognition strategy; evaluate Section 80-IAC or SEBI AIF eligibility; analyze a term sheet for an Indian startup; plan an IPO, secondary transaction, or reverse flip exit; or draft FC-GPR/FC-TRS filing strategy.
 
 ## Jurisdictions / Ireland (1)
 
@@ -930,7 +930,7 @@ Japanese venture financing adviser covering the full lifecycle of startup capita
 
 ### [legalcode-nz-employment-relations](skills/legalcode-nz-employment-relations/SKILL.md)
 
-Assess New Zealand employment law compliance and disputes under the Employment Relations Act 2000 (ERA) — good faith obligations, personal grievances, unjustified dismissal, 90-day trial periods, breaks and minimum entitlements (Holidays Act 2003), restructuring and redundancy protections, triangular employment, restraints of trade, and ERA/Employment Court proceedings. Use when advising on NZ employment disputes, reviewing NZ employment agreements, assessing restructuring processes, conducting HR compliance audits, or preparing for mediation and ERA proceedings. Covers the Employment Relations Act 2000, Holidays Act 2003, Minimum Wage Act 1983, Parental Leave and Employment Protection Act 1987, Health and Safety at Work Act 2015 (HSWA) employment intersection, Human Rights Act 1993 discrimination grounds, Privacy Act 2020 employment obligations, and KiwiSaver Act 2006 employer duties.
+Assess New Zealand employment law compliance and disputes under the Employment Relations Act 2000 (ERA) — good faith obligations, personal grievances, unjustified dismissal, 90-day trial periods, breaks and minimum entitlements (Holidays Act 2003), restructuring and redundancy protections, triangular employment, restraints of trade, and ERA/Employment Court proceedings. Use when advising on NZ employment disputes, reviewing NZ employment agreements, assessing restructuring processes, conducting HR compliance audits, or preparing for mediation and ERA proceedings.
 
 ## Jurisdictions / Nordic (1)
 
@@ -946,11 +946,11 @@ Review commercial contracts under Polish law (Kodeks cywilny / Civil Code) — f
 
 ### [legalcode-pl-employment-agreement](skills/legalcode-pl-employment-agreement/SKILL.md)
 
-Draft or review Polish employment agreements (umowa o pracę) under the Kodeks pracy (Labour Code). Covers all mandatory content requirements (Art. 29 KP), probation period rules (Art. 25 KP), fixed-term limits (33 months / 3 contracts under Art. 25¹ KP), notice and termination procedures (Art. 36, 52, 53 KP), severance pay, non-compete clauses (zakaz konkurencji — Art. 101¹–101² KP), remote work provisions (Art. 67¹⁹–67³⁶ KP, effective April 7 2023), IP ownership (UPAPP Art. 12, 74; PrWłPrzem Art. 11), personal data and monitoring rules (Art. 22¹–22² KP + GDPR), ZUS contribution structure, and whistleblower protection (Ustawa o ochronie sygnalistów 2024). Also assesses misclassification risk: whether a civil law contract (umowa zlecenia / umowa o dzieło) or B2B arrangement would be reclassified as employment under Art. 22 KP and the 2026 PIP reclassification powers.
+Draft or review Polish employment agreements (umowa o pracę) under the Kodeks pracy (Labour Code).
 
 ### [legalcode-pl-legal-memorandum](skills/legalcode-pl-legal-memorandum/SKILL.md)
 
-Draft and review Polish law legal memoranda (opinia prawna) covering statutory interpretation (wykładnia prawa), Civil Code (Kodeks cywilny, KC) analysis, commercial company law (Kodeks spółek handlowych, KSH), administrative law (Kodeks postępowania administracyjnego, KPA), court structure, and precedent treatment. Applies the canonical Polish opinia prawna structure (Przedmiot / Podstawa prawna / Podstawa faktyczna / Analiza prawna / Wnioski / Zastrzeżenia). Consolidates IURA-methodology subsumption analysis with Legalcode quality frameworks.
+Draft and review Polish law legal memoranda (opinia prawna) covering statutory interpretation (wykładnia prawa), Civil Code (Kodeks cywilny, KC) analysis, commercial company law (Kodeks spółek handlowych, KSH), administrative law (Kodeks postępowania administracyjnego, KPA), court structure, and precedent treatment. Use when answering a specific legal question (pytanie prawne) under Polish law, preparing formal legal opinions for corporate clients or regulatory submissions, assessing transaction permissibility, corporate authority, administrative compliance, or contractual validity under Polish law, or reviewing an existing opinia prawna for completeness and analytical quality.
 
 ## Jurisdictions / Singapore (2)
 
@@ -960,13 +960,13 @@ Assess Singapore Employment Act (Cap. 91) compliance for employers and employees
 
 ### [legalcode-venture-financing-sg](skills/legalcode-venture-financing-sg/SKILL.md)
 
-Singapore venture financing advisor covering the full early-stage investment lifecycle under Singapore law: CARE agreements and VIMA 2.0 (February 2025) document suite, Series A term sheet analysis against SVCA/SAL market standards, convertible note review, VCFM fund manager licensing (post-RFMC repeal August 2024), Section 13O/13OA/13U/13H fund tax incentive qualification (January 2025 revamp), Variable Capital Company (VCC) fund structuring, Singapore Pte Ltd formation for startups, and ASEAN cross-border DTA and regulatory considerations.
+Singapore venture financing advisor covering the full early-stage investment lifecycle under Singapore law: CARE agreements and VIMA 2.0 (February 2025) document suite, Series A term sheet analysis against SVCA/SAL market standards, convertible note review, VCFM fund manager licensing (post-RFMC repeal August 2024), Section 13O/13OA/13U/13H fund tax incentive qualification (January 2025 revamp), Variable Capital Company (VCC) fund structuring, Singapore Pte Ltd formation for startups, and ASEAN cross-border DTA and regulatory considerations. Use when reviewing or drafting CARE notes, convertible notes, VIMA term sheets, shareholders' agreements, or subscription agreements under Singapore law; when advising on VCFM licence applications or compliance; when assessing fund tax incentive eligibility; when structuring a Singapore VC fund (VCC vs LP vs Pte Ltd); or when advising founders on Singapore company formation and ASEAN expansion structuring.
 
 ## Jurisdictions / Switzerland (3)
 
 ### [legalcode-ch-cantonal-law-navigator](skills/legalcode-ch-cantonal-law-navigator/SKILL.md)
 
-Navigate Switzerland's 26-canton legal patchwork: map federal vs. cantonal authority, compare commercial register procedures and fees, model effective corporate and inheritance tax rates by canton, identify the correct labor court (Arbeitsgericht / Tribunal des prud'hommes) and civil court of first instance, understand real estate transfer taxes (Handänderungssteuer / droits de mutation) and land registry (Grundbuch / Registre foncier) requirements, clarify notarization obligations under the Staatliches vs. Freies Notariat distinction, and flag cantonal variations that affect entity formation, property transactions, succession planning, or litigation strategy. Use when a client's matter touches Switzerland and you need to know which canton's rules apply and how they differ from other cantons. Covers ZH Zurich, ZG Zug, GE Geneva, VD Vaud, BE Bern, BS Basel-Stadt, LU Lucerne, SG St.
+Navigate Switzerland's 26-canton legal patchwork: map federal vs. cantonal authority, compare commercial register procedures and fees, model effective corporate and inheritance tax rates by canton, identify the correct labor court (Arbeitsgericht / Tribunal des prud'hommes) and civil court of first instance, understand real estate transfer taxes (Handänderungssteuer / droits de mutation) and land registry (Grundbuch / Registre foncier) requirements, clarify notarization obligations under the Staatliches vs. Freies Notariat distinction, and flag cantonal variations that affect entity formation, property transactions, succession planning, or litigation strategy. Use when a client's matter touches Switzerland and you need to know which canton's rules apply and how they differ from other cantons.
 
 ### [legalcode-ch-ndsg-compliance](skills/legalcode-ch-ndsg-compliance/SKILL.md)
 
@@ -974,7 +974,7 @@ Switzerland revised Federal Act on Data Protection (nDSG / revDSG / FADP, SR 235
 
 ### [legalcode-ch-or-contract-review](skills/legalcode-ch-or-contract-review/SKILL.md)
 
-Review contracts governed by Swiss law under the Code of Obligations (Obligationenrecht/OR/CO, SR 220). Covers formation requirements (OR Art. 1-10), defects of consent — error (Art. 23-24), fraud (Art. 28), duress (Art. 29-30) — penalty clauses and Konventionalstrafe (Art. 160-163), assignment of claims / Abtretung (Art. 164-174), prescription and limitation periods (Art. 127-142, including the 2020 reform), and all five major specific contract types: sales/Kaufvertrag (Art. 184-238, Rügepflicht Art. 201), lease/Mietvertrag (Art. 253-304), work contract/Werkvertrag (Art. 363-379, 2026 warranty reform), mandate/Auftrag (Art. 394-406), and employment/Arbeitsvertrag (Art. 319-362, non-compete OR 340-340c, mass layoffs). Includes international private law / IPRG choice-of-law analysis (Art. 116-121), general standard terms (AGB) control, and Swiss enforcement mechanisms (SchKG/LP).
+Review contracts governed by Swiss law under the Code of Obligations (Obligationenrecht/OR/CO, SR 220).
 
 ## Jurisdictions / United Kingdom (10)
 
@@ -984,7 +984,7 @@ Analyse English law restrictive covenant enforceability (England & Wales) coveri
 
 ### [legalcode-uk-advertising-compliance](skills/legalcode-uk-advertising-compliance/SKILL.md)
 
-Review UK advertising and marketing communications for compliance with the CAP Code (non-broadcast), BCAP Code (broadcast), ASA enforcement practice, CMA consumer-protection expectations, pricing and discount claim rules, influencer and affiliate disclosure obligations, green and environmental claims, comparative advertising rules, distance selling disclosures, sector-specific restrictions (financial promotions, alcohol, gambling, food/nutrition/health, children's advertising, vaping/tobacco, crypto-assets), PECR and UK GDPR direct marketing obligations, and the Digital Markets, Competition and Consumers Act 2024 (DMCCA) consumer protection regime including fake reviews, drip pricing, and subscription contract obligations. Produces COMPLIANT / ADVISORY / NON-COMPLIANT / CRITICAL EXPOSURE findings with prioritised remediation and a Glass Box audit trail.
+Review UK advertising and marketing communications for compliance with the CAP Code (non-broadcast), BCAP Code (broadcast), ASA enforcement practice, CMA consumer-protection expectations, pricing and discount claim rules, influencer and affiliate disclosure obligations, green and environmental claims, comparative advertising rules, distance selling disclosures, sector-specific restrictions (financial promotions, alcohol, gambling, food/nutrition/health, children's advertising, vaping/tobacco, crypto-assets), PECR and UK GDPR direct marketing obligations, and the Digital Markets, Competition and Consumers Act 2024 (DMCCA) consumer protection regime including fake reviews, drip pricing, and subscription contract obligations.
 
 ### [legalcode-uk-bribery-act-compliance](skills/legalcode-uk-bribery-act-compliance/SKILL.md)
 
@@ -992,11 +992,11 @@ UK Bribery Act 2010 compliance assessment for England and Wales covering all fou
 
 ### [legalcode-uk-corporate-governance-code](skills/legalcode-uk-corporate-governance-code/SKILL.md)
 
-Reviews UK Corporate Governance Code 2024 (FRC) compliance for companies listed on the London Stock Exchange commercial companies and closed-ended investment funds categories. Covers all five Code sections: Board Leadership and Company Purpose (Principles A-E, Provisions 1-5), Division of Responsibilities (Principles F-H, Provisions 6-13), Composition, Succession and Evaluation (Principles I-L, Provisions 14-23), Audit, Risk and Internal Control (Principles M-O, Provisions 24-31), and Remuneration (Principles P-R, Provisions 32-41). Assesses compliance against all 18 Principles and 41 Provisions, generates comply-or-explain analysis, identifies material control gaps, evaluates malus and clawback provisions, assesses board independence and diversity disclosures, and produces a governance compliance roadmap.
+Reviews UK Corporate Governance Code 2024 (FRC) compliance for companies listed on the London Stock Exchange commercial companies and closed-ended investment funds categories. Use when preparing annual report governance disclosures, conducting internal governance reviews, advising listed companies on FRC monitoring readiness, assessing board composition against independence criteria, or reviewing remuneration structure for Code alignment.
 
 ### [legalcode-uk-employment-tribunal-claim](skills/legalcode-uk-employment-tribunal-claim/SKILL.md)
 
-Guide UK Employment Tribunal proceedings in England and Wales from ACAS early conciliation through to final remedy calculation. Use for ET1 claim drafting, ET3 response review, time limit analysis, preliminary hearing preparation, disclosure strategy, witness statement advice, hearing tactics, costs risk assessment, and remedy quantification (unfair dismissal basic/compensatory awards, discrimination Vento bands, whistleblowing, equal pay, unlawful deductions). Covers the full tribunal lifecycle: ACAS early conciliation (12-week period from 1 December 2025), ET1/ET3 forms, case management orders, disclosure, Polkey reductions, ACAS uplift/reduction, and Employment Rights Bill 2024-25 reforms. Jurisdiction-specific to England and Wales under the Employment Tribunal (Constitution and Rules of Procedure) Regulations 2013 (SI 2013/1237) and Employment Rights Act 1996.
+Guide UK Employment Tribunal proceedings in England and Wales from ACAS early conciliation through to final remedy calculation.
 
 ### [legalcode-uk-fca-regulatory-compliance](skills/legalcode-uk-fca-regulatory-compliance/SKILL.md)
 
@@ -1012,7 +1012,7 @@ Reviews UK capital raising and securities offering compliance across the full re
 
 ### [legalcode-uk-whistleblower-program-builder](skills/legalcode-uk-whistleblower-program-builder/SKILL.md)
 
-Build, audit, and design UK whistleblowing frameworks under the Public Interest Disclosure Act 1998 (PIDA) and Employment Rights Act 1996 Part IVA (ss.43A-43L, s.47B, s.103A) for England and Wales.
+Build, audit, and design UK whistleblowing frameworks under the Public Interest Disclosure Act 1998 (PIDA) and Employment Rights Act 1996 Part IVA (ss.43A-43L, s.47B, s.103A) for England and Wales. Use when building a whistleblowing programme from scratch, auditing an existing programme for PIDA/FCA compliance gaps, reviewing employment agreements for void confidentiality language, assessing detriment or dismissal risk in a specific case, designing investigation procedures, responding to an FCA SYSC 18 supervisory review, or advising a board on governance obligations.
 
 ### [legalcode-venture-financing-uk](skills/legalcode-venture-financing-uk/SKILL.md)
 
@@ -1022,7 +1022,7 @@ UK venture financing analysis and drafting skill covering the full stack of Engl
 
 ### [legalcode-franchise-agreement-review-us-ca](skills/legalcode-franchise-agreement-review-us-ca/SKILL.md)
 
-Review franchise agreements for California operations against the California Franchise Investment Law (Corp. Code §31000-31516) and California Franchise Relations Act (Bus. & Prof. Code §20000-20043) — verify DFPI registration and FDD California addendum compliance, screen for non-waivable franchisee protections (good cause termination §20020, 60-day cure §20020, 180-day non-renewal notice §20025, transfer approval §20028, forum selection §20040.5), analyse post-termination non-compete enforceability under Bus. & Prof. Code §16600 (as broadened by AB 1076 and SB 699), review FDD 23-item compliance with California- specific addendum requirements (Cal. Code Regs. tit. 10, §310.114.1), evaluate escrow and financial assurance conditions, assess FAST Act (AB 1228) implications for fast food franchises, and flag anti-reliance disclaimer violations under AB 676.
+Review franchise agreements for California operations against the California Franchise Investment Law (Corp. Code §31000-31516) and California Franchise Relations Act (Bus. & Prof. Code §20000-20043) — verify DFPI registration and FDD California addendum compliance, screen for non-waivable franchisee protections (good cause termination §20020, 60-day cure §20020, 180-day non-renewal notice §20025, transfer approval §20028, forum selection §20040.5), analyse post-termination non-compete enforceability under Bus. & Prof. Code §16600 (as broadened by AB 1076 and SB 699), review FDD 23-item compliance with California- specific addendum requirements (Cal. Use when reviewing any franchise agreement where the franchise will operate in California or where the franchisee is domiciled in California — CFRA applies in both cases (§20015).
 
 ### [legalcode-us-aia-construction-contract-review](skills/legalcode-us-aia-construction-contract-review/SKILL.md)
 
@@ -1030,11 +1030,11 @@ Review US construction contracts with emphasis on AIA standard forms (A101, A102
 
 ### [legalcode-us-delaware-entity-formation](skills/legalcode-us-delaware-entity-formation/SKILL.md)
 
-Guide Delaware C-corporation formation end-to-end — Certificate of Incorporation drafting (8 Del. C. § 102), Section 102(b)(7) director and officer exculpation (including 2022 amendment), authorized shares structuring for franchise tax minimization (Authorized Shares vs. Assumed Par Value Capital Method under 8 Del. C. § 503), blank check preferred stock for VC readiness, bylaws adoption under DGCL § 109, initial organizational actions (board and stockholder written consents under §§ 141(f) and 228), registered agent requirements (§ 132), Section 83(b) election timing, 409A valuation sequencing, IP assignment at formation, and multi-state foreign qualification.
+Guide Delaware C-corporation formation end-to-end — Certificate of Incorporation drafting (8 Del. Use when a founder, startup, legal team, or corporate counsel needs to incorporate a Delaware C-corp, prepare a formation document package, structure authorized capital, understand franchise tax obligations, qualify to do business in another state, or verify a formation checklist is complete.
 
 ### [legalcode-us-fcpa-compliance](skills/legalcode-us-fcpa-compliance/SKILL.md)
 
-Assesses Foreign Corrupt Practices Act (FCPA) compliance for US issuers, domestic concerns, and companies with US-nexus operations. Covers anti-bribery provisions (15 U.S.C. §§ 78dd-1 to 78dd-3), foreign official definition and instrumentality test (Esquenazi standard), books-and-records and internal controls (§ 78m(b)(2)), third-party due diligence (7-step lifecycle, 14-category red flag matrix), gifts/travel/ entertainment policy assessment, facilitation payment exposure, DOJ Corporate Enforcement Policy voluntary self-disclosure analysis (August 2024 120-day rule), DOJ Evaluation of Corporate Compliance Programs (ECCP September 2024) adequacy scoring, individual accountability framework, M&A successor liability analysis, and penalty structure (criminal/civil/disgorgement).
+Assesses Foreign Corrupt Practices Act (FCPA) compliance for US issuers, domestic concerns, and companies with US-nexus operations. Use when conducting FCPA compliance reviews, pre-enforcement self-assessments, compliance program gap analyses, VSD decision analyses, M&A FCPA due diligence, post-investigation remediation planning, or government contract qualification reviews.
 
 ### [legalcode-us-federal-regulatory-comment](skills/legalcode-us-federal-regulatory-comment/SKILL.md)
 
@@ -1050,7 +1050,7 @@ Conducts comprehensive US OFAC (Office of Foreign Assets Control) sanctions scre
 
 ### [legalcode-us-private-offering-and-blue-sky-compliance](skills/legalcode-us-private-offering-and-blue-sky-compliance/SKILL.md)
 
-Reviews US private securities offerings and resale transactions for Securities Act compliance — validates exemption selection (Reg D Rules 504/506(b)/506(c), Reg A/A+, Reg CF, Section 4(a)(2), Section 4(a)(7), Rule 144/144A), audits accredited investor verification procedures, performs bad actor disqualification checks under Rule 506(d), analyzes general solicitation controls, reviews offering materials and investor disclosures, maps Blue Sky notice filing obligations across all states, applies the integration doctrine, identifies broker-dealer and finder touchpoints, and builds a post-closing compliance calendar.
+Reviews US private securities offerings and resale transactions for Securities Act compliance — validates exemption selection (Reg D Rules 504/506(b)/506(c), Reg A/A+, Reg CF, Section 4(a)(2), Section 4(a)(7), Rule 144/144A), audits accredited investor verification procedures, performs bad actor disqualification checks under Rule 506(d), analyzes general solicitation controls, reviews offering materials and investor disclosures, maps Blue Sky notice filing obligations across all states, applies the integration doctrine, identifies broker-dealer and finder touchpoints, and builds a post-closing compliance calendar. Use when structuring a new Reg D offering, advising on resale path for restricted securities, preparing Blue Sky filings, reviewing placement agent agreements, conducting a private placement compliance audit, evaluating bad actor status of offering participants, or assessing securities law exposure before an M&A transaction involving privately placed securities.
 
 ### [legalcode-us-section-409a-valuation-review](skills/legalcode-us-section-409a-valuation-review/SKILL.md)
 
@@ -1058,8 +1058,8 @@ Review nonqualified deferred compensation arrangements for IRC Section 409A comp
 
 ### [legalcode-us-state-non-compete-analysis](skills/legalcode-us-state-non-compete-analysis/SKILL.md)
 
-Analyze non-compete agreement enforceability across all 50 US states. Use when reviewing a non-compete clause, covenant not to compete, restrictive covenant, post-employment restriction, or garden leave agreement — whether for an employer, employee, in-house counsel, or transactional attorney. Covers: 6-state total ban screening (California, Minnesota, North Dakota, Oklahoma, Montana, Wyoming), salary threshold screening for 12+ states, reasonableness factor analysis (geographic scope, duration, scope of activity, legitimate business interest), consideration requirements (at-hire vs. mid-employment), blue-pencil vs. red-pencil reformation doctrine, garden leave mechanics and salary requirements, choice-of-law enforceability (California SB 699 extraterritorial reach, DraftKings v. Hermalyn analysis), FTC rulemaking status post-Ryan LLC v.
+Analyze non-compete agreement enforceability across all 50 US states. Use when reviewing a non-compete clause, covenant not to compete, restrictive covenant, post-employment restriction, or garden leave agreement — whether for an employer, employee, in-house counsel, or transactional attorney.
 
 ### [legalcode-us-whistleblower-program-builder](skills/legalcode-us-whistleblower-program-builder/SKILL.md)
 
-Builds US federal whistleblower reporting and investigation programs covering SOX Section 806 employee protections (18 U.S.C. § 1514A; 29 C.F.R. Part 1980), SOX Section 301 audit committee complaint procedures (15 U.S.C. § 78j-1(m)(4)), Dodd-Frank Section 922 SEC Whistleblower Program (15 U.S.C. § 78u-6; Rules 21F-1 through 21F-17), CFTC Whistleblower Program (7 U.S.C. § 26), OSHA's 25+ whistleblower protection statutes, False Claims Act qui tam (31 U.S.C. § 3730), Anti-Money Laundering Act of 2020 FinCEN whistleblower (31 U.S.C. § 5323), and IRS whistleblower awards (26 U.S.C. § 7623). Covers hotline and intake channel architecture, Rule 21F-17 anti-impediment employment agreement audit, anti-retaliation controls and burden-of-proof analysis (SOX contributing-factor standard; Dodd-Frank heightened standard; Digital Realty Trust v.
+Builds US federal whistleblower reporting and investigation programs covering SOX Section 806 employee protections (18 U.S.C. § 1514A; 29 C.F.R. Part 1980), SOX Section 301 audit committee complaint procedures (15 U.S.C. § 78j-1(m)(4)), Dodd-Frank Section 922 SEC Whistleblower Program (15 U.S.C. § 78u-6; Rules 21F-1 through 21F-17), CFTC Whistleblower Program (7 U.S.C. § 26), OSHA's 25+ whistleblower protection statutes, False Claims Act qui tam (31 U.S.C. § 3730), Anti-Money Laundering Act of 2020 FinCEN whistleblower (31 U.S.C. § 5323), and IRS whistleblower awards (26 U.S.C. § 7623).

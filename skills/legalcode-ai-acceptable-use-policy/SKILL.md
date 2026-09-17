@@ -1,13 +1,10 @@
 ---
 name: legalcode-ai-acceptable-use-policy
 description: Drafts or reviews an organization's AI Acceptable Use Policy (AUP) — governing which AI tools
-  employees may use, under what conditions, and with what safeguards. Covers permitted and prohibited
-  AI uses, data handling restrictions (confidential information, PII/PHI, privileged communications),
-  employee disclosure obligations for AI-generated content, intellectual property considerations for AI-generated
-  work product, ethical walls between AI-assisted and human-only processes, security requirements for
-  AI tool access, training and certification obligations, incident reporting for AI errors and bias, accountability
-  and oversight requirements, and vendor-specific guidance for ChatGPT/OpenAI, Claude/Anthropic, Microsoft
-  Copilot, and Google Gemini.
+  employees may use, under what conditions, and with what safeguards. Use when establishing AI governance
+  foundations, conducting gap analysis against EU AI Act Art. 4 (AI literacy), ISO 42001, NIST AI RMF,
+  or sector-specific requirements (HIPAA, FINRA, legal professional ethics rules), or updating existing
+  policies for evolving AI tool landscapes.
 ---
 
 ## Using this skill

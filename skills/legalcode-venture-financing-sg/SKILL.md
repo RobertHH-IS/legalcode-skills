@@ -5,7 +5,11 @@ description: 'Singapore venture financing advisor covering the full early-stage 
   against SVCA/SAL market standards, convertible note review, VCFM fund manager licensing (post-RFMC repeal
   August 2024), Section 13O/13OA/13U/13H fund tax incentive qualification (January 2025 revamp), Variable
   Capital Company (VCC) fund structuring, Singapore Pte Ltd formation for startups, and ASEAN cross-border
-  DTA and regulatory considerations.'
+  DTA and regulatory considerations. Use when reviewing or drafting CARE notes, convertible notes, VIMA
+  term sheets, shareholders'' agreements, or subscription agreements under Singapore law; when advising
+  on VCFM licence applications or compliance; when assessing fund tax incentive eligibility; when structuring
+  a Singapore VC fund (VCC vs LP vs Pte Ltd); or when advising founders on Singapore company formation
+  and ASEAN expansion structuring.'
 ---
 
 ## Using this skill

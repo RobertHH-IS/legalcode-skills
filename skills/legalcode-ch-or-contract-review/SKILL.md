@@ -1,14 +1,7 @@
 ---
 name: legalcode-ch-or-contract-review
-description: 'Review contracts governed by Swiss law under the Code of Obligations (Obligationenrecht/OR/CO,
-  SR 220). Covers formation requirements (OR Art. 1-10), defects of consent — error (Art. 23-24), fraud
-  (Art. 28), duress (Art. 29-30) — penalty clauses and Konventionalstrafe (Art. 160-163), assignment of
-  claims / Abtretung (Art. 164-174), prescription and limitation periods (Art. 127-142, including the
-  2020 reform), and all five major specific contract types: sales/Kaufvertrag (Art. 184-238, Rügepflicht
-  Art. 201), lease/Mietvertrag (Art. 253-304), work contract/Werkvertrag (Art. 363-379, 2026 warranty
-  reform), mandate/Auftrag (Art. 394-406), and employment/Arbeitsvertrag (Art. 319-362, non-compete OR
-  340-340c, mass layoffs). Includes international private law / IPRG choice-of-law analysis (Art. 116-121),
-  general standard terms (AGB) control, and Swiss enforcement mechanisms (SchKG/LP).'
+description: Review contracts governed by Swiss law under the Code of Obligations (Obligationenrecht/OR/CO,
+  SR 220).
 ---
 
 ## Using this skill

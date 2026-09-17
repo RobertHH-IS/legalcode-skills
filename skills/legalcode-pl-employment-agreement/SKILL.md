@@ -1,14 +1,7 @@
 ---
 name: legalcode-pl-employment-agreement
-description: 'Draft or review Polish employment agreements (umowa o pracę) under the Kodeks pracy (Labour
-  Code). Covers all mandatory content requirements (Art. 29 KP), probation period rules (Art. 25 KP),
-  fixed-term limits (33 months / 3 contracts under Art. 25¹ KP), notice and termination procedures (Art.
-  36, 52, 53 KP), severance pay, non-compete clauses (zakaz konkurencji — Art. 101¹–101² KP), remote work
-  provisions (Art. 67¹⁹–67³⁶ KP, effective April 7 2023), IP ownership (UPAPP Art. 12, 74; PrWłPrzem Art.
-  11), personal data and monitoring rules (Art. 22¹–22² KP + GDPR), ZUS contribution structure, and whistleblower
-  protection (Ustawa o ochronie sygnalistów 2024). Also assesses misclassification risk: whether a civil
-  law contract (umowa zlecenia / umowa o dzieło) or B2B arrangement would be reclassified as employment
-  under Art. 22 KP and the 2026 PIP reclassification powers.'
+description: Draft or review Polish employment agreements (umowa o pracę) under the Kodeks pracy (Labour
+  Code).
 ---
 
 ## Using this skill

@@ -1,13 +1,9 @@
 ---
 name: legalcode-warn-act-analysis
 description: Analyzes federal WARN Act (29 U.S.C. §§ 2101–2109) and state mini-WARN compliance for plant
-  closings and mass layoffs. Covers covered-employer determination, plant closing and mass layoff triggering
-  thresholds, employment loss definitions, the 90-day rolling aggregation lookback, the three notice-reduction
-  exceptions (faltering company, unforeseeable business circumstances, natural disaster), notice content
-  and delivery requirements, damages calculation (back pay + ERISA benefits + $500/day civil penalty),
-  the single-employer/affiliated-companies doctrine, sale-of-business allocation, WARN in bankruptcy,
-  and remote-worker site-of-employment questions. Maps state mini-WARN variations for California, New
-  York, New Jersey, Maine, Maryland, Minnesota, and Illinois.
+  closings and mass layoffs. Use when assessing a proposed or completed reduction-in-force, plant closing,
+  or business sale for WARN Act exposure; when calculating potential damages; when evaluating whether
+  exceptions apply; or when determining which state mini-WARN statutes impose additional obligations.
 ---
 
 ## Using this skill

@@ -5,9 +5,10 @@ description: Review distribution and reseller agreements covering territory excl
   and brand standards, IP licenses for trademarks and trade dress (naked licensing risk), termination
   and post-termination obligations, competition law compliance (EU VBER 2022 / Regulation 2022/720, US
   Sherman Act Section 1 / Leegin / Sylvania / Colgate doctrine / Robinson-Patman), and channel conflict
-  management (dual distribution, online/offline separation, marketplace bans). Produces clause-by-clause
-  review with EU/US market-standard benchmarks, severity-classified findings, and competition-law compliance
-  screening.
+  management (dual distribution, online/offline separation, marketplace bans). Use when reviewing exclusive
+  distribution agreements, non-exclusive distribution agreements, reseller agreements, authorised distributor
+  agreements, OEM distribution agreements, or any channel-partner contract where a supplier appoints an
+  intermediary to resell its products or services into a defined territory or customer segment.
 ---
 
 ## Using this skill

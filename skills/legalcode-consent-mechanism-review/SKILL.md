@@ -1,13 +1,9 @@
 ---
 name: legalcode-consent-mechanism-review
 description: Reviews consent collection mechanisms for validity under GDPR Article 7, EDPB Guidelines
-  05/2020 on consent, and EDPB Guidelines 03/2022 on deceptive design patterns. Detects dark patterns
-  including pre-ticked boxes (Planet49), bundled consent, cookie walls, forced consent, asymmetric button
-  design, confirmshaming, withdrawal obstruction, and consent fatigue tactics. Evaluates all four validity
-  conditions — freely given, specific, informed, and unambiguous — plus withdrawal parity (Article 7(3))
-  and proof burden (Article 7(1)). Covers consent granularity (purpose-by-purpose), children's consent
-  under Article 8 with national age thresholds, explicit consent for Article 9 special categories, power-imbalance
-  contexts (employment, public authorities, large platforms), and consent refresh triggers.
+  05/2020 on consent, and EDPB Guidelines 03/2022 on deceptive design patterns. Use when auditing cookie
+  banners, consent management platforms, account sign-up flows, app permission requests, or any consent
+  mechanism before DPA review, product launch, or following enforcement enquiry.
 ---
 
 ## Using this skill

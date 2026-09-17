@@ -2,7 +2,10 @@
 name: legalcode-eu-dma-compliance
 description: Assess compliance with the EU Digital Markets Act (Regulation (EU) 2022/1925, "DMA") for
   any organisation that may be a gatekeeper or that provides products or services on a designated gatekeeper's
-  core platform service.
+  core platform service. Use when advising a potential gatekeeper on designation risk, conducting a DMA
+  gap analysis, preparing an annual compliance report, responding to a Commission information request,
+  building a DMA compliance programme from scratch, advising a third-party developer or business user
+  on their DMA rights, or assessing enforcement exposure after the April 2025 Apple/Meta fines.
 ---
 
 ## Using this skill

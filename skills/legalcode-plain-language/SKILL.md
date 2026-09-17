@@ -1,9 +1,13 @@
 ---
 name: legalcode-plain-language
 description: Rewrites legal text for specified audiences while maintaining legal accuracy and precision.
-  Covers legalese simplification, active-voice conversion, jargon replacement, archaic-phrase elimination,
-  readability scoring (Flesch-Kincaid Reading Ease, Flesch-Kincaid Grade Level, Gunning Fog Index, SMOG,
-  Coleman-Liau), and plain language compliance assessment.
+  Use when asked to "make this simpler," "translate this to plain English," "rewrite this for clients,"
+  "check readability," "plain language review," "accessibility audit," "consumer-friendly version," "grade
+  level check," or when a document must comply with plain language regulations such as the US Plain Writing
+  Act 2010, SEC Rule 421 plain English, CFPB mortgage disclosures, GDPR Article 12(1) clear and plain
+  language, UK Consumer Rights Act 2015 plain and intelligible, FCA Consumer Duty 2023, South Africa CPA
+  s.22, ISO 24495-1:2023, ISO 24495-2:2025, or state-level insurance readability mandates (Florida/Connecticut
+  Flesch RE ≥45, New York grade ≤8, Pennsylvania FK grade ≤9).
 ---
 
 ## Using this skill

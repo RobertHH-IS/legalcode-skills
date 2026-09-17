@@ -2,13 +2,9 @@
 name: legalcode-fr-bail-commercial
 description: Draft or review a French commercial lease (bail commercial) governed by the statut des baux
   commerciaux — Code de commerce Art. L145-1 to L145-60, as reformed by Loi Pinel 2014 and Décret 2014-1317.
-  Covers the mandatory 9-year term and triennial break rights (Art. L145-4), rent review using ILC (Indice
-  des Loyers Commerciaux) or ILAT (Indice des Loyers des Activités Tertiaires) with plafonnement and déplafonnement
-  rules, lissage (10% annual cap), clause tunnel (Art. L145-39 at 25% indexation variance), renewal rights
-  (renouvellement), refusal without indemnity (motif sérieux et légitime), eviction indemnity (indemnité
-  d'éviction — Art. L145-14) calculation and components, lease assignment (cession du bail / cession du
-  fonds de commerce — Art. L145-16), subletting (sous-location — Art. L145-31), charges and property tax
-  allocation (Art.
+  Use when reviewing a tenant's or landlord's draft bail commercial, negotiating renewal terms, assessing
+  eviction indemnity entitlement, advising on rent revision disputes, or drafting a new bail commercial
+  under French law.
 ---
 
 ## Using this skill

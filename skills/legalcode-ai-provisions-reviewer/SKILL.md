@@ -4,9 +4,10 @@ description: 'Reviews contracts for AI-specific provisions: IP ownership of AI-g
   restrictions and acceptable-use policies, training data rights (inputs/outputs as training material),
   liability allocation for AI errors and hallucinations, transparency and explainability requirements,
   algorithmic audit rights, bias monitoring and disparate impact obligations, human oversight and human-in-the-loop
-  requirements, AI governance and responsible-AI clauses, and missing AI governance terms. Flags contracts
-  that lack adequate AI safeguards, identifies one-sided AI risk transfers, generates redlines, and produces
-  a confidence-scored, auditable AI governance analysis.'
+  requirements, AI governance and responsible-AI clauses, and missing AI governance terms. Use when reviewing
+  SaaS agreements, professional services contracts, technology licenses, vendor contracts, employment
+  agreements, or any commercial contract where either party uses, deploys, procures, or integrates AI
+  systems.'
 ---
 
 ## Using this skill

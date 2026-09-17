@@ -2,12 +2,7 @@
 name: legalcode-eea-incorporation-tracker
 description: Tracks the European Economic Area (EEA) Joint Committee Decision (JCD) process for incorporating
   EU acts into the EEA Agreement so that they apply in Iceland, Norway, and Liechtenstein on the EFTA
-  pillar. Operates against the EEA Agreement's two-pillar architecture (Art. 7 EEA on incorporation; Art.
-  102 EEA on the JCD procedure with its six-month timeline and "serious difficulty" clause; Art. 103 EEA
-  on constitutional reservations and the suspension of entry into force pending parliamentary approval),
-  the Surveillance and Court Agreement (Art. 31 SCA mandating ESA monitoring; Art. 32 SCA on referral
-  to the EFTA Court — the EFTA-pillar mirror of TFEU Art. 258), and the homogeneity principle that drives
-  the EFTA Court to track CJEU jurisprudence.
+  pillar.
 ---
 
 ## Using this skill

@@ -1,12 +1,10 @@
 ---
 name: legalcode-data-room-organizer
 description: Organizes and audits Virtual Data Rooms (VDRs) for M&A transactions, debt financing, IPO/capital
-  markets, and venture/growth equity. Generates standard folder taxonomy tailored to transaction type,
-  classifies and tags documents, identifies gaps against comprehensive diligence checklists, produces
-  a numbered VDR index, and recommends granular access permission tiers. Use when setting up a sell-side
-  or buy-side data room, auditing an existing data room for completeness, preparing an information request
-  list, generating a VDR index for transaction documentation, or configuring access controls for multi-bidder
-  auction, competitive financing, or IPO processes.
+  markets, and venture/growth equity. Use when setting up a sell-side or buy-side data room, auditing
+  an existing data room for completeness, preparing an information request list, generating a VDR index
+  for transaction documentation, or configuring access controls for multi-bidder auction, competitive
+  financing, or IPO processes.
 ---
 
 ## Using this skill

@@ -2,6 +2,9 @@
 name: legalcode-eu-dsa-compliance
 description: Assess compliance with the EU Digital Services Act (Regulation (EU) 2022/2065, "DSA") for
   any provider of intermediary services, online platforms, or online search engines serving EU users.
+  Use when onboarding a new digital service under DSA, conducting a DSA compliance audit, preparing for
+  a DSC inspection, responding to an enforcement inquiry, or building a DSA compliance programme from
+  scratch.
 ---
 
 ## Using this skill

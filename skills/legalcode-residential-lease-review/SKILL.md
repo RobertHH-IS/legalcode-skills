@@ -1,13 +1,10 @@
 ---
 name: legalcode-residential-lease-review
-description: 'Review residential leases and tenancy agreements for tenants, landlords, and property managers
+description: Review residential leases and tenancy agreements for tenants, landlords, and property managers
   — identify problematic clauses, flag illegal provisions, generate compliance checklists, and produce
   jurisdiction-specific remediation actions. Use when reviewing an Assured Shorthold Tenancy (AST) or
   periodic assured tenancy in England and Wales, a US state residential lease, an Australian residential
-  tenancy agreement, or a German Mietvertrag (tenancy contract under BGB). Covers: rent and payment terms,
-  security deposit / bond / Kaution, tenant and landlord rights, maintenance and repairs, habitability
-  standards, termination and eviction grounds, rent control and increase limits, fair housing and anti-discrimination
-  obligations, renewal provisions, and statutory compliance gaps.'
+  tenancy agreement, or a German Mietvertrag (tenancy contract under BGB).
 ---
 
 ## Using this skill

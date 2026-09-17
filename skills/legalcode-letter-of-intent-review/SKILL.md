@@ -1,14 +1,7 @@
 ---
 name: legalcode-letter-of-intent-review
 description: Review letters of intent (LOIs), memoranda of understanding (MOUs), term sheets, heads of
-  terms, and agreements in principle for corporate transactions. Identifies binding vs. non-binding provisions,
-  assesses enforceability risks from purportedly non-binding language, and flags provisions creating unintended
-  binding obligations. Analyzes exclusivity and no-shop clauses (scope, duration, fiduciary-out carveouts,
-  penalty for breach), break-up fees and reverse break-up fees (trigger events, market benchmarks, Takeover
-  Panel inducement fee rules), confidentiality obligations (standalone vs. integrated, duration, residuals
-  clauses), conditions precedent to closing (satisfactory due diligence risk, financing conditions, regulatory
-  clearances), expense allocation (reliance damages exposure, culpa in contrahendo under civil law), and
-  governing law provisions.
+  terms, and agreements in principle for corporate transactions.
 ---
 
 ## Using this skill

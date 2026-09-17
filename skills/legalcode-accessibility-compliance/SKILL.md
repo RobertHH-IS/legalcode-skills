@@ -4,9 +4,11 @@ description: Assesses digital and physical accessibility compliance for websites
   and built environments under the Americans with Disabilities Act Title III (42 U.S.C. §12181 et seq.),
   ADA Title II DOJ Final Rule (April 2024 WCAG 2.1 AA mandate), Section 508 of the Rehabilitation Act
   (29 U.S.C. §794d), WCAG 2.1 and WCAG 2.2 (Level A/AA/AAA), and the EU European Accessibility Act 2025
-  (Directive 2019/882 / EN 301 549). Covers website and mobile app technical audits, VPAT/ACR documentation,
-  reasonable accommodation analysis, architectural barrier assessment under the ADA 2010 Standards for
-  Accessible Design, and remediation planning with IMMEDIATE/NEAR-TERM/BACKGROUND prioritization.
+  (Directive 2019/882 / EN 301 549). Use when assessing a website, app, digital product, or physical premises
+  for accessibility compliance; preparing a VPAT (Voluntary Product Accessibility Template) or ACR (Accessibility
+  Conformance Report); responding to a demand letter or DOJ complaint; meeting EU EAA June 2025 deadline
+  obligations; conducting Section 508 federal procurement assessment; or building an accessibility remediation
+  roadmap.
 ---
 
 ## Using this skill

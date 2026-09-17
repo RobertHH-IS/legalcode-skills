@@ -5,10 +5,7 @@ description: Prepare comprehensive mediation materials including opening and con
   possible agreement (ZOPA) identification, and strategic concession planning. Use when preparing for
   a commercial mediation session, selecting a mediator, organizing pre-mediation discovery and evidence,
   confirming settlement authority and decision-maker attendance, drafting opening statements, or developing
-  phase-by-phase negotiation tactics. Evaluates cost-benefit of settlement vs. continued litigation with
-  risk-adjusted present value analysis. Covers mediator selection criteria, multi-party coordination,
-  joint session and caucus strategy, impasse diagnosis, and exit protocols. Supports evaluative and facilitative
-  mediation approaches from claimant, defendant, or multi-party perspectives.
+  phase-by-phase negotiation tactics.
 ---
 
 ## Using this skill

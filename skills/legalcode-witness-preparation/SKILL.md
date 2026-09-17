@@ -1,13 +1,10 @@
 ---
 name: legalcode-witness-preparation
-description: 'Prepare lay witnesses and corporate designees for deposition and trial testimony in US civil
-  litigation. Generates structured preparation packages covering anticipated direct and cross-examination
-  questions, exhibit familiarity sessions, prior statement reconciliation, rules-of-the-road orientation,
-  demeanor and conduct coaching, objection protocol instructions, deposition-vs-trial distinctions, and
-  redirect rehabilitation planning. Covers all witness types: first-time lay witnesses, fact witnesses
-  with prior testimony history, corporate Rule 30(b)(6) designees, former employees, and hostile/reluctant
-  witnesses. Produces per-topic preparation cards, a witness readiness score, a mock examination plan,
-  and a logistics checklist.'
+description: Prepare lay witnesses and corporate designees for deposition and trial testimony in US civil
+  litigation. Use when you need to prepare any non-expert witness for deposition, trial, arbitration,
+  or administrative proceeding; when reviewing prior testimony for inconsistencies before cross-examination
+  exposure; when assessing a witness's readiness across credibility dimensions; or when building a multi-session
+  preparation timeline.
 ---
 
 ## Using this skill

@@ -5,10 +5,7 @@ description: Builds US federal whistleblower reporting and investigation program
   procedures (15 U.S.C. § 78j-1(m)(4)), Dodd-Frank Section 922 SEC Whistleblower Program (15 U.S.C. §
   78u-6; Rules 21F-1 through 21F-17), CFTC Whistleblower Program (7 U.S.C. § 26), OSHA's 25+ whistleblower
   protection statutes, False Claims Act qui tam (31 U.S.C. § 3730), Anti-Money Laundering Act of 2020
-  FinCEN whistleblower (31 U.S.C. § 5323), and IRS whistleblower awards (26 U.S.C. § 7623). Covers hotline
-  and intake channel architecture, Rule 21F-17 anti-impediment employment agreement audit, anti-retaliation
-  controls and burden-of-proof analysis (SOX contributing-factor standard; Dodd-Frank heightened standard;
-  Digital Realty Trust v.
+  FinCEN whistleblower (31 U.S.C. § 5323), and IRS whistleblower awards (26 U.S.C. § 7623).
 ---
 
 ## Using this skill

@@ -1,14 +1,7 @@
 ---
 name: legalcode-eu-conformity-assessment
-description: 'Runs the substantive, per-provision conformity assessment of a Member State''s National
-  Implementing Measures (NIM) against the operative obligations of an EU directive. For each obligation
-  extracted by `legalcode-eu-directive-analyzer` and mapped by `legalcode-eu-correlation-table-builder`,
-  this skill applies the Commission''s published methodology — the Better Regulation Toolbox 2023 (Chapter
-  4: Compliance, Implementation and Preparing Proposals) and the conformity-assessment template used in
-  published Commission tenders such as the ECN+ Directive (Directive (EU) 2019/1, CELEX 32019L0001) tender
-  (Belgian publication reference 765714) — to classify each provision as correctly transposed, partially
-  transposed, incorrectly transposed, or not transposed. Anchors the binding-as-to-result test in Article
-  288(3) TFEU and the duty of sincere cooperation in Article 4(3) TEU.'
+description: Runs the substantive, per-provision conformity assessment of a Member State's National Implementing
+  Measures (NIM) against the operative obligations of an EU directive.
 ---
 
 ## Using this skill

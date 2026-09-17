@@ -1,13 +1,10 @@
 ---
 name: legalcode-uk-corporate-governance-code
-description: 'Reviews UK Corporate Governance Code 2024 (FRC) compliance for companies listed on the London
-  Stock Exchange commercial companies and closed-ended investment funds categories. Covers all five Code
-  sections: Board Leadership and Company Purpose (Principles A-E, Provisions 1-5), Division of Responsibilities
-  (Principles F-H, Provisions 6-13), Composition, Succession and Evaluation (Principles I-L, Provisions
-  14-23), Audit, Risk and Internal Control (Principles M-O, Provisions 24-31), and Remuneration (Principles
-  P-R, Provisions 32-41). Assesses compliance against all 18 Principles and 41 Provisions, generates comply-or-explain
-  analysis, identifies material control gaps, evaluates malus and clawback provisions, assesses board
-  independence and diversity disclosures, and produces a governance compliance roadmap.'
+description: Reviews UK Corporate Governance Code 2024 (FRC) compliance for companies listed on the London
+  Stock Exchange commercial companies and closed-ended investment funds categories. Use when preparing
+  annual report governance disclosures, conducting internal governance reviews, advising listed companies
+  on FRC monitoring readiness, assessing board composition against independence criteria, or reviewing
+  remuneration structure for Code alignment.
 ---
 
 ## Using this skill

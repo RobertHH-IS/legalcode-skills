@@ -1,10 +1,11 @@
 ---
 name: legalcode-eu-whistleblower-directive
-description: Implement and audit compliance with EU Whistleblower Directive 2019/1937. Covers internal
-  reporting channel design, protected persons scope, reportable breach categories, 7-day acknowledgment
-  and 3-month feedback obligations, investigator independence, confidentiality requirements, anti-retaliation
-  framework (Article 19 burden-of-proof reversal), external reporting authorities, public disclosure conditions
-  (Article 15), GDPR interaction, and national transposition variations across all EU Member States.
+description: Implement and audit compliance with EU Whistleblower Directive 2019/1937. Use when building
+  a whistleblower program from scratch, auditing an existing program, conducting a gap analysis against
+  the Directive, advising on national implementation differences (Hinweisgeberschutzgesetz, Loi Sapin
+  II, Wet Bescherming Klokkenluiders, Protected Disclosures Act, etc.), drafting internal reporting policies,
+  handling retaliation allegations, designing intake/triage workflows, or assessing interaction with sector-specific
+  rules (MAR, MiFID II, CRD V).
 ---
 
 ## Using this skill

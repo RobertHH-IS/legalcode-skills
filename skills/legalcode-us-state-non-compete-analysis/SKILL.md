@@ -1,14 +1,8 @@
 ---
 name: legalcode-us-state-non-compete-analysis
-description: 'Analyze non-compete agreement enforceability across all 50 US states. Use when reviewing
+description: Analyze non-compete agreement enforceability across all 50 US states. Use when reviewing
   a non-compete clause, covenant not to compete, restrictive covenant, post-employment restriction, or
   garden leave agreement — whether for an employer, employee, in-house counsel, or transactional attorney.
-  Covers: 6-state total ban screening (California, Minnesota, North Dakota, Oklahoma, Montana, Wyoming),
-  salary threshold screening for 12+ states, reasonableness factor analysis (geographic scope, duration,
-  scope of activity, legitimate business interest), consideration requirements (at-hire vs. mid-employment),
-  blue-pencil vs. red-pencil reformation doctrine, garden leave mechanics and salary requirements, choice-of-law
-  enforceability (California SB 699 extraterritorial reach, DraftKings v. Hermalyn analysis), FTC rulemaking
-  status post-Ryan LLC v.'
 ---
 
 ## Using this skill

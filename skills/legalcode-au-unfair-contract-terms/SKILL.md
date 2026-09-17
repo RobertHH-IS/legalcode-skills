@@ -1,7 +1,10 @@
 ---
 name: legalcode-au-unfair-contract-terms
 description: Review contracts for unfair terms under Australia's unfair contract terms (UCT) regime —
-  Australian Consumer Law (ACL) ss 23–28 and ASIC Act ss 12BH–12BK.
+  Australian Consumer Law (ACL) ss 23–28 and ASIC Act ss 12BH–12BK. Use when reviewing any standard form
+  consumer or small business contract for Australian UCT compliance — including SaaS agreements, subscription
+  contracts, financial services terms, insurance contracts (post-5 April 2021), franchise agreements,
+  services contracts, platform terms, and any terms and conditions used at scale in Australia.
 metadata:
   jurisdiction: Australia
 ---

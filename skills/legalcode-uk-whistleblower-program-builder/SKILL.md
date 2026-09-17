@@ -2,7 +2,10 @@
 name: legalcode-uk-whistleblower-program-builder
 description: Build, audit, and design UK whistleblowing frameworks under the Public Interest Disclosure
   Act 1998 (PIDA) and Employment Rights Act 1996 Part IVA (ss.43A-43L, s.47B, s.103A) for England and
-  Wales.
+  Wales. Use when building a whistleblowing programme from scratch, auditing an existing programme for
+  PIDA/FCA compliance gaps, reviewing employment agreements for void confidentiality language, assessing
+  detriment or dismissal risk in a specific case, designing investigation procedures, responding to an
+  FCA SYSC 18 supervisory review, or advising a board on governance obligations.
 ---
 
 ## Using this skill

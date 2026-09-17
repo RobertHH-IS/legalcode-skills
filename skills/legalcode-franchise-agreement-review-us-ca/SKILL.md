@@ -6,9 +6,9 @@ description: Review franchise agreements for California operations against the C
   protections (good cause termination §20020, 60-day cure §20020, 180-day non-renewal notice §20025, transfer
   approval §20028, forum selection §20040.5), analyse post-termination non-compete enforceability under
   Bus. & Prof. Code §16600 (as broadened by AB 1076 and SB 699), review FDD 23-item compliance with California-
-  specific addendum requirements (Cal. Code Regs. tit. 10, §310.114.1), evaluate escrow and financial
-  assurance conditions, assess FAST Act (AB 1228) implications for fast food franchises, and flag anti-reliance
-  disclaimer violations under AB 676.
+  specific addendum requirements (Cal. Use when reviewing any franchise agreement where the franchise
+  will operate in California or where the franchisee is domiciled in California — CFRA applies in both
+  cases (§20015).
 metadata:
   jurisdiction: United States — California
 ---

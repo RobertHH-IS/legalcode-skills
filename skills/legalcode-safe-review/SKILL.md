@@ -4,11 +4,9 @@ description: Review YC post-money SAFEs (Simple Agreements for Future Equity) cl
   investors, and counsel — covering valuation cap mechanics and Company Capitalization denominator, discount
   rate analysis, MFN clause triggering and scope, pro rata rights (in-form and side letter), conversion
   mechanics across all trigger events (equity financing, liquidity event, dissolution), amendment and
-  majority-in-interest provisions, and non-standard modifications. Benchmarks every material term against
-  the current YC post-money templates (v1.1/v1.2, February 2023 update) and market data (Carta Q3 2024).
-  Classifies deviations as STANDARD / FLAG / RED FLAG with dual-perspective framing (founder view and
-  investor view). Models ownership percentage at conversion. Identifies template drift (modifications
-  beyond blank-filling).
+  majority-in-interest provisions, and non-standard modifications. Use when reviewing, negotiating, or
+  advising on a YC-form SAFE, any SAFE variant, uncapped MFN SAFE, discount-only SAFE, or post-money SAFE
+  side letter at pre-seed, seed, or bridge stage.
 ---
 
 ## Using this skill

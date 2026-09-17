@@ -1,14 +1,6 @@
 ---
 name: legalcode-eu-csrd-sustainability-reporting
-description: EU CSRD (Directive 2022/2464/EU) sustainability reporting compliance assessment. Determine
-  CSRD applicability and wave classification under Omnibus I thresholds (≥1,000 employees + €50M turnover
-  or €25M balance sheet), assess double materiality assessment (DMA) completeness against ESRS 1 Chapter
-  3, evaluate ESRS disclosures across all cross-cutting (ESRS 1, ESRS 2) and topical standards (E1–E5,
-  S1–S4, G1), review Scope 1/2/3 GHG methodology against ESRS E1, assess value chain data collection and
-  CSDDD alignment, check XBRL/iXBRL digital tagging readiness, and evaluate limited assurance readiness
-  under ISSA 5000. Classifies findings as COMPLIANT / PARTIAL / NON-COMPLIANT / CRITICAL. Outputs executive
-  summary, ESRS gap matrix, DMA assessment, assurance readiness report, and remediation roadmap with phased
-  timelines.
+description: EU CSRD (Directive 2022/2464/EU) sustainability reporting compliance assessment.
 ---
 
 ## Using this skill

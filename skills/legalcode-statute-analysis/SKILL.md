@@ -5,9 +5,7 @@ description: Analyze statutes, acts, and regulations section by section — deco
   authority boundaries, flag interpretive ambiguities, and identify implementation consequences. Use when
   a lawyer, compliance officer, policy analyst, or legal researcher needs to understand what a statute
   actually says and requires — as distinct from verifying that a citation is in-force (use legalcode-legislation-verification
-  for that). Covers primary legislation, delegated legislation (statutory instruments, regulations, ordinances,
-  executive orders, decrees), and secondary regulatory frameworks. Jurisdiction-agnostic with [JURISDICTION-SPECIFIC]
-  markers; supports common law and civil law systems.
+  for that).
 ---
 
 ## Using this skill

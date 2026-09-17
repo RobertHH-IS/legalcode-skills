@@ -1,14 +1,11 @@
 ---
 name: legalcode-biometric-data-compliance
-description: 'Assess biometric data privacy compliance across Illinois BIPA (740 ILCS 14), Texas CUBI
-  (Tex. Bus. & Com. Code § 503.001), Washington My Health MY Data Act (HB 1155, 2024), California CCPA/CPRA
-  sensitive PI framework, Colorado CPA (HB 24-1130, effective July 1, 2025), GDPR Article 9 special category
-  processing, UK GDPR, and emerging US state laws (New York S1422 proposed, Massachusetts, Virginia, Connecticut
-  biometric provisions). Covers: consent and written release requirements, written biometric data policy
-  and retention/destruction schedules, sale and profit prohibitions, third-party disclosure controls,
-  vendor/processor contractual obligations, individual rights response procedures, DPIA requirements for
-  GDPR high-risk processing, FTC risk assessment standards, incident response obligations, and penalty
-  exposure modeling.'
+description: Assess biometric data privacy compliance across Illinois BIPA (740 ILCS 14), Texas CUBI (Tex.
+  Use when auditing employer biometric timekeeping or access control programs, reviewing retail facial
+  recognition deployments, assessing consumer device biometric authentication, evaluating healthcare or
+  financial services biometric verification, analyzing vendor/processor contracts for biometric data,
+  preparing for regulatory inquiry or class action exposure, or designing a biometric privacy program
+  from scratch.
 ---
 
 ## Using this skill

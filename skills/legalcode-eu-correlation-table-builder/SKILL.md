@@ -3,11 +3,7 @@ name: legalcode-eu-correlation-table-builder
 description: Generates the Commission-required two-column correlation table that every Member State must
   submit alongside its transposition notification under Art. 288 TFEU and the Joint Political Declarations
   of 28 September 2011 (OJ C 369, 17.12.2011, p. 14) and 27 October 2011 (OJ C 369, 17.12.2011, p. 15)
-  on explanatory documents. Maps each operative provision of an EU directive — for example, NIS2 Directive
-  (Directive (EU) 2022/2555, CELEX 32022L2555, OJ L 333, 27.12.2022, p. 80), CSRD Directive (EU) 2022/2464
-  (CELEX 32022L2464), CSDDD Directive (EU) 2024/1760 (CELEX 32024L1760), or the Whistleblower Protection
-  Directive 2019/1937 — to the corresponding provision(s) in a Member State's National Implementing Measure
-  (NIM).
+  on explanatory documents.
 ---
 
 ## Using this skill

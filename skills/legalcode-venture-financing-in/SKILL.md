@@ -1,13 +1,11 @@
 ---
 name: legalcode-venture-financing-in
-description: 'India venture financing skill covering the full lifecycle from pre-seed to IPO exit. Deep
-  analysis of India-specific instruments and regulatory frameworks: iSAFE (structured as CCPS under Companies
-  Act 2013), Compulsorily Convertible Preference Shares (CCPS), Compulsorily Convertible Debentures (CCD),
-  and priced equity rounds. Covers FEMA/NDI Rules 2019 pricing and reporting (Form FC-GPR, Form FC-TRS),
-  SEBI Alternative Investment Fund (AIF) Category I angel fund regulations (including September 2025 restructuring),
-  angel tax abolition (Finance Act 2024, effective FY 2025-26), Section 80-IAC startup tax holiday (3-year
-  profit exemption), DPIIT recognition requirements and benefits, RBI External Commercial Borrowing (ECB)
-  automatic route for startups, and SEBI ICDR IPO eligibility.'
+description: 'India venture financing skill covering the full lifecycle from pre-seed to IPO exit. Use
+  when a founder, investor, counsel, or finance professional needs to: structure a venture financing round
+  under Indian law; analyze iSAFE vs. CCPS vs. CCD instrument selection; review FEMA compliance for foreign
+  investor participation; assess DPIIT recognition strategy; evaluate Section 80-IAC or SEBI AIF eligibility;
+  analyze a term sheet for an Indian startup; plan an IPO, secondary transaction, or reverse flip exit;
+  or draft FC-GPR/FC-TRS filing strategy.'
 ---
 
 ## Using this skill

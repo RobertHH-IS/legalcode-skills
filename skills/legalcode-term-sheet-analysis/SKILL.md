@@ -5,9 +5,7 @@ description: 'Deep analysis of venture capital term sheets across three dimensio
   provisions, anti-dilution weighted-average vs. full-ratchet), control (board composition, protective
   provisions and veto rights, drag-along/tag-along, information rights, registration rights), and other
   terms (founder vesting and acceleration, ESOP allocation, exclusivity, no-shop, conditions precedent).
-  Evaluates each term against market benchmarks by stage (seed, Series A–D) and identifies investor-favorable
-  vs. founder-favorable deviations. Models cap table dilution and founder economics across multiple exit
-  scenarios.'
+  Use when reviewing VC term sheets for founders, legal counsel, or investors in US, UK, or Indian jurisdictions.'
 ---
 
 ## Using this skill

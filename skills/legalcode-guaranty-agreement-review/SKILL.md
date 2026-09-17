@@ -4,11 +4,7 @@ description: Review guaranty and surety agreements for scope, suretyship defense
   and enforceability risks. Use when reviewing personal guaranties, parent company guaranties, corporate
   guaranties, bank guaranties, bad boy carve-out guaranties, keepwell agreements, or comfort letters in
   connection with commercial lending, real estate finance, lease transactions, construction finance, or
-  supply chain credit support. Covers continuing vs. specific guaranty analysis, waiver of suretyship
-  defenses (RSG §§ 37-49 / UCC § 3-605), anti-deficiency statute exposure (California CCP §§ 580a-580d,
-  one-action rule CCP § 726), subrogation deferral mechanics, contribution rights among co-guarantors,
-  financial covenants and keepwell provisions, notice requirements, dollar cap and burn-off structures,
-  and reinstatement clause risk.
+  supply chain credit support.
 ---
 
 ## Using this skill

@@ -1,14 +1,7 @@
 ---
 name: legalcode-eu-gdpr-breach-notification-operations
-description: 'Runs the complete EU GDPR personal data breach response workflow from initial incident triage
-  through post-incident remediation. Use when: (1) a data breach or security incident involving personal
-  data has occurred or is suspected, (2) an organisation needs to determine whether GDPR Articles 33 or
-  34 notification obligations are triggered, (3) a controller or processor needs to manage the 72-hour
-  notification clock and lead supervisory authority determination, (4) a phased or supplementary notification
-  must be prepared under Art. 33(4), (5) an operator needs to draft the Art. 33 SA notification, Art.
-  34 data subject communication, or processor-to-controller notification, (6) a forensic coordination
-  plan or post-breach mitigation playbook is required, (7) Art. 33(5) internal documentation must be produced
-  for regulatory audit. Covers controller-only, processor-only, and hybrid scenarios.'
+description: Runs the complete EU GDPR personal data breach response workflow from initial incident triage
+  through post-incident remediation.
 ---
 
 ## Using this skill

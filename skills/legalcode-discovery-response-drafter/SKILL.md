@@ -1,9 +1,7 @@
 ---
 name: legalcode-discovery-response-drafter
 description: Draft defensible responses to interrogatories, requests for production (RFPs), and requests
-  for admission (RFAs) with specific objections, substantive answers, and privilege assertions. Covers
-  FRCP 26(b)(1) proportionality defense, Rule 34(b)(2) objection-specificity requirements, FRCP 26(b)(5)
-  privilege log drafting, FRE 502 clawback integration, and Rule 26(e) supplement obligations. Use when
+  for admission (RFAs) with specific objections, substantive answers, and privilege assertions. Use when
   responding to received discovery requests in federal or state civil litigation, drafting specific objections
   with identifying particularity, asserting attorney-client privilege or work-product protection with
   compliant log entries, arguing proportionality as a limiting principle, or preparing meet-and-confer

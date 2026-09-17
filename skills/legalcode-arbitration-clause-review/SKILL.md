@@ -5,9 +5,7 @@ description: Review and analyze arbitration clauses for enforceability, patholog
   risks. Use when reviewing dispute resolution provisions in commercial contracts, evaluating arbitration
   clauses for New York Convention enforceability, assessing institutional arbitration clause compliance
   (ICC, LCIA, AAA/ICDR, SIAC, HKIAC, SCC), checking for multi-tiered escalation clause defects, or advising
-  on seat selection and procedural adequacy. Covers ad hoc and institutional arbitration, emergency arbitrator
-  provisions, consolidation rights, joinder clauses, confidentiality obligations, cost allocation mechanisms,
-  and waiver provisions (class action, jury, punitive damages).
+  on seat selection and procedural adequacy.
 ---
 
 ## Using this skill

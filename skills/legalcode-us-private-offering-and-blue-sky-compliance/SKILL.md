@@ -5,7 +5,11 @@ description: Reviews US private securities offerings and resale transactions for
   4(a)(7), Rule 144/144A), audits accredited investor verification procedures, performs bad actor disqualification
   checks under Rule 506(d), analyzes general solicitation controls, reviews offering materials and investor
   disclosures, maps Blue Sky notice filing obligations across all states, applies the integration doctrine,
-  identifies broker-dealer and finder touchpoints, and builds a post-closing compliance calendar.
+  identifies broker-dealer and finder touchpoints, and builds a post-closing compliance calendar. Use
+  when structuring a new Reg D offering, advising on resale path for restricted securities, preparing
+  Blue Sky filings, reviewing placement agent agreements, conducting a private placement compliance audit,
+  evaluating bad actor status of offering participants, or assessing securities law exposure before an
+  M&A transaction involving privately placed securities.
 ---
 
 ## Using this skill

@@ -5,7 +5,10 @@ description: 'Assess, build, or remediate an organization''s anti-bribery and an
   provisions, books-and-records, and internal controls requirements; UK Bribery Act 2010 including the
   Section 7 corporate offence and adequate procedures defense; France Sapin II (Law No. 2016-1691) mandatory
   compliance program obligations and Agence Française Anticorruption (AFA) guidelines; and Brazil Clean
-  Company Act (Lei 12.846/2013).'
+  Company Act (Lei 12.846/2013). Use when reviewing an existing ABAC program for gaps, building a new
+  program from scratch, preparing for regulatory examination or enforcement response, conducting third-party
+  due diligence, drafting or reviewing gifts-and-entertainment policies, designing government-official
+  interaction protocols, or evaluating a specific transaction or red flag for corruption risk.'
 ---
 
 ## Using this skill

@@ -1,13 +1,6 @@
 ---
 name: legalcode-security-collateral-review
 description: Review security interest packages and collateral documentation across US, UK, and EU jurisdictions.
-  Covers UCC Article 9 (attachment, perfection by filing/control/possession, priority rules, PMSI super-priority,
-  fixture filings, continuation statements, 2022 digital asset amendments), deposit account control agreements
-  (DACAs), investment property control, IP security interests (copyright §205 Copyright Office recordation,
-  patent/trademark UCC vs. federal preemption circuit split), UK fixed and floating charges (Companies
-  Act 2006 ss.859A-859Q registration, Re Spectrum Plus [2005] UKHL 41 fixed/floating test, crystallization),
-  UK financial collateral (FCARs 2003), all-asset debentures, real property mortgages and deeds of trust
-  (recording, SNDAs, Garn-St.
 ---
 
 ## Using this skill

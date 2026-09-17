@@ -5,10 +5,7 @@ description: Assess New Zealand employment law compliance and disputes under the
   breaks and minimum entitlements (Holidays Act 2003), restructuring and redundancy protections, triangular
   employment, restraints of trade, and ERA/Employment Court proceedings. Use when advising on NZ employment
   disputes, reviewing NZ employment agreements, assessing restructuring processes, conducting HR compliance
-  audits, or preparing for mediation and ERA proceedings. Covers the Employment Relations Act 2000, Holidays
-  Act 2003, Minimum Wage Act 1983, Parental Leave and Employment Protection Act 1987, Health and Safety
-  at Work Act 2015 (HSWA) employment intersection, Human Rights Act 1993 discrimination grounds, Privacy
-  Act 2020 employment obligations, and KiwiSaver Act 2006 employer duties.
+  audits, or preparing for mediation and ERA proceedings.
 ---
 
 ## Using this skill

@@ -3,12 +3,7 @@ name: legalcode-title-review
 description: Reviews title commitments and title registers for real estate transactions — purchase, refinance,
   and development. Use when analyzing an ALTA 2021 title commitment (Schedule B-I requirements, Schedule
   B-II exceptions), a UK HM Land Registry official copy of register entries, a California Preliminary
-  Report, or any title abstract or opinion letter. Analyzes easements, judgment and tax liens, mechanic's
-  and materialmen's liens, restrictive covenants and CC&Rs, survey exceptions, mineral reservations, gap
-  coverage risks, and endorsement requirements. Generates a closing checklist with prioritized curative
-  action items, responsible parties, and deadlines. Supports the US ALTA/CLTA title insurance framework
-  (owner's and lender's policies) and the UK Land Registration Act 2002 framework (absolute, good leasehold,
-  possessory, and qualified title grades).
+  Report, or any title abstract or opinion letter.
 ---
 
 ## Using this skill

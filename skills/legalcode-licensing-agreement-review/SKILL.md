@@ -2,13 +2,10 @@
 name: legalcode-licensing-agreement-review
 description: Review IP licensing agreements of all categories — patents, trademarks, copyright, trade
   secrets, know-how, and mixed-IP bundles — against organizational positions or general market standards.
-  Identifies deviations, generates confidence-scored redlines, and produces an auditable analysis. Use
-  when reviewing any IP license for grant scope, field-of-use or territory restrictions, sublicensing
+  Use when reviewing any IP license for grant scope, field-of-use or territory restrictions, sublicensing
   chain provisions, royalty structures and audit rights, improvement and grant-back clauses, IP title
   warranties, infringement indemnification, licensor insolvency protections (including §365(n)), and termination
-  effects on licensed rights. Covers pharmaceutical licenses, software licenses, trademark franchise-adjacent
-  licenses, copyright and music licenses, trade secret licenses, know-how licenses, university technology
-  transfer, and mixed-IP bundles.
+  effects on licensed rights.
 ---
 
 ## Using this skill

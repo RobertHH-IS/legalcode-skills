@@ -7,8 +7,7 @@ description: 'Navigate Switzerland''s 26-canton legal patchwork: map federal vs.
   registry (Grundbuch / Registre foncier) requirements, clarify notarization obligations under the Staatliches
   vs. Freies Notariat distinction, and flag cantonal variations that affect entity formation, property
   transactions, succession planning, or litigation strategy. Use when a client''s matter touches Switzerland
-  and you need to know which canton''s rules apply and how they differ from other cantons. Covers ZH Zurich,
-  ZG Zug, GE Geneva, VD Vaud, BE Bern, BS Basel-Stadt, LU Lucerne, SG St.'
+  and you need to know which canton''s rules apply and how they differ from other cantons.'
 ---
 
 ## Using this skill

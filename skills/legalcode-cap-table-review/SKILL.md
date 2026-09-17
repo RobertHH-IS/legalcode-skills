@@ -5,9 +5,7 @@ description: Review, audit, and model cap tables for US startups at any stage â€
   cap, shadow preferred, interest accrual), option pool sizing and the option pool shuffle, anti-dilution
   adjustments (broad-based weighted average, full ratchet, narrow-based, pay-to-play, NVCA carve-outs),
   liquidation waterfall modeling (non-participating, participating, participation cap, liquidation multiples),
-  and dilution scenario modeling across rounds. Identifies cap table errors, missing shadow preferred
-  mechanics, incorrect fully diluted counts, and structural red flags. Benchmarks against NVCA October
-  2025 model documents and current market standards.
+  and dilution scenario modeling across rounds.
 ---
 
 ## Using this skill

@@ -1,13 +1,9 @@
 ---
 name: legalcode-us-fcpa-compliance
 description: Assesses Foreign Corrupt Practices Act (FCPA) compliance for US issuers, domestic concerns,
-  and companies with US-nexus operations. Covers anti-bribery provisions (15 U.S.C. §§ 78dd-1 to 78dd-3),
-  foreign official definition and instrumentality test (Esquenazi standard), books-and-records and internal
-  controls (§ 78m(b)(2)), third-party due diligence (7-step lifecycle, 14-category red flag matrix), gifts/travel/
-  entertainment policy assessment, facilitation payment exposure, DOJ Corporate Enforcement Policy voluntary
-  self-disclosure analysis (August 2024 120-day rule), DOJ Evaluation of Corporate Compliance Programs
-  (ECCP September 2024) adequacy scoring, individual accountability framework, M&A successor liability
-  analysis, and penalty structure (criminal/civil/disgorgement).
+  and companies with US-nexus operations. Use when conducting FCPA compliance reviews, pre-enforcement
+  self-assessments, compliance program gap analyses, VSD decision analyses, M&A FCPA due diligence, post-investigation
+  remediation planning, or government contract qualification reviews.
 ---
 
 ## Using this skill

@@ -1,14 +1,10 @@
 ---
 name: legalcode-data-processing-agreement-drafter
 description: Draft Data Processing Agreements (DPAs) from scratch for controller-to-processor, controller-to-controller
-  (joint), and processor-to-sub-processor relationships. Produces GDPR Article 28-compliant, UK GDPR,
-  CCPA/CPRA service provider, Brazil LGPD, and India DPDP Act-aligned DPA clauses and full agreements
-  with jurisdiction-specific annexes. Covers subject matter and duration, processing instructions and
-  scope limitations, data categories and data subject types, controller/processor obligations, sub-processor
-  management and notification mechanisms, technical and organizational security measures (TOMs), data
-  breach notification SLAs, data subject rights assistance, DPIA and prior consultation support, international
-  data transfer mechanisms (EU SCCs 2021, UK IDTA, adequacy decisions, BCRs), audit and inspection rights,
-  data return and deletion on termination, and liability allocation.
+  (joint), and processor-to-sub-processor relationships. Use when creating a new DPA from scratch, generating
+  a DPA template for a vendor program, building sub-processor flow-down agreements, adding a DPA addendum
+  to a master services agreement, drafting multi-jurisdiction DPAs for SaaS platforms, or designing a
+  DPA program across multiple processing relationships and regimes.
 ---
 
 ## Using this skill

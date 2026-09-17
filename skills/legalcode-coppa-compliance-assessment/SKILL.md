@@ -1,13 +1,11 @@
 ---
 name: legalcode-coppa-compliance-assessment
-description: 'COPPA compliance assessment for operators of websites and online services directed to children
-  or with actual knowledge of child users. Covers the Children''s Online Privacy Protection Act (15 U.S.C.
-  §§ 6501–6506) and the FTC''s COPPA Rule (16 C.F.R. Part 312), including the 2025 amendments (effective
-  June 23, 2025; compliance deadline April 22, 2026). Assesses all five operator obligation domains: (1)
-  privacy notice requirements including new retention disclosure mandate; (2) direct notice to parents;
-  (3) verifiable parental consent (VPC) including all 10 approved methods and new separate consent for
-  third-party sharing, targeted advertising, and AI training; (4) parental access and deletion rights;
-  and (5) children''s data security including the new written information security program requirement.'
+description: COPPA compliance assessment for operators of websites and online services directed to children
+  or with actual knowledge of child users. Use when a website operator, app developer, EdTech platform,
+  gaming company, streaming service, or AdTech provider needs to determine COPPA compliance posture, prepare
+  for FTC inquiry, assess a product or feature for child- audience risk, build a COPPA compliance program
+  from scratch, respond to a parental complaint, or evaluate compliance with the 2025 amendments ahead
+  of the April 2026 deadline.
 ---
 
 ## Using this skill

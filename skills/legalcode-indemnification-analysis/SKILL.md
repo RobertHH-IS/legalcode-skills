@@ -4,10 +4,10 @@ description: Deep analysis of indemnification provisions across commercial contr
   scope (first-party vs. third-party claims), caps and baskets (deductible basket vs. tipping basket,
   mini-basket thresholds), materiality qualifiers and scrapes, defense and control-of-claim mechanics
   (duty to defend, right to control defense, right to settle, cooperation obligations, Cumis counsel in
-  US), survival periods by claim type, and interaction with limitation of liability provisions. Evaluates
-  indemnification exposure across IP infringement, confidentiality breach, data protection violations,
-  and regulatory claims. Compares against market standards by contract type (SaaS, M&A, professional services,
-  construction).
+  US), survival periods by claim type, and interaction with limitation of liability provisions. Use when
+  reviewing or drafting indemnification provisions in any commercial agreement, when assessing indemnification
+  exposure from a counterparty's draft, when negotiating IP or data breach indemnification obligations,
+  or when structuring M&A indemnification baskets and caps.
 ---
 
 ## Using this skill

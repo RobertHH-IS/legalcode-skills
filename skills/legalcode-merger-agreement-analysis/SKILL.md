@@ -1,13 +1,6 @@
 ---
 name: legalcode-merger-agreement-analysis
 description: Analyze merger agreements clause-by-clause against market standards or a transaction playbook.
-  Covers deal structure (forward merger, reverse triangular merger, statutory merger), representations
-  and warranties (bring-down conditions, materiality scrape, fundamental vs. general reps, survival periods),
-  MAC/MAE clause drafting and judicial standards (Akorn, Snow Phipps), interim operating covenants (ordinary
-  course, consent thresholds, efforts standards), conditions to closing (regulatory approvals, HSR, CMA,
-  EU merger regulation, CFIUS), deal protection mechanisms (no-shop, fiduciary out, matching rights, go-shop),
-  termination rights and fees (breakup fees, reverse termination fees), consideration structures (cash,
-  stock-for-stock, mixed, earnouts), and dissenter/appraisal rights (DGCL Section 262, UK scheme squeeze-out).
 ---
 
 ## Using this skill

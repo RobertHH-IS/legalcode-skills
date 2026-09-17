@@ -3,10 +3,6 @@ name: legalcode-workplace-investigation
 description: Guide workplace investigations end-to-end — from complaint intake and scope determination
   through investigator assignment, privilege preservation, document hold, witness interview protocols,
   credibility assessment, findings documentation, remedial action planning, and regulatory reporting.
-  Applies to harassment, discrimination, retaliation, hostile work environment, OSHA/safety complaints,
-  code-of-conduct violations, whistleblower allegations, time-and-attendance fraud, workplace violence,
-  and misconduct investigations. Extends to compliance-driven, fraud, and false-claims investigations
-  that arise in employment contexts.
 ---
 
 ## Using this skill

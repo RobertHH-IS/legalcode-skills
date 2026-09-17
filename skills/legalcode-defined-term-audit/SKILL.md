@@ -7,7 +7,6 @@ description: Extracts and audits all defined terms in one or more legal document
   during due diligence on acquired contract portfolios; after substantial redlining or document merging;
   before filing regulatory submissions; or when preparing complex multi-document transaction sets (loan
   facilities with schedules, M&A agreements, franchise disclosure documents, software license suites).
-  Jurisdiction-agnostic with [JURISDICTION-SPECIFIC] markers.
 ---
 
 ## Using this skill

@@ -4,10 +4,7 @@ description: Draft formal meeting minutes for board of directors, shareholder/st
   meetings. Use when preparing minutes for any corporate meeting — annual, special, organizational, or
   written consent — covering attendance and quorum certification, agenda items, motions and voting outcomes,
   conflict of interest disclosures, committee reports, officer elections, equity and financing approvals,
-  M&A and major transactions, action item assignments, and next-meeting scheduling. Supports US (Delaware,
-  MBCA) and UK (Companies Act 2006) corporations with [JURISDICTION-SPECIFIC] markers for other jurisdictions.
-  Also use when reviewing draft minutes for completeness, documenting written consents in lieu of meeting,
-  or producing the secretary's certification block.
+  M&A and major transactions, action item assignments, and next-meeting scheduling.
 ---
 
 ## Using this skill

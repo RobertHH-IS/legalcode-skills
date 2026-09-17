@@ -1,13 +1,9 @@
 ---
 name: legalcode-fr-contrat-de-travail-cdi
 description: Draft or review a French CDI (contrat de travail à durée indéterminée — permanent employment
-  contract) for an employer or employee in France. Covers all mandatory clauses under the Code du travail,
-  convention collective alignment (Syntec IDCC 1486, Métallurgie IDCC 3248, and major sector CCNs), non-compete
-  clause (clause de non-concurrence) validity and mandatory financial compensation, mobility clauses (clause
-  de mobilité), intellectual property assignment and employee inventions (Art. L113-9 / L611-7 Code de
-  la propriété intellectuelle), forfait jours for autonomous executives, telework (télétravail) provisions,
-  RGPD/CNIL employee data clause, probationary period (période d'essai) rules, termination (licenciement)
-  procedure and Barème Macron, and rupture conventionnelle.
+  contract) for an employer or employee in France. Use when drafting a new CDI, reviewing an existing
+  French employment contract, advising on enforceability of restrictive covenants, assessing compliance
+  with Code du travail mandatory provisions, or preparing for termination.
 ---
 
 ## Using this skill

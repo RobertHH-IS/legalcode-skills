@@ -7,7 +7,7 @@ description: Analyze copyright implications of AI training data. Use when evalua
   obligations, assessing opt-out mechanisms (robots.txt, TDM reservations), reviewing Creative Commons
   and data license compatibility with AI training, evaluating right of publicity risks in training datasets,
   analyzing DMCA Section 1202 copyright management information claims, or preparing a litigation risk
-  assessment for an AI training dataset. Covers the NYT v. OpenAI and Getty Images v.
+  assessment for an AI training dataset.
 ---
 
 ## Using this skill

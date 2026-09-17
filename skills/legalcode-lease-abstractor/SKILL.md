@@ -4,11 +4,7 @@ description: Extract and summarize key commercial lease terms into a structured 
   management, date tracking, financial modeling, and quick reference. Use when building a lease database,
   onboarding a new lease into a portfolio system, tracking renewal and termination option deadlines, abstracting
   lease terms for due diligence, or creating a machine-readable lease record for import into Yardi, MRI,
-  CoStar, VTS, Tango, or similar platforms. Produces a 14-category structured abstract covering rent and
-  escalations, CAM and operating expenses, TI allowances, renewal/expansion/termination options, assignment
-  and subletting, co-tenancy, exclusivity, use restrictions, insurance, maintenance, guarantees, SNDA,
-  default and cure periods, and holdover provisions — with extraction confidence scoring, critical date
-  computation, amendment reconciliation, and structured JSON/CSV export.
+  CoStar, VTS, Tango, or similar platforms.
 ---
 
 ## Using this skill

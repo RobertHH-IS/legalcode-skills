@@ -3,11 +3,9 @@ name: legalcode-sanctions-export-control-screening
 description: 'Screen transactions, counterparties, and exports against major international sanctions and
   export control regimes: OFAC SDN and Consolidated Sanctions Lists (all programs), EU Consolidated Sanctions
   List, UK OFSI Consolidated List, UN Security Council consolidated lists, BIS Entity/Denied Persons/Unverified/MEU
-  Lists, and DDTC Debarred Parties. Applies the OFAC 50% Rule (SDN-owned beneficial owners), secondary
-  sanctions analysis under CAATSA Sections 228/231/232/233 and CISADA, and Sectoral Sanctions Identifications
-  (SSI) Directive 1-4 analysis for Russia. Covers EAR export classification (ECCN and EAR99), Commerce
-  Control List (CCL) mapping, license exception analysis (STA, ENC, LVS, TMP, TSU, RPL, GOV, and others),
-  Foreign Direct Product Rule (FDPR), Military End-Use Rule (15 C.F.R. § 744.21), and deemed export analysis.'
+  Lists, and DDTC Debarred Parties. Use when screening a transaction before it proceeds, onboarding a
+  counterparty, classifying an export, evaluating secondary sanctions exposure, preparing a due diligence
+  report, or responding to a potential violation.'
 ---
 
 ## Using this skill

@@ -7,8 +7,7 @@ description: Review supply and procurement agreements covering pricing mechanism
   supply continuity and business continuity obligations, sustainability and ESG supply chain due diligence
   (EU CSDDD, UK Modern Slavery Act, US UFLPA, France Devoir de Vigilance, Norway Åpenhetsloven), critical
   minerals and rare earth traceability (EU CRMA, EU Battery Regulation, Dodd-Frank), supply chain finance
-  integration, and indemnification. Covers UCC Article 2, CISG Arts 25/35/71–79, and UK Sale of Goods
-  Act.
+  integration, and indemnification.
 ---
 
 ## Using this skill

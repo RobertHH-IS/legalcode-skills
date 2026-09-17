@@ -4,9 +4,8 @@ description: Drafts demand letters and cease and desist letters for common dispu
   of contract (UCC and common law), personal injury, employment disputes (wrongful termination, wage theft,
   FLSA violations, discrimination), consumer protection violations (CLRA, state UDAP, ACL), intellectual
   property infringement (trademark, copyright, patent cease and desist), debt collection (FDCPA and Regulation
-  F compliant), property damage, and professional malpractice. Covers proper party identification, factual
-  narrative development, legal basis articulation with specific statutory references, damages calculation
-  and demand amount, response deadlines, consequences of non-compliance, and settlement offer frameworks.
+  F compliant), property damage, and professional malpractice. Use when drafting any pre-suit demand,
+  cease and desist, or statutory notice before commencing civil litigation.
 ---
 
 ## Using this skill

@@ -5,9 +5,6 @@ description: Perform a side-by-side comparison of global privacy law requirement
   compliance obligations, determining the highest common denominator compliance baseline, identifying
   cross-regime conflicts, building a global harmonized compliance strategy, conducting pre-market entry
   privacy due diligence, or advising on international data transfers affecting multiple jurisdictions.
-  Covers GDPR (EU), UK GDPR, CCPA/CPRA (California), LGPD (Brazil), PIPEDA/Bill C-27 (Canada), PIPL (China),
-  PDPA (Singapore), POPIA (South Africa), APPI (Japan), Privacy Act (Australia), DPDP Act (India), and
-  emerging frameworks (Thailand, Indonesia, Vietnam, New Zealand).
 ---
 
 ## Using this skill

@@ -5,10 +5,7 @@ description: 'Drafts board resolutions and unanimous written consents (UWCs) for
   incentive plan adoptions, financing approvals (debt facilities, convertible notes, SAFEs, preferred
   rounds), contract authorizations, dividend declarations, bank account authorizations, annual compliance
   resolutions, IP assignments, subsidiary formations, M&A preliminary approvals, and indemnification agreements.
-  Covers recital/WHEREAS and RESOLVED structure, quorum, unanimous consent mechanics, Secretary certification,
-  and corporate formality requirements under Delaware DGCL §141, UK Companies Act 2006, and MBCA. Deep
-  coverage of IRC §409A FMV requirements for equity grants, Rule 701 securities law compliance, and §280G
-  golden parachute analysis triggers.'
+  Use when a company needs a board resolution or written consent for any corporate governance action.'
 ---
 
 ## Using this skill

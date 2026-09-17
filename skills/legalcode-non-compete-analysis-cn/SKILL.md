@@ -3,7 +3,11 @@ name: legalcode-non-compete-analysis-cn
 description: Deep enforceability analysis of Chinese non-compete clauses (竞业限制) governed by Labor Contract
   Law of the PRC (劳动合同法) Articles 23-24 and the SPC Consolidated Judicial Interpretation on Labor Disputes
   (最高人民法院关于审理劳动争议案件适用法律问题的解释(一), effective 1 January 2021) and SPC Judicial Interpretation II (Fa Shi
-  [2025] No. 12, effective 1 September 2025).
+  [2025] No. 12, effective 1 September 2025). Use when reviewing a non-compete clause (竞业限制条款) in a Chinese
+  employment contract (劳动合同), executive agreement, severance package, or standalone restrictive covenant
+  agreement; advising on waiver strategy at termination; assessing an employee's ability to join a competitor;
+  planning workforce restructuring; or reviewing non-compete provisions in M&A employment due diligence
+  for a Chinese target or acquiree.
 ---
 
 ## Using this skill

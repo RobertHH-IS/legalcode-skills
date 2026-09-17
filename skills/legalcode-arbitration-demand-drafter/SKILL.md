@@ -3,8 +3,10 @@ name: legalcode-arbitration-demand-drafter
 description: Drafts and reviews arbitration demands (Requests for Arbitration, Notices of Arbitration),
   Statements of Claim, Answers/Responses, and Counterclaims for international and domestic commercial
   arbitration proceedings under ICC (2021 Rules), LCIA (2020 Rules), AAA Commercial Arbitration Rules,
-  ICDR International Arbitration Rules, SIAC (2016/2025 Rules), and HKIAC (2018 Rules). Also supports
-  UNCITRAL ad hoc arbitration and UNCITRAL Model Law jurisdictions.
+  ICDR International Arbitration Rules, SIAC (2016/2025 Rules), and HKIAC (2018 Rules). Use when commencing
+  arbitration proceedings, responding to an arbitration demand, seeking emergency relief in arbitration,
+  or preparing any notice, request, or demand document for filing with an international or domestic arbitral
+  institution.
 ---
 
 ## Using this skill

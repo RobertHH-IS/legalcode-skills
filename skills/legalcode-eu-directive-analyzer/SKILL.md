@@ -1,10 +1,7 @@
 ---
 name: legalcode-eu-directive-analyzer
-description: 'Extracts a versioned, machine-readable obligation register from any EU directive identified
-  by CELEX or supplied as text. The register is the foundation artefact consumed by every other skill
-  in the seven-skill EU Legislative Compliance suite: the per-Member-State implementation matrix, the
-  Commission-format correlation table, the per-article conformity verdict, the gold-plating detector,
-  the EEA Joint Committee Decision tracker, and the TFEU 258/260 infringement procedure tracker.'
+description: Extracts a versioned, machine-readable obligation register from any EU directive identified
+  by CELEX or supplied as text.
 ---
 
 ## Using this skill

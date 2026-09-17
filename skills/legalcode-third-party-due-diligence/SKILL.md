@@ -1,12 +1,10 @@
 ---
 name: legalcode-third-party-due-diligence
 description: Conduct anti-corruption due diligence on agents, distributors, joint venture partners, consultants,
-  and other third-party intermediaries. Covers risk tiering, red flag analysis, due diligence questionnaire
-  (DDQ) design, sanctions and debarment screening, contractual anti-corruption provisions, and ongoing
-  monitoring. Aligns with DOJ FCPA guidance and DOJ Guidelines for Evaluation of Corporate Compliance
-  Programs, UK Bribery Act 2010 Section 7 "adequate procedures" and Ministry of Justice six principles,
-  OECD Good Practice Guidance on Internal Controls Ethics and Compliance, and World Bank / multilateral
-  development bank debarment framework.
+  and other third-party intermediaries. Use when onboarding a new agent, distributor, or JV partner in
+  a high-risk jurisdiction; when reviewing the adequacy of an existing third-party compliance program;
+  when designing or improving a third-party risk management (TPRM) workflow; when preparing for DOJ/SEC
+  FCPA inquiry or UK SFO investigation; or when a specific third party has raised red flags.
 ---
 
 ## Using this skill

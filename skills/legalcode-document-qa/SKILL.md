@@ -1,7 +1,9 @@
 ---
 name: legalcode-document-qa
 description: Run a comprehensive quality assurance audit on any legal document — contract, agreement,
-  deed, policy, or court filing — to detect drafting errors before execution or filing.
+  deed, policy, or court filing — to detect drafting errors before execution or filing. Use when proofreading
+  a contract before execution, auditing a template for quality, reviewing a redlined draft, or preparing
+  a document for filing.
 ---
 
 ## Using this skill

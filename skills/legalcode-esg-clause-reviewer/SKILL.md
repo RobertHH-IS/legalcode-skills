@@ -7,7 +7,9 @@ description: Review contracts for ESG (Environmental, Social, Governance) provis
   Act), ESG reporting obligations, framework compliance (GRI, SASB, TCFD, CSRD/ESRS, ISSB/IFRS S1/S2,
   SBTi), ESG representations and warranties, greenwashing and green claims risk, ESG-linked commercial
   terms and sustainability-linked pricing, ESG material adverse change definitions, biodiversity and circular
-  economy provisions.
+  economy provisions. Use when reviewing commercial contracts, supplier agreements, procurement agreements,
+  partnership agreements, loan agreements, investment agreements, or any contract that contains, should
+  contain, or explicitly lacks ESG provisions.
 ---
 
 ## Using this skill

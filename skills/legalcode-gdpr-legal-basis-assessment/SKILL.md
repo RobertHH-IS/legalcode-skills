@@ -5,8 +5,7 @@ description: Systematically assess the appropriate GDPR Article 6 lawful basis f
   vital interests (Art. 6(1)(d)), public task (Art. 6(1)(e)), and legitimate interests (Art. 6(1)(f)).
   Use when selecting a legal basis for new processing, auditing an existing legal basis for GDPR/UK GDPR
   compliance, refreshing invalidated consent, evaluating basis changes, or building a legal basis register
-  integrated with ROPA requirements. Covers Article 9 special category processing conditions, Article
-  10 criminal conviction and offence data, and children's data under Article 8.
+  integrated with ROPA requirements.
 ---
 
 ## Using this skill

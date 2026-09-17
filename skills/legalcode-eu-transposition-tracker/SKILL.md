@@ -1,12 +1,7 @@
 ---
 name: legalcode-eu-transposition-tracker
-description: 'Maintains the per-Member-State implementation matrix for any EU directive across the 27
-  EU Member States and (where the act is EEA-relevant) the 3 EEA EFTA states (Iceland, Norway, Liechtenstein).
-  Tracks for each MS-directive pair: the National Implementing Measure (NIM) citation in national identifier
-  format (BGBl, JORF, SFS, Dz.U., Stjtíð. A, etc.), transposition status (planned / draft / partial /
-  complete / overdue), notification status to the Commission under Art. 260(3) TFEU, the directive transposition
-  deadline, and links to the national authoritative source (parliament bill page, official journal entry,
-  ministry portal).'
+description: Maintains the per-Member-State implementation matrix for any EU directive across the 27 EU
+  Member States and (where the act is EEA-relevant) the 3 EEA EFTA states (Iceland, Norway, Liechtenstein).
 ---
 
 ## Using this skill

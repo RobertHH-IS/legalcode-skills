@@ -1,12 +1,9 @@
 ---
 name: legalcode-us-delaware-entity-formation
 description: Guide Delaware C-corporation formation end-to-end — Certificate of Incorporation drafting
-  (8 Del. C. § 102), Section 102(b)(7) director and officer exculpation (including 2022 amendment), authorized
-  shares structuring for franchise tax minimization (Authorized Shares vs. Assumed Par Value Capital Method
-  under 8 Del. C. § 503), blank check preferred stock for VC readiness, bylaws adoption under DGCL § 109,
-  initial organizational actions (board and stockholder written consents under §§ 141(f) and 228), registered
-  agent requirements (§ 132), Section 83(b) election timing, 409A valuation sequencing, IP assignment
-  at formation, and multi-state foreign qualification.
+  (8 Del. Use when a founder, startup, legal team, or corporate counsel needs to incorporate a Delaware
+  C-corp, prepare a formation document package, structure authorized capital, understand franchise tax
+  obligations, qualify to do business in another state, or verify a formation checklist is complete.
 ---
 
 ## Using this skill

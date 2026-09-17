@@ -3,9 +3,10 @@ name: legalcode-pl-legal-memorandum
 description: Draft and review Polish law legal memoranda (opinia prawna) covering statutory interpretation
   (wykładnia prawa), Civil Code (Kodeks cywilny, KC) analysis, commercial company law (Kodeks spółek handlowych,
   KSH), administrative law (Kodeks postępowania administracyjnego, KPA), court structure, and precedent
-  treatment. Applies the canonical Polish opinia prawna structure (Przedmiot / Podstawa prawna / Podstawa
-  faktyczna / Analiza prawna / Wnioski / Zastrzeżenia). Consolidates IURA-methodology subsumption analysis
-  with Legalcode quality frameworks.
+  treatment. Use when answering a specific legal question (pytanie prawne) under Polish law, preparing
+  formal legal opinions for corporate clients or regulatory submissions, assessing transaction permissibility,
+  corporate authority, administrative compliance, or contractual validity under Polish law, or reviewing
+  an existing opinia prawna for completeness and analytical quality.
 ---
 
 ## Using this skill

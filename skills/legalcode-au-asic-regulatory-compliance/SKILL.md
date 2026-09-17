@@ -1,7 +1,10 @@
 ---
 name: legalcode-au-asic-regulatory-compliance
 description: Assess compliance with the Australian Securities and Investments Commission (ASIC) regulatory
-  framework.
+  framework. Use when auditing AFS licensees, credit licensees, responsible entities, managed investment
+  scheme operators, securities dealers, superannuation trustees, financial advisers, insurance providers,
+  BNPL providers, or any entity regulated by ASIC under the Corporations Act 2001, ASIC Act 2001, or NCCP
+  Act 2009.
 metadata:
   jurisdiction: Australia
 ---

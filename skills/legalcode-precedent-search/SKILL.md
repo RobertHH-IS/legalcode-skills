@@ -4,11 +4,7 @@ description: Search firm knowledge bases, document repositories, and legal prece
   prior agreements, templates, clauses, memoranda, court filings, transaction documents, and legal positions.
   Use when drafting new contracts and need proven language, advising clients on recurring legal issues
   and need prior advice letters, evaluating counterparty positions against prior deals, building or refreshing
-  a clause library, or identifying subject matter experts within the organization. Covers semantic search
-  by legal concept (not just keyword), multi-dimensional filtering (jurisdiction, counterparty, matter
-  type, practice area, date range, document type), precedent applicability assessment, currency and staleness
-  evaluation, conflicting-positions detection, subject matter expert identification, and privilege and
-  confidentiality handling.
+  a clause library, or identifying subject matter experts within the organization.
 ---
 
 ## Using this skill

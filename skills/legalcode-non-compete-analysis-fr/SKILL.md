@@ -2,12 +2,9 @@
 name: legalcode-non-compete-analysis-fr
 description: Deep enforceability analysis of a French non-compete clause (clause de non-concurrence) against
   the five cumulative Cour de cassation criteria established by the landmark decisions of 10 juillet 2002
-  (Cass. Soc. n° 00-45.135 and 00-45.387). Covers mandatory financial compensation (contrepartie financière)
-  and its calculation basis, collective bargaining agreement (CCN/CBA) overlay including Syntec IDCC 1486,
-  Métallurgie IDCC 3248, and other major sector agreements, geographic and activity scope proportionality,
-  maximum duration, employer renunciation (waiver) mechanics and deadlines, consequences of non-payment
-  and employee breach (Cass. Soc. 24 janvier 2024), and special situations (rupture conventionnelle, licenciement
-  économique, période d'essai, Art. L1224-1 business transfers).
+  (Cass. Use when reviewing a clause de non-concurrence in a French CDI, CDD, severance agreement, or
+  rupture conventionnelle; advising an employer on waiver strategy; or assessing an employee's ability
+  to join a competitor.
 ---
 
 ## Using this skill

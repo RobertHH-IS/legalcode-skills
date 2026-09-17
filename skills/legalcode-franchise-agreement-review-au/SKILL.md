@@ -8,7 +8,8 @@ description: Review franchise agreements for Australian operations against the F
   s 42 prohibition on non-renewal restraints, review significant capital expenditure disclosure (Items
   14(1A), 14(1B) from 1 November 2025), assess early termination compensation obligations (s 43), evaluate
   "reasonable opportunity for return on investment" requirement (s 44), review specific purpose fund obligations,
-  verify 14-day consideration period and cooling-off compliance, and assess ACCC enforcement risk.
+  verify 14-day consideration period and cooling-off compliance, and assess ACCC enforcement risk. Use
+  when reviewing any franchise agreement for operations in Australia.
 metadata:
   jurisdiction: Australia
 ---

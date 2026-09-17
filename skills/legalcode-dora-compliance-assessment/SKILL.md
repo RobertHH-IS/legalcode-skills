@@ -5,9 +5,10 @@ description: 'Assesses EU DORA (Digital Operational Resilience Act, Regulation (
   5–16); ICT-related incident classification and reporting (Chapter III, Articles 17–23); digital operational
   resilience testing including Threat-Led Penetration Testing — TLPT (Chapter IV, Articles 24–27); third-party
   ICT risk management including critical ICT third-party service providers — CTPPs (Chapter V, Articles
-  28–44); and information sharing arrangements (Chapter VI, Article 45). Maps DORA to NIS2 Directive lex
-  specialis, GDPR Article 32, EBA guidelines, and all 27 finalized regulatory and implementing technical
-  standards (RTS/ITS).'
+  28–44); and information sharing arrangements (Chapter VI, Article 45). Use when a financial entity needs
+  to assess DORA compliance posture, prepare for supervisory examination, build a DORA gap remediation
+  roadmap, design incident classification and reporting procedures, prepare TLPT programs, audit third-party
+  ICT contracts for Article 30 mandatory provisions, or build information sharing arrangements.'
 ---
 
 ## Using this skill

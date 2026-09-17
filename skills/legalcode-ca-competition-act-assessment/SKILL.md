@@ -1,13 +1,9 @@
 ---
 name: legalcode-ca-competition-act-assessment
-description: Assess Competition Act (R.S.C., 1985, c. C-34) compliance for Canadian businesses and counsel.
-  Covers criminal cartel offences (price-fixing, market allocation, bid-rigging, wage-fixing, no-poach),
-  civil reviewable matters (abuse of dominance, price maintenance, exclusive dealing, tied selling, refusal
-  to deal), merger notification and substantive review (post-2024 amendments including repealed efficiency
-  defence and rebuttable presumption), deceptive marketing practices (misleading advertising, drip pricing,
-  greenwashing pre-substantiation obligations), Competition Bureau enforcement and investigation procedures,
-  consent agreements, immunity and leniency programs, private rights of action expanded by Bills C-56
-  and C-59, and the section 90.1 non-competitor civil collaboration regime in force December 2024.
+description: Assess Competition Act (R.S.C., 1985, c. Use when advising on competition law risk, building
+  compliance programs, preparing for Bureau investigations, reviewing distribution or franchise agreements,
+  conducting cartel self-audits, assessing merger filing obligations, or responding to Competition Bureau
+  inquiries.
 ---
 
 ## Using this skill

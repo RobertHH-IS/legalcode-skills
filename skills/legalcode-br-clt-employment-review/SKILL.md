@@ -1,14 +1,9 @@
 ---
 name: legalcode-br-clt-employment-review
 description: Reviews Brazilian employment contracts, HR policies, payroll calculations, and termination
-  packages for CLT (Consolidação das Leis do Trabalho) compliance. Covers all contract types (prazo indeterminado,
-  experiência, intermitente, teletrabalho), 13th salary (décimo terceiro salário), férias and dobra de
-  férias, FGTS deposits and multa rescisória, overtime (horas extras) and banco de horas, termination
-  types and calculations (rescisão, aviso prévio proporcional, TRCT), union obligations, and eSocial event
-  deadlines. Applies 2017 Reforma Trabalhista (Lei 13.467/2017) and Lei 14.442/2022 (teletrabalho update).
-  Use when auditing Brazilian employment agreements, reviewing severance packages, validating payroll
-  calculations, assessing vínculo empregatício (misclassification) exposure, or conducting HR compliance
-  reviews for Brazilian operations.
+  packages for CLT (Consolidação das Leis do Trabalho) compliance. Use when auditing Brazilian employment
+  agreements, reviewing severance packages, validating payroll calculations, assessing vínculo empregatício
+  (misclassification) exposure, or conducting HR compliance reviews for Brazilian operations.
 ---
 
 ## Using this skill

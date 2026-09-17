@@ -1,9 +1,8 @@
 ---
 name: legalcode-internal-investigation
-description: 'Guide corporate internal investigations from initial allegation through remediation. Covers:
-  investigation scoping and mandate design; legal hold implementation and litigation-hold notice drafting;
-  investigator selection and independence analysis (in-house vs. outside counsel, conflict screening);
-  attorney-client privilege protection (Upjohn Co. v.'
+description: Guide corporate internal investigations from initial allegation through remediation. Use
+  when receiving an internal allegation or whistleblower complaint, responding to a regulatory inquiry,
+  conducting pre-acquisition due diligence on compliance matters, or building investigation capacity.
 ---
 
 ## Using this skill

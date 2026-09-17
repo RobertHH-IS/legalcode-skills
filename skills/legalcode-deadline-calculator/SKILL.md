@@ -5,9 +5,7 @@ description: Calculate litigation deadlines based on triggering events, applicab
   MSJ oppositions, post-trial motions), appeals windows (FRAP Rule 4 notice of appeal), statute of limitations
   expiry dates with tolling analysis, EEOC charge filing deadlines (180/300 days), FTCA administrative
   claim windows (2 years + 6 months), government tort claims notice requirements, and regulatory filing
-  deadlines. Applies FRCP Rule 6 day-count mechanics including weekend/holiday extensions, service-method
-  additions under Rule 6(d) (2016 amendment), and calendar vs. business day distinctions. Handles multi-jurisdiction
-  deadline tracking for matters pending in multiple courts.
+  deadlines.
 ---
 
 ## Using this skill

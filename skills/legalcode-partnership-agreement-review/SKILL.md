@@ -4,9 +4,9 @@ description: Review partnership agreements — general partnerships (GP), limite
   limited liability partnerships (LLP) — covering capital contributions, profit/loss allocation and distribution
   waterfalls, management authority and reserved matters, partner fiduciary duties, non-compete and non-solicitation
   obligations, admission and withdrawal of partners, dissolution triggers and winding-up procedures, and
-  tax allocation mechanics. Applies RUPA 1997/2013, ULPA 2001, and Delaware DRULPA for US analysis; Partnership
-  Act 1890, Limited Partnership Act 1907, and LLP Act 2000 for UK analysis; and state-based Partnership
-  Acts plus ITAA 1936 Division 5/5A for Australian analysis.
+  tax allocation mechanics. Use when reviewing or negotiating any partnership agreement, joint venture
+  structured as a partnership, fund limited partnership agreement (LPA), LLP members' agreement, family
+  limited partnership (FLP), or professional partnership deed.
 ---
 
 ## Using this skill

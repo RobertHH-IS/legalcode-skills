@@ -3,11 +3,8 @@ name: legalcode-trademark-clearance-search
 description: Conducts comprehensive trademark availability searches including identical mark searches,
   phonetic equivalents, visual similarity analysis, and conceptual similarity assessment across USPTO
   TESS, EUIPO TMView, WIPO Global Brand Database, UKIPO, IP Australia, and IP India databases plus common
-  law sources. Applies likelihood of confusion analysis using DuPont factors (sight, sound, meaning, commercial
-  impression, channels of trade, consumer sophistication, mark fame). Evaluates descriptiveness/genericness
-  risks, surname doctrine, geographic marks, and acquired distinctiveness arguments. Covers goods/services
-  classification strategy across Nice Classification 45 classes (NCL 13-2026). Produces clearance opinion
-  with risk rating (CLEAR/CAUTION/BLOCKED) and alternative mark recommendations.
+  law sources. Use when clearing a new brand name, logo, slogan, or trade dress before filing, launching
+  a product, or expanding into new markets.
 ---
 
 ## Using this skill

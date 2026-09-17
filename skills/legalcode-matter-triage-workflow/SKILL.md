@@ -2,13 +2,7 @@
 name: legalcode-matter-triage-workflow
 description: Route incoming legal requests to the appropriate resource based on matter type, urgency,
   complexity, and organizational risk. Use when a new legal request arrives, when prioritizing a backlog
-  of open matters, or when deciding whether to handle a matter in-house or refer to outside counsel. Covers
-  intake classification across all practice areas (contracts, employment, litigation, regulatory, IP,
-  corporate, real estate, finance, tax), urgency scoring with SLA targets (CRITICAL/HIGH/STANDARD/LOW),
-  complexity assessment (ROUTINE/MODERATE/COMPLEX/BET-THE-COMPANY), resource matching (self-service, paralegal,
-  junior counsel, senior counsel, GC, outside counsel, specialist, ALSP), budget routing with authority
-  levels, and escalation protocols for matters crossing risk thresholds. Supports configurable routing
-  rules by business unit, geography, and matter type.
+  of open matters, or when deciding whether to handle a matter in-house or refer to outside counsel.
 ---
 
 ## Using this skill

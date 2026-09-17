@@ -3,12 +3,7 @@ name: legalcode-data-mapping-workflow
 description: Conduct end-to-end data mapping exercises to build Records of Processing Activities (RoPA)
   compliant with GDPR Article 30, CCPA/CPRA, LGPD, PIPEDA, and APPI. Use when creating or refreshing a
   privacy data inventory, onboarding a new DPO, preparing for a DPIA, responding to a regulator inquiry,
-  conducting a vendor privacy audit, or building breach-response readiness. Covers data inventory methodology
-  (interviews, automated scanning, questionnaires), system-by-system data flow documentation, classification
-  of personal data categories and special categories (GDPR Art. 9), legal basis mapping per processing
-  activity, retention schedule alignment, third-party sharing and cross-border transfer identification,
-  and completeness scoring. Produces machine-readable data maps (structured tables + YAML/JSON hooks)
-  suitable for OneTrust, TrustArc, Privaci, and other privacy management platforms.
+  conducting a vendor privacy audit, or building breach-response readiness.
 ---
 
 ## Using this skill

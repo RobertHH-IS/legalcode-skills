@@ -7,7 +7,9 @@ description: 'Assess EU competition law compliance across all major enforcement 
   gun-jumping, SIEC test, Article 22 post-Illumina/GRAIL), State Aid (Articles 107-109 TFEU, GBER 651/2014,
   De Minimis 2023/2831), dawn raid preparedness (Regulation 1/2003 Article 20, legal privilege, digital
   evidence), and EU leniency programmes (cartel immunity, fine reductions, corporate statements, private
-  damages interaction under Directive 2014/104/EU).'
+  damages interaction under Directive 2014/104/EU). Use when conducting competition law compliance reviews,
+  assessing agreements, evaluating dominance risk, screening M&A transactions, advising on state aid eligibility,
+  preparing for or responding to Commission inspections, or advising on leniency filings.'
 ---
 
 ## Using this skill

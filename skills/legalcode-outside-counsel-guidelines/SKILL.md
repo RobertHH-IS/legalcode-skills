@@ -1,13 +1,9 @@
 ---
 name: legalcode-outside-counsel-guidelines
-description: 'Draft, update, or audit outside counsel guidelines (OCGs) — the overarching billing and
-  conduct policies governing law firm relationships for corporate legal departments. Covers billing rates,
-  staffing requirements, block-billing prohibition, expense policies, budget management, LEDES/UTBMS e-billing
-  compliance, alternative fee arrangements (AFAs), diversity and inclusion reporting, performance scorecards,
-  AI and technology provisions, and enforcement mechanisms. Supports two modes: (1) Draft or update an
-  OCG from scratch for a legal department or organization, and (2) Audit existing outside counsel invoices
-  or billing practices against an established OCG. Jurisdiction-agnostic with [JURISDICTION-SPECIFIC]
-  markers for local billing ethics rules.'
+description: Draft, update, or audit outside counsel guidelines (OCGs) — the overarching billing and conduct
+  policies governing law firm relationships for corporate legal departments. Use when a legal ops team
+  needs an OCG, when an existing OCG needs updating to reflect AFA trends or AI provisions, when a law
+  firm needs to understand client billing expectations, or when invoices are under dispute.
 ---
 
 ## Using this skill

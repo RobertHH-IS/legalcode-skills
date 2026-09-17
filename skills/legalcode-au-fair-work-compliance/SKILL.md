@@ -1,14 +1,12 @@
 ---
 name: legalcode-au-fair-work-compliance
-description: 'Assess compliance with the Fair Work Act 2009 (Cth) — including the 11 National Employment
+description: Assess compliance with the Fair Work Act 2009 (Cth) — including the 11 National Employment
   Standards (NES), modern award coverage and minimum entitlements, enterprise agreement obligations, general
   protections and adverse action exposure, sham contracting risk, termination and unfair dismissal procedural
-  fairness, record-keeping obligations, and FWO enforcement risk profiling. Fully covers the Closing Loopholes
-  Acts (2023–2024): right to disconnect, new casual definition, fixed-term contract limits, wage theft
-  criminalisation (effective 1 January 2025), labour hire same-job-same-pay orders, employee-like platform
-  worker standards, and flexible work request reforms. Generates COMPLIANT / PARTIAL / NON-COMPLIANT findings
-  with CRITICAL / HIGH / MEDIUM / LOW risk tiers, clause-level remediation language with revised drafts,
-  penalty exposure estimates, and a prioritised remediation roadmap.'
+  fairness, record-keeping obligations, and FWO enforcement risk profiling. Use when auditing employment
+  agreements, award compliance, wage and hour practices, casual conversion eligibility, flexible work
+  policies, termination procedures, contractor classification, or any workplace practice for Fair Work
+  Act compliance.
 metadata:
   jurisdiction: Australia
 ---

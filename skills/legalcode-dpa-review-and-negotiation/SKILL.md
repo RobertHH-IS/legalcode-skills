@@ -2,13 +2,10 @@
 name: legalcode-dpa-review-and-negotiation
 description: Review and negotiate Data Processing Agreements (DPAs) clause-by-clause against GDPR Article
   28 mandatory requirements, UK GDPR equivalents, CCPA/CPRA service provider contract provisions, and
-  LGPD operator obligations. Covers subject matter and duration, nature and purpose of processing, data
-  categories and data subject types, controller instructions mechanism, confidentiality of personnel,
-  sub-processor controls (specific and general authorization), security obligations (Art. 32 / technical
-  and organizational measures), data subject rights assistance, DPIA and prior-consultation support, breach
-  notification requirements, audit rights, data return and deletion on termination, and international
-  transfer mechanisms (EU SCCs, UK IDTA, adequacy decisions). GREEN/YELLOW/RED classification with confidence
-  scores, redline suggestions, fallback positions, and negotiation priority tiers.
+  LGPD operator obligations. Use when reviewing a DPA or data processing addendum from a vendor, SaaS
+  provider, or sub-processor; when drafting or negotiating DPA terms as a controller, processor, or sub-processor;
+  when auditing existing DPAs for compliance gaps; or when building a DPA review program across multiple
+  regimes.
 ---
 
 ## Using this skill

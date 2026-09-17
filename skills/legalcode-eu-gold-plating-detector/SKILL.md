@@ -3,11 +3,7 @@ name: legalcode-eu-gold-plating-detector
 description: Detects "gold-plating" in a Member State's National Implementing Measure (NIM) for an EU
   directive — that is, situations where the national text imposes additional scope, requirements, sanctions,
   or deadlines beyond the EU minimum, fails to use available derogations or opt-outs, or omits review
-  and sunset clauses included in the directive. Operates on the published five-category taxonomy from
-  the Commission High Level Group on Administrative Burden (HLG, 2014 conclusions and recommendations
-  on gold-plating) and from the UK BIS Gold-Plating Review (2013). Anchors burden quantification on the
-  German Nationaler Normenkontrollrat (NKR) cost-opinion methodology and the Standard Cost Model (SCM).
-  Cross-references the Austrian Anti-Gold-Plating-Gesetz 2019 (BGBl.
+  and sunset clauses included in the directive.
 ---
 
 ## Using this skill

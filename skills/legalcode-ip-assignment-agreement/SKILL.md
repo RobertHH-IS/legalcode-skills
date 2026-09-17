@@ -5,9 +5,7 @@ description: Review and draft intellectual property assignment agreements transf
   employment contexts (invention assignment clauses, employee IP provisions), contractor engagements (consultant
   IP transfer, freelancer work product), M&A transactions (IP due diligence, founder IP transfer, pre-incorporation
   assignment remediation), technology transfers (source code assignment, software IP, algorithm transfer),
-  and corporate reorganizations (intra-group IP transfer, spin-off IP allocation). Covers assignment vs.
-  license distinction, present vs. future rights assignment language ("hereby assign" vs. "agree to assign"),
-  work-for-hire doctrine (17 USC 101 nine categories, Community for Creative Non-Violence v.
+  and corporate reorganizations (intra-group IP transfer, spin-off IP allocation).
 ---
 
 ## Using this skill

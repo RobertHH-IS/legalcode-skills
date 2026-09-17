@@ -1,13 +1,12 @@
 ---
 name: legalcode-joint-venture-agreement
-description: 'Drafts and reviews joint venture agreements covering governance structure, board composition
+description: Drafts and reviews joint venture agreements covering governance structure, board composition
   and voting thresholds, capital contributions, profit and loss allocation, management rights, deadlock
   resolution mechanisms (Russian roulette, Texas shoot-out, expert determination), non-compete obligations,
   exit strategies (put/call options, ROFO/ROFR, shotgun clauses, tag-along/drag-along), intellectual property
-  ownership and licensing (background IP/foreground IP), and dissolution procedures. Addresses tax structuring
-  implications across entity types. Primary coverage: US (Delaware LLC and C-Corp structures), UK (England
-  and Wales companies/LLPs), EU (cross-border JVs and merger control), and India (Companies Act 2013 /
-  FEMA compliance).'
+  ownership and licensing (background IP/foreground IP), and dissolution procedures. Use when drafting
+  a new JV agreement, reviewing a counterparty's JV draft, structuring a corporate joint venture, evaluating
+  deadlock provisions, or assessing exit mechanism enforceability.
 ---
 
 ## Using this skill

@@ -4,10 +4,7 @@ description: 'Multi-state US breach notification triage covering all 50 states, 
   US Virgin Islands, and American Samoa. Use when a security incident involves personal information of
   US residents and you need to determine notification obligations: which states require notice, to whom,
   by when, with what content, and whether any safe harbor (encryption, good-faith acquisition, HIPAA compliance)
-  applies. Covers the full triage lifecycle — PI definition matching, breach definition analysis, clock-start
-  normalization, notification deadline calculation, AG filing thresholds, notice content requirements,
-  substitute notice triggers, credit monitoring obligations, and federal overlay requirements (HIPAA Breach
-  Notification Rule, GLBA Safeguards Rule, SEC Form 8-K Item 1.05, FCC telecom rules, CIRCIA).'
+  applies.'
 ---
 
 ## Using this skill

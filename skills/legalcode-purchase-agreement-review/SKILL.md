@@ -1,14 +1,7 @@
 ---
 name: legalcode-purchase-agreement-review
 description: Review stock purchase agreements (SPAs) and asset purchase agreements (APAs) clause-by-clause
-  against market standards or a transaction playbook. Analyzes representations and warranties (fundamental
-  vs. general, materiality and knowledge qualifiers, materiality scrape), purchase price adjustment mechanisms
-  (locked box vs. completion accounts, NWC targets, true-up), indemnification mechanics (tipping baskets,
-  true deductibles, caps, survival periods, fraud carve-outs), MAC/MAE clauses and closing conditions,
-  earnout provisions (metrics definition, anti-manipulation covenants, accounting standards, dispute resolution),
-  escrow and holdback arrangements, representations and warranties insurance (RWI/W&I), non-compete and
-  non-solicitation covenants, pre- and post-closing covenants, employee and benefits provisions, and specific
-  indemnities (tax, environmental, pending litigation).
+  against market standards or a transaction playbook.
 ---
 
 ## Using this skill

@@ -1,14 +1,11 @@
 ---
 name: legalcode-venture-financing-br
-description: Brazilian venture financing advisor covering the full lifecycle from pre-seed to exit. Analyze,
-  draft, and review MISTO (Latitud open-source), CICC (Contrato de Investimento em Capital Conversível),
-  and Mútuo Conversível instruments. Assess Ltda vs. S.A. corporate structure selection, Acordo de Quotistas
-  and Acordo de Acionistas terms, FIP (Fundo de Investimento em Participações) fund vehicle structuring
-  under CVM Resolution 175/22 and its Normative Annex IV, Marco Legal das Startups (Lei Complementar 182/2021),
-  CICC legislative framework (PLP 252/2023), CVM sandbox exemptions, IOF tax analysis, LGPD compliance,
-  FGTS equity-compensation interaction, anti-dilution mechanics (broad-based weighted average), liquidation
-  preference (preferência de liquidação), tag-along, drag-along, offshore flip structures, CADE antitrust
-  thresholds, and ABStartups/ABVCAP market standards.
+description: Brazilian venture financing advisor covering the full lifecycle from pre-seed to exit. Use
+  when a lawyer, founder, angel investor, VC fund manager, or in-house counsel asks to review or draft
+  startup investment documents governed by Brazilian law, analyze a Brazilian term sheet, structure a
+  FIP, assess IOF exposure on a convertible loan, advise on MISTO vs. Mútuo Conversível, check CVM compliance
+  for a startup financing round, evaluate a Ltda-to-S.A. transformation, plan an offshore flip, or understand
+  Brazilian venture capital regulatory requirements.
 ---
 
 ## Using this skill

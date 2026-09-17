@@ -3,9 +3,7 @@ name: legalcode-eu-infringement-procedure-tracker
 description: Tracks the infringement-procedure timeline for a Member State / directive pair under TFEU
   Art. 258 (letter of formal notice → reasoned opinion → CJEU referral) and TFEU Art. 260 (judgment compliance,
   second-stage lump-sum and periodic-penalty proceedings, and the post-Lisbon Art. 260(3) first-referral
-  penalty for non-notification of transposition of a legislative directive). Mirrors the procedure for
-  EFTA-pillar EEA States (IS, NO, LI) under the Surveillance and Court Agreement (SCA) Arts. 31–32 before
-  the EFTA Surveillance Authority (ESA) and the EFTA Court.
+  penalty for non-notification of transposition of a legislative directive).
 ---
 
 ## Using this skill

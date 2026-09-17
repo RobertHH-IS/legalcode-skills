@@ -5,7 +5,11 @@ description: 'Review franchise agreements for French operations against the Loi 
   compliance with mandatory 20-day pre-contractual disclosure period, screen for significant imbalance
   (déséquilibre significatif) under Art. L442-1 I(2) Code de commerce, evaluate post-term non-compete
   enforceability under Art. L341-2 (Macron Law 2015: maximum 1 year, limited to premises, indispensable
-  for know-how protection), analyse abrupt termination (rupture brutale) exposure under Art.'
+  for know-how protection), analyse abrupt termination (rupture brutale) exposure under Art. L442-1 II
+  (18-month safe harbour), assess good faith compliance under Art. 1104 Code civil (mandatory, d''ordre
+  public), review competition law compliance under EU VBER 2022/720 (RPM, online sales, territory), evaluate
+  intuitu personae transfer restrictions and pre-emption rights (droit de préemption), and review defect
+  of consent (vice du consentement) exposure for DIP failures.'
 metadata:
   jurisdiction: France
 ---

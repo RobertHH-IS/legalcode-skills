@@ -1,13 +1,8 @@
 ---
 name: legalcode-zoning-land-use-analysis
-description: 'Analyze zoning and land use compliance for any property or development project. Covers permitted
-  use classification (by-right vs. discretionary), conditional/special use permits (CUPs/SUPs), area and
-  use variances, nonconforming use rights (legal nonconforming status, abandonment, expansion), setback
-  and bulk standards, subdivision regulation and platting, development agreements and vesting rights,
-  environmental review (CEQA/NEPA), historic preservation (Section 106 NHPA, UK Planning (Listed Buildings
-  and Conservation Areas) Act 1990), and exaction proportionality (Nollan/Dolan/Koontz/Sheetz). US and
-  UK coverage: US Euclidean zoning, form-based codes, state enabling legislation, California Development
-  Agreements (Gov.'
+description: Analyze zoning and land use compliance for any property or development project. Use when
+  evaluating development feasibility, checking zoning compliance before purchase, assessing variance necessity,
+  analyzing entitlement risk, advising on project approvals, or reviewing planning conditions and obligations.
 ---
 
 ## Using this skill

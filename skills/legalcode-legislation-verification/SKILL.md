@@ -5,9 +5,7 @@ description: Verify cited statutes, regulations, directives, rules, and public g
   output contains citations to legislation and you need to confirm that each provision exists, is currently
   in force (or was in force at the relevant date), has been correctly cited, has not been repealed or
   materially amended since citation, applies to the claimed territory, and actually supports the legal
-  proposition advanced. Covers primary legislation (Acts, codes, statutes), secondary and delegated legislation
-  (Statutory Instruments, regulations, orders, decrees), EU legislation (regulations directly applicable,
-  directives requiring transposition), court procedural rules, and regulatory guidance.
+  proposition advanced.
 ---
 
 ## Using this skill

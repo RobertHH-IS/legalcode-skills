@@ -1,14 +1,7 @@
 ---
 name: legalcode-uk-employment-tribunal-claim
-description: 'Guide UK Employment Tribunal proceedings in England and Wales from ACAS early conciliation
-  through to final remedy calculation. Use for ET1 claim drafting, ET3 response review, time limit analysis,
-  preliminary hearing preparation, disclosure strategy, witness statement advice, hearing tactics, costs
-  risk assessment, and remedy quantification (unfair dismissal basic/compensatory awards, discrimination
-  Vento bands, whistleblowing, equal pay, unlawful deductions). Covers the full tribunal lifecycle: ACAS
-  early conciliation (12-week period from 1 December 2025), ET1/ET3 forms, case management orders, disclosure,
-  Polkey reductions, ACAS uplift/reduction, and Employment Rights Bill 2024-25 reforms. Jurisdiction-specific
-  to England and Wales under the Employment Tribunal (Constitution and Rules of Procedure) Regulations
-  2013 (SI 2013/1237) and Employment Rights Act 1996.'
+description: Guide UK Employment Tribunal proceedings in England and Wales from ACAS early conciliation
+  through to final remedy calculation.
 ---
 
 ## Using this skill

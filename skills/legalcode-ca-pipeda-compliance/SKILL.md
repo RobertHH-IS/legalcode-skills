@@ -1,13 +1,9 @@
 ---
 name: legalcode-ca-pipeda-compliance
-description: Comprehensive PIPEDA compliance assessment for Canadian private-sector organizations. Evaluates
-  organizational practices against all 10 Fair Information Principles (PIPEDA Schedule 1 Clauses 4.1–4.10),
-  the OPC 2019 Meaningful Consent Guidelines, cross-border transfer accountability obligations, individual
-  access and correction rights, and the breach of security safeguards framework (ss.10.1–10.3, SOR/2018-64).
-  Generates a structured compliance gap report with COMPLIANT/PARTIAL/NON-COMPLIANT findings, CRITICAL/
-  HIGH/MEDIUM/LOW risk prioritization, and actionable remediation steps. Covers provincial interaction
-  with BC PIPA (SBC 2003, c.63), Alberta PIPA (SA 2003, c.P-6.5), and Quebec Law 25, and includes a CPPA
-  readiness gap analysis against the proposed Consumer Privacy Protection Act (Bill C-27).
+description: Comprehensive PIPEDA compliance assessment for Canadian private-sector organizations. Use
+  when conducting a PIPEDA compliance audit, preparing for an OPC investigation or complaint, building
+  a privacy management program, onboarding a new line of business or product involving personal information,
+  or assessing compliance exposure before a merger, acquisition, or regulatory engagement in Canada.
 ---
 
 ## Using this skill

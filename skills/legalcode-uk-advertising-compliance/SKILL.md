@@ -7,8 +7,6 @@ description: Review UK advertising and marketing communications for compliance w
   alcohol, gambling, food/nutrition/health, children's advertising, vaping/tobacco, crypto-assets), PECR
   and UK GDPR direct marketing obligations, and the Digital Markets, Competition and Consumers Act 2024
   (DMCCA) consumer protection regime including fake reviews, drip pricing, and subscription contract obligations.
-  Produces COMPLIANT / ADVISORY / NON-COMPLIANT / CRITICAL EXPOSURE findings with prioritised remediation
-  and a Glass Box audit trail.
 ---
 
 ## Using this skill

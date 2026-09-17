@@ -1,10 +1,7 @@
 ---
 name: legalcode-policy-gap-analysis
 description: Compares organizational policies and procedures against applicable regulatory requirements,
-  industry standards, and best practices to identify gaps, conflicts, and areas requiring update. Builds
-  a complete policy inventory; maps required policies across privacy (GDPR Arts. 5/24/32/33/35, CCPA/CPRA,
-  LGPD, DPDP Act 2023, PIPL), cybersecurity (NIS2 Directive 2022/2555 Art. 21, ISO 27001:2022, NIST CSF
-  2.0, HIPAA Security Rule 45 C.F.R.
+  industry standards, and best practices to identify gaps, conflicts, and areas requiring update.
 ---
 
 ## Using this skill

@@ -1,14 +1,7 @@
 ---
 name: legalcode-consumer-lending-compliance
 description: Assess consumer lending programs and loan portfolios for regulatory compliance across the
-  US, UK, and EU. Covers Truth in Lending Act (TILA) / Regulation Z (APR disclosure, ATR/QM rule, HOEPA,
-  TRID), Equal Credit Opportunity Act (ECOA) / Regulation B (adverse action notices, anti-discrimination),
-  Fair Lending (Fair Housing Act, disparate treatment, disparate impact, HMDA), Real Estate Settlement
-  Procedures Act (RESPA) (Section 8 kickback prohibitions, mortgage servicing), state usury laws and rate
-  caps (MLA 36% MAPR, SCRA 6%, NBA preemption), CFPB UDAAP, UK FCA Consumer Credit sourcebook (CONC),
-  Consumer Credit Act 1974 (CCA 1974), FCA Consumer Duty (PS22/9), high-cost short-term credit (HCSTC)
-  price cap, EU Consumer Credit Directive (CCD1 / CCD2 — application November 2026), Mortgage Credit Directive
-  (MCD), and GDPR Article 22 automated credit decisions.
+  US, UK, and EU.
 ---
 
 ## Using this skill

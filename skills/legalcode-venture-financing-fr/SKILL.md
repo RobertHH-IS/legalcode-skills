@@ -1,11 +1,10 @@
 ---
 name: legalcode-venture-financing-fr
-description: 'French venture financing suite covering BSPCE (Art. 163 bis G CGI; 2025 Finance Law reform),
-  BSA (Bons de Souscription d''Actions), SAS structural flexibility (actions de préférence L228-11 to
-  L228-19; pacte d''associés), AMF private placement rules (Art. L411-2 CMF; less than 150 investors;
-  qualified investor exemption), obligations convertibles (OC/OCABSA/BSAR; Arts. L228-91–L228-106 Code
-  de Commerce), and French Tech ecosystem instruments (BPI France; Tibi initiative; French Tech Visa).
-  Use when a founder, investor, or counsel needs to: select BSPCE vs. BSA vs.'
+description: French venture financing suite covering BSPCE (Art. 163 bis G CGI; 2025 Finance Law reform),
+  BSA (Bons de Souscription d'Actions), SAS structural flexibility (actions de préférence L228-11 to L228-19;
+  pacte d'associés), AMF private placement rules (Art. L411-2 CMF; less than 150 investors; qualified
+  investor exemption), obligations convertibles (OC/OCABSA/BSAR; Arts. L228-91–L228-106 Code de Commerce),
+  and French Tech ecosystem instruments (BPI France; Tibi initiative; French Tech Visa).
 ---
 
 ## Using this skill

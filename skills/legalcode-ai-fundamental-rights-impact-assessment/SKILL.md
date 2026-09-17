@@ -1,14 +1,10 @@
 ---
 name: legalcode-ai-fundamental-rights-impact-assessment
-description: 'Conduct Fundamental Rights Impact Assessments (FRIA) as required under EU AI Act Art. 27
-  (Regulation 2024/1689) for deployers of high-risk AI systems. Applies to public authorities deploying
-  any Annex III system (excluding Point 2 critical infrastructure), private entities providing public
-  services (education, healthcare, social services, housing, justice), and financial sector deployers
-  of creditworthiness or insurance-pricing AI. Assesses impact across the full EU Charter of Fundamental
-  Rights: human dignity (Art. 1), privacy and data protection (Arts. 7-8), freedom of expression (Art.
-  11), equality and non-discrimination (Art. 21), rights of the child (Art. 24), rights of the elderly
-  (Art. 25), persons with disabilities (Art. 26), right to good administration (Art. 41), and right to
-  an effective remedy (Art. 47).'
+description: Conduct Fundamental Rights Impact Assessments (FRIA) as required under EU AI Act Art. 27
+  (Regulation 2024/1689) for deployers of high-risk AI systems. Use when a covered deployer must produce
+  a FRIA before first deployment of a high-risk AI system; when performing a pre-deployment rights review
+  of an Annex III AI system; when integrating a FRIA with an existing DPIA; when responding to a market
+  surveillance authority request for FRIA documentation; or when building an organisational FRIA programme.
 ---
 
 ## Using this skill

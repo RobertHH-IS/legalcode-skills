@@ -1,12 +1,8 @@
 ---
 name: legalcode-real-estate-due-diligence
-description: 'Conducts comprehensive real estate due diligence for property acquisitions, financing, development,
-  and disposal transactions. Covers eight workstreams: title examination, survey and boundary review,
-  environmental assessments (Phase I/II ESA), zoning and planning compliance, permit and certificate verification,
-  lease audit, property tax review, and encumbrance identification. Generates a PASS/FLAG/FAIL risk-scored
-  report with priority tiers and actionable remediation recommendations. Use when acquiring commercial
-  or residential property, securing real estate financing, conducting pre-development due diligence, or
-  reviewing a vendor''s due diligence pack.'
+description: Conducts comprehensive real estate due diligence for property acquisitions, financing, development,
+  and disposal transactions. Use when acquiring commercial or residential property, securing real estate
+  financing, conducting pre-development due diligence, or reviewing a vendor's due diligence pack.
 ---
 
 ## Using this skill

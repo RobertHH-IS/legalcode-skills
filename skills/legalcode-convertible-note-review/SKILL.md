@@ -4,10 +4,9 @@ description: Review convertible notes and convertible loan notes (CLNs) for foun
   — covering interest accrual and compounding mechanics, maturity and redemption risk, qualified financing
   definition and threshold, conversion mechanics (discount rate, valuation cap, shadow preferred stock,
   post-money formula), MFN clause analysis, pro-rata rights, prepayment and subordination provisions,
-  events of default, and amendment consent thresholds. Benchmarks every material term against current
-  market standards (NVCA 2025, Carta Q1 2025, Fenwick/Cooley market data) with dual-perspective framing
-  (founder view and investor view for every economic term). Models cap table dilution from interest accrual
-  and conversion across multiple scenarios.
+  events of default, and amendment consent thresholds. Use when reviewing or negotiating a convertible
+  note, convertible loan note, bridge note, or demand note convertible instrument at any stage (pre-seed
+  through Series A bridge).
 ---
 
 ## Using this skill
